@@ -262,6 +262,118 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+      - subcategory:
+        name: GPU Manufacturers
+        items:
+          - item:
+            name: Arm
+            logo: arm.svg
+            crunchbase: https://www.crunchbase.com/organization/arm
+            homepage_url: http://www.arm.com
+            extra:
+              github_org: https://github.com/arm
+            crunchbase_data:
+              name: Arm Holdings
+              description: Arm Holdings is a multinational semiconductor company that designs, produces, and licenses IP for digital electronic product development.
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: http://www.arm.com
+              city: Cambridge
+              region: Cambridgeshire
+              country: United Kingdom
+              twitter: https://www.twitter.com/Arm
+              linkedin: https://www.linkedin.com/company/arm
+              acquisitions:
+                - date: '2004-08-16'
+                  acquiree: Axys Design Automation
+                - date: '2004-08-23'
+                  acquiree: Artisan Components
+                - date: '2011-06-15'
+                  acquiree: Obsidian Software
+                - date: '2011-11-01'
+                  acquiree: Prolific
+                - date: '2013-08-27'
+                  acquiree: Sensinode
+                - date: '2013-12-13'
+                  acquiree: Geomerics
+                - date: '2014-05-29'
+                  acquiree: Duolog Technologies
+                - date: '2015-02-09'
+                  acquiree: Offspark
+                - date: '2015-04-15'
+                  acquiree: Sunrise Micro Devices
+                - date: '2015-04-16'
+                  acquiree: Wicentric
+                - date: '2015-07-30'
+                  acquiree: Sansa Security
+                - date: '2015-10-19'
+                  acquiree: Carbon Design Systems
+                - date: '2016-05-18'
+                  acquiree: Apical
+                - date: '2016-12-16'
+                  acquiree: Allinea Software
+                - date: '2017-02-20'
+                  acquiree: Mistbase
+                - date: '2017-02-22'
+                  acquiree: NextG-Com
+                - date: '2017-07-01'
+                  acquiree: Simulity
+                - date: '2018-06-12'
+                  acquiree: Stream Technologies
+                - date: '2019-01-01'
+                  acquiree: WigWag
+                - date: '2020-06-23'
+                  acquiree: Falanx Microsystems
+              parents: []
+              ticker: ARM
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Analytics
+                - Electronics
+                - Internet of Things
+                - Semiconductor
+                - Software
+            yahoo_finance_data:
+              effective_ticker: ARM
+            image_data:
+              fileName: arm.svg
+              hash: 6+3IduI40xt/Gj1F+5+Tquq3Mr+UYK1r7BkQQDk5ANE=
+            best_practice_data:
+              badge: false
+              percentage: null
+      - subcategory:
+        name: FPGAs
+        items:
+          - item:
+            name: BittWare (Molex)
+            logo: bittware.svg
+            crunchbase: https://www.crunchbase.com/organization/bittware
+            homepage_url: https://www.molex.com
+            crunchbase_data:
+              name: BittWare
+              description: BittWare has designed and deployed high-end signal processing, network processing, and high performance computing board-level solutions.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://www.bittware.com/
+              city: Concord
+              region: New Hampshire
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/bittware/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Computer
+                - Field-Programmable Gate Array (FPGA)
+            image_data:
+              fileName: bitt-ware-molex.svg
+              hash: mk88BjNDUo8rsvuMae5RCtb8fFEdjP8N+si7SM5kHFQ=
+            best_practice_data:
+              badge: false
+              percentage: null
   - category:
     name: Fluids and Chemicals
     subcategories:

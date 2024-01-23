@@ -12,6 +12,24 @@ landscape:
             homepage_url: http://www.intel.com
             extra:
               github_org: https://github.com/intel
+      - subcategory:
+        name: GPU Manufacturers
+        items:
+          - item:
+            name: Arm
+            logo: arm.svg
+            crunchbase: https://www.crunchbase.com/organization/arm
+            homepage_url: http://www.arm.com
+            extra:
+              github_org: https://github.com/arm
+      - subcategory:
+        name: FPGAs
+        items:
+          - item:
+            name: BittWare (Molex)
+            logo: bittware.svg
+            crunchbase: https://www.crunchbase.com/organization/bittware
+            homepage_url: https://www.molex.com
   - category:
     name: Fluids and Chemicals
     subcategories:
