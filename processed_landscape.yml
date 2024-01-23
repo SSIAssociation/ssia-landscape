@@ -342,6 +342,91 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            name: NVidia
+            logo: nvidia.svg
+            crunchbase: https://www.crunchbase.com/organization/nvidia
+            homepage_url: http://nvidia.com
+            second_path: Silicon / DPU Manufacturers
+            extra:
+              github_org: https://github.com/nvidia
+            crunchbase_data:
+              name: NVIDIA
+              description: NVIDIA is a computing platform company operating at the intersection of graphics, HPC, and AI.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.nvidia.com
+              city: Santa Clara
+              region: California
+              country: United States
+              twitter: https://www.twitter.com/nvidia
+              linkedin: https://www.linkedin.com/company/nvidia
+              acquisitions:
+                - date: '2000-12-01'
+                  acquiree: 3Dfx Interactive
+                - date: '2002-07-23'
+                  acquiree: Exluna
+                - date: '2003-08-04'
+                  acquiree: MediaQ,Inc
+                - date: '2004-04-23'
+                  acquiree: iReady
+                - date: '2005-12-14'
+                  acquiree: ULi Electronics
+                - date: '2006-03-22'
+                  acquiree: Hybrid Graphics
+                - date: '2006-11-06'
+                  acquiree: PortalPlayer
+                - date: '2007-12-13'
+                  acquiree: mental images
+                - date: '2008-01-01'
+                  acquiree: Modviz
+                - date: '2008-02-04'
+                  acquiree: AGEIA Technologies
+                - date: '2008-05-23'
+                  acquiree: RayScale
+                - date: '2011-05-09'
+                  acquiree: Icera
+                - date: '2013-07-29'
+                  acquiree: PGI
+                - date: '2015-06-11'
+                  acquiree: TransGaming
+                - date: '2019-03-12'
+                  acquiree: Mellanox Technologies
+                - date: '2019-12-17'
+                  acquiree: Parabricks
+                - date: '2020-03-06'
+                  acquiree: SwiftStack
+                - date: '2020-05-04'
+                  acquiree: Cumulus Networks
+                - date: '2021-06-10'
+                  acquiree: DeepMap
+                - date: '2022-01-10'
+                  acquiree: Bright Computing
+                - date: '2022-03-07'
+                  acquiree: Excelero Storage
+                - date: '2022-05-01'
+                  acquiree: Animatico
+                - date: '2023-02-01'
+                  acquiree: OmniML
+              parents: []
+              ticker: NVDA
+              funding: 4095000000
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Artificial Intelligence (AI)
+                - GPU
+                - Hardware
+                - Software
+                - Virtual Reality
+            yahoo_finance_data:
+              effective_ticker: NVDA
+            image_data:
+              fileName: n-vidia.svg
+              hash: XIKfuShcC2o/KCNPXByLe/K8ybRe2OzqZYweCpnEyS4=
+            best_practice_data:
+              badge: false
+              percentage: null
       - subcategory:
         name: FPGAs
         items:
@@ -371,6 +456,44 @@ landscape:
             image_data:
               fileName: bitt-ware-molex.svg
               hash: mk88BjNDUo8rsvuMae5RCtb8fFEdjP8N+si7SM5kHFQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+      - subcategory:
+        name: DPU Manufacturers
+        items:
+          - item:
+            name: Fungible (Microsoft)
+            logo: fungible.svg
+            crunchbase: https://www.crunchbase.com/organization/fungible-inc
+            homepage_url: https://blogs.microsoft.com/blog/2023/01/09/microsoft-announces-acquisition-of-fungible-to-accelerate-datacenter-innovation/
+            crunchbase_data:
+              name: Fungible
+              description: Fungible creates hardware and software platforms for data centers.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: http://www.fungible.com/
+              city: Santa Clara
+              region: California
+              country: United States
+              twitter: https://twitter.com/fungible_inc
+              linkedin: https://www.linkedin.com/company/fungible-inc.
+              acquisitions:
+                - date: '2020-09-24'
+                  acquiree: Cloudistics
+              parents: []
+              funding: 300429998
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Computer
+                - Data Center
+                - Hardware
+                - Software
+              kind: funding
+            image_data:
+              fileName: fungible-microsoft.svg
+              hash: qZt9D1TT2d/wuL4gAsYewwihB0NnMdfiFaSK9Ja9sBc=
             best_practice_data:
               badge: false
               percentage: null

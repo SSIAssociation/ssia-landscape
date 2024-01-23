@@ -22,6 +22,14 @@ landscape:
             homepage_url: http://www.arm.com
             extra:
               github_org: https://github.com/arm
+          - item:
+            name: NVidia
+            logo: nvidia.svg
+            crunchbase: https://www.crunchbase.com/organization/nvidia
+            homepage_url: http://nvidia.com
+            second_path: Silicon / DPU Manufacturers
+            extra:
+              github_org: https://github.com/nvidia
       - subcategory:
         name: FPGAs
         items:
@@ -30,6 +38,14 @@ landscape:
             logo: bittware.svg
             crunchbase: https://www.crunchbase.com/organization/bittware
             homepage_url: https://www.molex.com
+      - subcategory:
+        name: DPU Manufacturers
+        items:
+          - item:
+            name: Fungible (Microsoft)
+            logo: fungible.svg
+            crunchbase: https://www.crunchbase.com/organization/fungible-inc
+            homepage_url: https://blogs.microsoft.com/blog/2023/01/09/microsoft-announces-acquisition-of-fungible-to-accelerate-datacenter-innovation/
   - category:
     name: Fluids and Chemicals
     subcategories:
