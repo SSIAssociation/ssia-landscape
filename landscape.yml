@@ -13,6 +13,17 @@ landscape:
             extra:
               github_org: https://github.com/intel
   - category:
+    name: Fluids and Chemicals
+    subcategories:
+      - subcategory:
+        name: Dielectrics
+        items:
+          - item:
+            name: 3M
+            logo: 3m.svg
+            crunchbase: https://www.crunchbase.com/organization/3m
+            homepage_url: https://www.3m.com
+  - category:
     name: SSIA Members
     subcategories:
       - subcategory:

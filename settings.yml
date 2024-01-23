@@ -98,6 +98,15 @@ big_picture:
         left: 0
         color: rgb(103,66,18)
         fit_width: true
+      - type: HorizontalCategory
+        category: Fluids and Chemicals
+        rows: 4
+        width: 650
+        height: 150
+        top: 170
+        left: 0
+        color: rgb(103,66,18)
+        fit_width: true
 # test to make sure the build worked. Identify one landscape item that you know will always be there, preferably towards the top of the rendering
 test:
   header: SSI Alliance Interactive Landscape

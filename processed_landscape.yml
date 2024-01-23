@@ -263,6 +263,203 @@ landscape:
               badge: false
               percentage: null
   - category:
+    name: Fluids and Chemicals
+    subcategories:
+      - subcategory:
+        name: Dielectrics
+        items:
+          - item:
+            name: 3M
+            logo: 3m.svg
+            crunchbase: https://www.crunchbase.com/organization/3m
+            homepage_url: https://www.3m.com
+            crunchbase_data:
+              name: 3M
+              description: 3M operates as a diversified technology company.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.3m.com
+              city: Saint Paul
+              region: Minnesota
+              country: United States
+              twitter: https://twitter.com/3M
+              linkedin: https://www.linkedin.com/company/3m
+              acquisitions:
+                - date: '2001-01-16'
+                  acquiree: Robinson Nugent
+                - date: '2001-02-15'
+                  acquiree: MicroTouch Systems, Inc
+                - date: '2003-01-23'
+                  acquiree: Solvay Fluoropolymers
+                - date: '2004-01-01'
+                  acquiree: HighJump Software
+                - date: '2004-01-12'
+                  acquiree: Hornell International
+                - date: '2005-07-25'
+                  acquiree: Mercury Online Solutions
+                - date: '2005-08-02'
+                  acquiree: CUNO
+                - date: '2006-02-28'
+                  acquiree: General Industrial Diamond Company
+                - date: '2006-04-03'
+                  acquiree: OMNII Oral Pharmaceuticals
+                - date: '2006-05-02'
+                  acquiree: SBG
+                - date: '2006-07-10'
+                  acquiree: JJ Converting
+                - date: '2006-07-10'
+                  acquiree: SCC Products, Inc.
+                - date: '2006-08-01'
+                  acquiree: Archon Technologies
+                - date: '2006-08-01'
+                  acquiree: Security Printing and Systems Limited
+                - date: '2006-09-08'
+                  acquiree: Credence Technologies
+                - date: '2006-10-03'
+                  acquiree: Nylonge
+                - date: '2006-10-16'
+                  acquiree: Brontes Technologies
+                - date: '2006-11-19'
+                  acquiree: SoftMed Systems
+                - date: '2006-11-28'
+                  acquiree: Biotrace International
+                - date: '2007-02-01'
+                  acquiree: Accuspray Application Technologies
+                - date: '2007-02-14'
+                  acquiree: Acolyte Biomedica
+                - date: '2007-04-24'
+                  acquiree: Powell
+                - date: '2007-05-01'
+                  acquiree: E Wood Holdings
+                - date: '2007-05-15'
+                  acquiree: DMS Chile
+                - date: '2007-06-06'
+                  acquiree: Diamond Productions
+                - date: '2007-07-31'
+                  acquiree: Rochford Thompson Equipment
+                - date: '2007-10-01'
+                  acquiree: Venture Tape
+                - date: '2007-10-02'
+                  acquiree: Abzil Industria e Comercio
+                - date: '2007-11-01'
+                  acquiree: Lingualcare
+                - date: '2007-11-01'
+                  acquiree: Standard Abrasives
+                - date: '2007-11-05'
+                  acquiree: Unifam
+                - date: '2007-11-09'
+                  acquiree: Bondo
+                - date: '2007-11-15'
+                  acquiree: Aearo Technologies
+                - date: '2008-04-01'
+                  acquiree: Les Entreprises Solumed
+                - date: '2008-07-01'
+                  acquiree: K&H Surface Technologies
+                - date: '2008-07-01'
+                  acquiree: Quest Technology International
+                - date: '2008-07-02'
+                  acquiree: IMTEC Corp.
+                - date: '2008-08-01'
+                  acquiree: TOP-Service für Lingualtechnik
+                - date: '2008-08-28'
+                  acquiree: Polyfoam Products
+                - date: '2008-09-02'
+                  acquiree: Ligacon
+                - date: '2008-09-02'
+                  acquiree: Ligacon - Filtration Supplier
+                - date: '2008-10-01'
+                  acquiree: EMFI SAS
+                - date: '2008-10-01'
+                  acquiree: SAPO S.A.S
+                - date: '2008-10-02'
+                  acquiree: Meguiar’s
+                - date: '2008-11-07'
+                  acquiree: Food Diagnostics
+                - date: '2008-11-25'
+                  acquiree: Grafoplast
+                - date: '2008-12-01'
+                  acquiree: Faab Fabricauto
+                - date: '2008-12-09'
+                  acquiree: ABRASIVOS
+                - date: '2008-12-16'
+                  acquiree: Futuro
+                - date: '2009-07-23'
+                  acquiree: ACE
+                - date: '2009-12-15'
+                  acquiree: Incavas Industria de Cabos e Vassouras
+                - date: '2010-05-28'
+                  acquiree: J.R. Phoenix
+                - date: '2010-06-11'
+                  acquiree: MTI PolyFab
+                - date: '2010-07-06'
+                  acquiree: Dailys
+                - date: '2010-08-30'
+                  acquiree: Cogent Systems
+                - date: '2010-08-31'
+                  acquiree: Attenti
+                - date: '2010-09-30'
+                  acquiree: Ross Reels
+                - date: '2010-10-13'
+                  acquiree: Arizant
+                - date: '2011-01-03'
+                  acquiree: Nida-Core
+                - date: '2011-02-02'
+                  acquiree: Alpha Beta Global Tapes And Adhesives Co
+                - date: '2011-02-17'
+                  acquiree: Hybrivet Systems
+                - date: '2011-04-20'
+                  acquiree: Original Wraps
+                - date: '2011-07-01'
+                  acquiree: Advanced Chemistry & Technology
+                - date: '2011-11-23'
+                  acquiree: Poiesis Informatics
+                - date: '2012-01-03'
+                  acquiree: Avery Dennison - consumer products business
+                - date: '2012-04-10'
+                  acquiree: CodeRyte
+                - date: '2012-06-21'
+                  acquiree: Federal Signal
+                - date: '2012-11-29'
+                  acquiree: Ceradyne
+                - date: '2014-02-21'
+                  acquiree: Treo Solutions
+                - date: '2015-02-19'
+                  acquiree: Ivera Medical
+                - date: '2015-02-23'
+                  acquiree: Polypore - Separations Media Business
+                - date: '2015-06-23'
+                  acquiree: Capital Safety
+                - date: '2016-09-06'
+                  acquiree: Semfinder
+                - date: '2017-03-16'
+                  acquiree: Scott Safety
+                - date: '2017-09-07'
+                  acquiree: Elution Technologies
+                - date: '2018-12-19'
+                  acquiree: M*Modal
+                - date: '2019-05-02'
+                  acquiree: Acelity
+              parents:
+                - https://www.crunchbase.com/organization/3m
+              ticker: MMM
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Automotive
+                - Cleaning Products
+                - Consulting
+                - Electronics
+                - Enterprise Software
+                - Manufacturing
+            yahoo_finance_data:
+              effective_ticker: MMM
+            image_data:
+              fileName: 3-m.svg
+              hash: tExBFVcFCDlLamNtWDX8GNgPUW30Fe4nvYHlQZtXMyI=
+            best_practice_data:
+              badge: false
+              percentage: null
+  - category:
     name: SSIA Members
     subcategories:
       - subcategory:
