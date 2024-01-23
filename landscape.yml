@@ -1,1 +1,20 @@
 landscape:
+  - category:
+    name: Silicon
+    subcategories:
+      - subcategory:
+        name: Archives
+        items:
+          - item:
+            name: Intel
+            logo: intel.svg
+            crunchbase: https://www.crunchbase.com/organization/intel
+            homepage_url: http://www.intel.com
+            extra:
+              github_org: https://github.com/intel
+  - category:
+    name: SSIA Members
+    subcategories:
+      - subcategory:
+        name: Premier
+        items: []
