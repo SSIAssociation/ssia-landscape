@@ -31,6 +31,16 @@ landscape:
             extra:
               github_org: https://github.com/nvidia
       - subcategory:
+        name: CPU Manufacturers
+        items:
+          - item:
+            name: Qualcomm
+            logo: qualcomm.svg
+            crunchbase: https://www.crunchbase.com/organization/qualcomm
+            homepage_url: http://qualcomm.com
+            extra:
+              github_org: https://github.com/qualcomm
+      - subcategory:
         name: FPGAs
         items:
           - item:
@@ -46,6 +56,14 @@ landscape:
             logo: fungible.svg
             crunchbase: https://www.crunchbase.com/organization/fungible-inc
             homepage_url: https://blogs.microsoft.com/blog/2023/01/09/microsoft-announces-acquisition-of-fungible-to-accelerate-datacenter-innovation/
+          - item:
+            name: Xilinx
+            logo: xilinx.svg
+            crunchbase: https://www.crunchbase.com/organization/xilinx
+            homepage_url: https://www.xilinx.com
+            second_path: Silicon / FPGAs
+            extra:
+              github_org: https://github.com/xilinx
   - category:
     name: Fluids and Chemicals
     subcategories:
@@ -57,6 +75,11 @@ landscape:
             logo: 3m.svg
             crunchbase: https://www.crunchbase.com/organization/3m
             homepage_url: https://www.3m.com
+          - item:
+            name: BP Castrol
+            logo: castrol.svg
+            crunchbase: https://www.crunchbase.com/organization/bp-castrol
+            homepage_url: https://www.castrol.com
   - category:
     name: SSIA Members
     subcategories:
