@@ -683,6 +683,106 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            name: Juniper
+            logo: juniper.svg
+            crunchbase: https://www.crunchbase.com/organization/juniper-networks
+            homepage_url: https://juniper.net
+            extra:
+              github_org: https://github.com/Juniper
+            crunchbase_data:
+              name: Juniper Networks
+              description: Juniper Networks is a networking company that markets and develops networking products for enterprise companies.
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: http://www.juniper.net
+              city: Sunnyvale
+              region: California
+              country: United States
+              twitter: http://twitter.com/JuniperNetworks
+              linkedin: https://www.linkedin.com/company/juniper-networks
+              acquisitions:
+                - date: '1999-11-15'
+                  acquiree: Layer Five
+                - date: '2000-01-18'
+                  acquiree: Pacific Advantage Ltd.
+                - date: '2001-12-11'
+                  acquiree: Micro Magic
+                - date: '2001-12-14'
+                  acquiree: Pacific Broadband Communications
+                - date: '2002-07-01'
+                  acquiree: Unisphere Networks
+                - date: '2004-02-10'
+                  acquiree: NetScreen Technologies
+                - date: '2005-03-29'
+                  acquiree: Kagoor Networks
+                - date: '2005-05-05'
+                  acquiree: Redline Networks
+                - date: '2005-07-01'
+                  acquiree: Peribit Networks
+                - date: '2005-10-25'
+                  acquiree: Acorn Packet Solutions
+                - date: '2005-11-14'
+                  acquiree: Funk Software
+                - date: '2010-04-08'
+                  acquiree: Ankeena Networks
+                - date: '2010-07-27'
+                  acquiree: SMobile Systems
+                - date: '2010-11-16'
+                  acquiree: Trapeze Networks
+                - date: '2010-11-18'
+                  acquiree: Blackwave
+                - date: '2010-12-06'
+                  acquiree: Altor Networks
+                - date: '2011-02-21'
+                  acquiree: Brilliant Telecommunications
+                - date: '2012-02-22'
+                  acquiree: Mykonos Software
+                - date: '2012-12-13'
+                  acquiree: Contrail Systems
+                - date: '2013-02-08'
+                  acquiree: Webscreen Technology
+                - date: '2013-12-16'
+                  acquiree: WANDL
+                - date: '2016-04-04'
+                  acquiree: BTI Systems
+                - date: '2016-08-02'
+                  acquiree: Aurrion
+                - date: '2016-12-01'
+                  acquiree: AppFormix
+                - date: '2017-08-31'
+                  acquiree: Cyphort
+                - date: '2018-11-29'
+                  acquiree: HTBASE
+                - date: '2019-03-05'
+                  acquiree: Mist Systems
+                - date: '2020-10-19'
+                  acquiree: 128 Technology
+                - date: '2020-11-25'
+                  acquiree: SISRA
+                - date: '2020-12-07'
+                  acquiree: Apstra
+                - date: '2022-02-14'
+                  acquiree: WiteSand
+              parents: []
+              ticker: JNPR
+              funding: 43004920
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Communication Hardware
+                - DevOps
+                - Information Technology
+                - Infrastructure
+                - Security
+            yahoo_finance_data:
+              effective_ticker: JNPR
+            image_data:
+              fileName: juniper.svg
+              hash: YciAjjODcKA8c4ypWaL6EhgIwds+lfJ16LNSHK9SaMs=
+            best_practice_data:
+              badge: false
+              percentage: null
       - subcategory:
         name: Optics
         items:
@@ -891,6 +991,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/jabil
             homepage_url: https://jabil.com
             extra:
+              subcategory: Silicon Photonics
               github_org: https://github.com/Jabil
             crunchbase_data:
               name: Jabil
@@ -941,6 +1042,52 @@ landscape:
             image_data:
               fileName: jabil.svg
               hash: /qaIDZHP18HkqzfQwY7vRMkNch9IwaWMIpBkOvdsuTg=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Molex
+            logo: molex.svg
+            crunchbase: https://www.crunchbase.com/organization/molex
+            homepage_url: www.molex.com
+            crunchbase_data:
+              name: Molex
+              description: Molex is a supplier of electronic interconnects.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.molex.com
+              city: Lisle
+              region: Illinois
+              country: United States
+              twitter: http://twitter.com/MolexConnectors
+              linkedin: https://www.linkedin.com/company/molex
+              acquisitions:
+                - date: '2004-09-15'
+                  acquiree: INCEP Technologies
+                - date: '2016-04-07'
+                  acquiree: Interconnect Systems
+                - date: '2016-08-17'
+                  acquiree: Phillips-Medisize
+                - date: '2018-05-14'
+                  acquiree: BittWare
+                - date: '2018-09-28'
+                  acquiree: Laird Connectivity
+                - date: '2020-12-17'
+                  acquiree: Fiberguide Industries
+              parents:
+                - https://www.crunchbase.com/organization/koch-industries
+                - https://www.crunchbase.com/organization/koch-real-estate-investments
+              funding: 270634296
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Electronics
+                - Logistics
+                - Manufacturing
+              kind: funding
+            image_data:
+              fileName: molex.svg
+              hash: YsBGdhLFp95WE1uk8i2Qgo8xMwzTtHXEkYEzvJw2jl0=
             best_practice_data:
               badge: false
               percentage: null

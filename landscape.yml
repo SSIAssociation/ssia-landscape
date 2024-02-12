@@ -55,6 +55,13 @@ landscape:
             homepage_url: https://www.arista.com
             extra:
               github_org: https://github.com/aristanetworks
+          - item:
+            name: Juniper
+            logo: juniper.svg
+            crunchbase: https://www.crunchbase.com/organization/juniper-networks
+            homepage_url: https://juniper.net
+            extra:
+              github_org: https://github.com/Juniper
       - subcategory:
         name: Optics
         items:
@@ -77,7 +84,13 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/jabil
             homepage_url: https://jabil.com
             extra:
+              subcategory: Silicon Photonics
               github_org: https://github.com/Jabil
+          - item:
+            name: Molex
+            logo: molex.svg
+            crunchbase: https://www.crunchbase.com/organization/molex
+            homepage_url: https://www.molex.com
   - category:
     name: Silicon
     subcategories:
