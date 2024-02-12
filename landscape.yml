@@ -80,6 +80,26 @@ landscape:
             logo: castrol.svg
             crunchbase: https://www.crunchbase.com/organization/bp-castrol
             homepage_url: https://www.castrol.com
+          - item:
+            name: Lubrizol
+            logo: lubrizol.svg
+            crunchbase: https://www.crunchbase.com/organization/the-lubrizol-corp
+            homepage_url: https://lubrizol.com
+          - item:
+            name: Shell
+            logo: shell.svg
+            crunchbase: https://www.crunchbase.com/organization/shell
+            homepage_url: https://www.shell.com
+      - subcategory:
+        name: Advanced Coatings/Pastes
+        items:
+          - item:
+            name: Maxwell Labs
+            logo: maxwell.svg
+            crunchbase: https://www.crunchbase.com/organization/maxwell-labs
+            homepage_url: https://maxwell-labs.com
+            extra:
+              github_org: https://github.com/maxwell-labs
   - category:
     name: SSIA Members
     subcategories:

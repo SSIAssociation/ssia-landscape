@@ -976,6 +976,118 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            name: Lubrizol
+            logo: lubrizol.svg
+            crunchbase: https://www.crunchbase.com/organization/the-lubrizol-corp
+            homepage_url: https://lubrizol.com
+            crunchbase_data:
+              name: The Lubrizol Corp
+              description: A Berkshire Hathaway company, is a technology-driven global company
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: http://www.lubrizol.com/
+              city: Wickliffe
+              region: Ohio
+              country: United States
+              twitter: http://twitter.com/lubrizolcorp
+              linkedin: https://www.linkedin.com/company/the-lubrizol-corporation
+              acquisitions:
+                - date: '2004-04-16'
+                  acquiree: Noveon
+                - date: '2014-08-01'
+                  acquiree: Vesta
+                - date: '2015-01-05'
+                  acquiree: Warwick Chemicals
+                - date: '2020-08-04'
+                  acquiree: Avid Product Development
+              parents:
+                - https://www.crunchbase.com/organization/berkshire-hathaway-corp
+              ticker: BRKB
+              funding: 1271510000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Chemical
+                - Information Technology
+                - Manufacturing
+                - Medical
+                - Medical Device
+            yahoo_finance_data:
+              effective_ticker: BRKB
+            image_data:
+              fileName: lubrizol.svg
+              hash: opLLH4W2Cs3adLUkAdH7QeGnVHJ0BJGsvyH2IqwSQWg=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Shell
+            logo: shell.svg
+            crunchbase: https://www.crunchbase.com/organization/shell
+            homepage_url: https://www.shell.com
+            crunchbase_data:
+              name: Shell
+              description: Shell is a global energy company with around 87,000 employees in more than 70 countries.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.shell.com
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Energy
+                - Oil and Gas
+                - Sustainability
+            image_data:
+              fileName: shell.svg
+              hash: /fOVHLtWXcQqpNLUDGCqx8XXPov7DCYM3Ig6slaa2Us=
+            best_practice_data:
+              badge: false
+              percentage: null
+      - subcategory:
+        name: Advanced Coatings/Pastes
+        items:
+          - item:
+            name: Maxwell Labs
+            logo: maxwell.svg
+            crunchbase: https://www.crunchbase.com/organization/maxwell-labs
+            homepage_url: https://maxwell-labs.com
+            extra:
+              github_org: https://github.com/maxwell-labs
+            crunchbase_data:
+              name: Maxwell Labs
+              description: Maxwell Labs is pioneering high performance radiative cooling technology for next-generation data centers, transforming heat into light.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://www.maxwell-labs.com/
+              city: Saint Paul
+              region: Minnesota
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/maxwell-labs-inc/
+              acquisitions: []
+              parents: []
+              funding: 1072366
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Hardware
+                - Machine Learning
+                - Mechanical Engineering
+              kind: funding
+            image_data:
+              fileName: maxwell-labs.svg
+              hash: 3bSJcY0+iaVp3BUETNJbE/rI6zwlvaP0EDoyIIJHqP4=
+            best_practice_data:
+              badge: false
+              percentage: null
   - category:
     name: SSIA Members
     subcategories:
