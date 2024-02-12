@@ -1,5 +1,84 @@
 landscape:
   - category:
+    name: Building Management Software
+    subcategories:
+      - subcategory:
+        name: Digital Twin
+        items:
+          - item:
+            name: EkkoSense
+            logo: ekkosense.svg
+            crunchbase: https://www.crunchbase.com/organization/dominion-energy
+            homepage_url: https://www.ekkosense.com
+            extra:
+              github_org: https://github.com/EkkoSense
+          - item:
+            name: Siemens
+            logo: siemens.svg
+            crunchbase: https://www.crunchbase.com/organization/siemens
+            homepage_url: https://www.siemens.com
+            extra:
+              github_org: https://github.com/siemens
+  - category:
+    name: Cloud Computing
+    subcategories:
+      - subcategory:
+        name: IaaS
+        items:
+          - item:
+            name: Kraft Cloud
+            logo: kraftcloud.svg
+            crunchbase: https://www.crunchbase.com/organization/salesforce
+            homepage_url: https://kraft.cloud
+            extra:
+              github_org: https://github.com/kraftcloud
+      - subcategory:
+        name: SaaS
+        items:
+          - item:
+            name: Salesforce
+            logo: salesforce.svg
+            crunchbase: https://www.crunchbase.com/organization/salesforce
+            homepage_url: https://www.salesforce.com
+            extra:
+              github_org: https://github.com/salesforce
+  - category:
+    name: Data Transfer
+    subcategories:
+      - subcategory:
+        name: Ethernet
+        items:
+          - item:
+            name: Arista
+            logo: arista.svg
+            crunchbase: https://www.crunchbase.com/organization/arista-networks
+            homepage_url: https://www.arista.com
+            extra:
+              github_org: https://github.com/aristanetworks
+      - subcategory:
+        name: Optics
+        items:
+          - item:
+            name: Broadcom
+            logo: broadcom.svg
+            crunchbase: https://www.crunchbase.com/organization/broadcom
+            homepage_url: https://www.broadcom.com/
+            second_path: Data Transfer / Ethernet
+            extra:
+              github_org: https://github.com/Broadcom
+          - item:
+            name: Finisar
+            logo: finisar.svg
+            crunchbase: https://www.crunchbase.com/organization/finisar
+            homepage_url: https://finisar.com/
+          - item:
+            name: Jabil
+            logo: jabil.svg
+            crunchbase: https://www.crunchbase.com/organization/jabil
+            homepage_url: https://jabil.com
+            extra:
+              github_org: https://github.com/Jabil
+  - category:
     name: Silicon
     subcategories:
       - subcategory:

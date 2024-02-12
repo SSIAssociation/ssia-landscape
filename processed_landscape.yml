@@ -1,6 +1,950 @@
 # THIS FILE IS GENERATED AUTOMATICALLY!
 landscape:
   - category:
+    name: Building Management Software
+    subcategories:
+      - subcategory:
+        name: Digital Twin
+        items:
+          - item:
+            name: EkkoSense
+            logo: ekkosense.svg
+            crunchbase: https://www.crunchbase.com/organization/dominion-energy
+            homepage_url: https://www.ekkosense.com
+            extra:
+              github_org: https://github.com/EkkoSense
+            crunchbase_data:
+              name: Dominion Energy
+              description: Dominion Energy is committed to safely providing reliable, affordable and sustainable energy and to achieving Net Zero emissions by 2050.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: http://www.dominionenergy.com/
+              city: Richmond
+              region: Virginia
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/dominionenergy
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries: []
+            image_data:
+              fileName: ekko-sense.svg
+              hash: JCjKALLd4M/Dvuq2V7ldj9crJDW12MlYC0Z6Bh60S3o=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Siemens
+            logo: siemens.svg
+            crunchbase: https://www.crunchbase.com/organization/siemens
+            homepage_url: https://www.siemens.com
+            extra:
+              github_org: https://github.com/siemens
+            crunchbase_data:
+              name: Siemens
+              description: Siemens is a technology company that offers cybersecurity, digital consulting, and business services.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.siemens.com
+              city: Munich
+              region: Bayern
+              country: Germany
+              twitter: http://twitter.com/Siemens
+              linkedin: https://www.linkedin.com/company/siemens
+              acquisitions:
+                - date: '1979-01-01'
+                  acquiree: Litronix
+                - date: '1990-05-14'
+                  acquiree: Siemens Nixdorf Informationssysteme AG
+                - date: '1999-03-01'
+                  acquiree: Argon Networks
+                - date: '1999-03-09'
+                  acquiree: Castle Networks
+                - date: '2000-03-14'
+                  acquiree: Entex IT Service
+                - date: '2000-05-02'
+                  acquiree: Siemens Medical Solutions Health Services Corp
+                - date: '2000-09-27'
+                  acquiree: Acuson
+                - date: '2001-12-20'
+                  acquiree: Pointshare
+                - date: '2002-01-02'
+                  acquiree: Efficient Networks
+                - date: '2004-01-12'
+                  acquiree: eShip4u
+                - date: '2004-01-13'
+                  acquiree: IndX Software Corporation
+                - date: '2004-06-01'
+                  acquiree: Trench Electric Holding
+                - date: '2004-12-01'
+                  acquiree: Siemens Wind Power A/S
+                - date: '2004-12-10'
+                  acquiree: Chantry Networks
+                - date: '2005-03-18'
+                  acquiree: CTI Molecular Imaging
+                - date: '2005-03-30'
+                  acquiree: Flender
+                - date: '2005-04-08'
+                  acquiree: Myrio
+                - date: '2005-07-11'
+                  acquiree: Robicon Corp.
+                - date: '2005-09-30'
+                  acquiree: Garderos Software Innovations
+                - date: '2005-11-03'
+                  acquiree: Bewator
+                - date: '2005-12-05'
+                  acquiree: Electrium
+                - date: '2005-12-14'
+                  acquiree: American Electronic Components
+                - date: '2006-04-27'
+                  acquiree: Diagnostic Products Corporation
+                - date: '2006-07-20'
+                  acquiree: Kuehnle Kopp Kausch AG
+                - date: '2006-10-31'
+                  acquiree: VistaScape
+                - date: '2007-01-01'
+                  acquiree: VAI – INGDESI Automation Ltda
+                - date: '2007-01-25'
+                  acquiree: UGS Corp
+                - date: '2007-04-05'
+                  acquiree: IBS
+                - date: '2009-04-01'
+                  acquiree: Elan Software Systems SA
+                - date: '2009-10-15'
+                  acquiree: Solel Solar Systems
+                - date: '2010-10-01'
+                  acquiree: SureGrid
+                - date: '2010-11-15'
+                  acquiree: Site Controls
+                - date: '2011-03-07'
+                  acquiree: Bennex AS
+                - date: '2011-03-07'
+                  acquiree: Poseidon Group AS
+                - date: '2011-07-07'
+                  acquiree: NEM B.V
+                - date: '2011-08-16'
+                  acquiree: Advanced Telemetry
+                - date: '2011-11-09'
+                  acquiree: Vistagy
+                - date: '2011-12-06'
+                  acquiree: eMeter
+                - date: '2012-01-31'
+                  acquiree: RuggedCom
+                - date: '2012-03-20'
+                  acquiree: Expro International - Connectors & Measurements (C&M) Business
+                - date: '2012-04-25'
+                  acquiree: FCE LLC
+                - date: '2012-05-01'
+                  acquiree: Marine Current Turbines
+                - date: '2012-10-02'
+                  acquiree: VRcontext International
+                - date: '2012-11-08'
+                  acquiree: LMS International NV
+                - date: '2012-11-28'
+                  acquiree: Invensys Rail Ltd
+                - date: '2013-06-03'
+                  acquiree: The Preactor Group
+                - date: '2013-07-01'
+                  acquiree: Service Guide, Inc.
+                - date: '2013-12-19'
+                  acquiree: TESIS PLMware GmbH
+                - date: '2014-09-01'
+                  acquiree: Dresser-Rand Group
+                - date: '2014-10-14'
+                  acquiree: Camstar Systems
+                - date: '2015-03-03'
+                  acquiree: Axit AG
+                - date: '2015-07-01'
+                  acquiree: Zenco Systems
+                - date: '2015-07-17'
+                  acquiree: Magazino
+                - date: '2016-01-25'
+                  acquiree: CD-adapco Group
+                - date: '2016-08-02'
+                  acquiree: Materials Solutions
+                - date: '2016-11-14'
+                  acquiree: Mentor Graphics
+                - date: '2017-04-28'
+                  acquiree: HaCon Ingenieurges. mbH
+                - date: '2017-06-23'
+                  acquiree: MRX Technologies Group
+                - date: '2017-08-30'
+                  acquiree: Tass International
+                - date: '2017-11-21'
+                  acquiree: Solido Design Automation
+                - date: '2018-04-05'
+                  acquiree: Agilion GmbH
+                - date: '2018-05-17'
+                  acquiree: J2 Innovations
+                - date: '2018-06-22'
+                  acquiree: Austemper Design Systems
+                - date: '2018-06-26'
+                  acquiree: Comfy
+                - date: '2018-08-01'
+                  acquiree: Mendix
+                - date: '2018-10-04'
+                  acquiree: Electrocon International
+                - date: '2019-06-11'
+                  acquiree: ESTEQ
+                - date: '2019-09-16'
+                  acquiree: Process Systems Enterprise
+                - date: '2019-11-15'
+                  acquiree: MultiMechanics
+                - date: '2020-01-24'
+                  acquiree: Controls and Switchgear
+                - date: '2020-06-24'
+                  acquiree: UltraSoC Technologies
+                - date: '2020-07-15'
+                  acquiree: Avatar Integrated Systems
+                - date: '2021-05-11'
+                  acquiree: Padam
+                - date: '2021-05-12'
+                  acquiree: Fractal Technologies
+                - date: '2021-05-18'
+                  acquiree: SupplyFrame
+                - date: '2021-06-03'
+                  acquiree: Nextflow Software
+                - date: '2022-06-08'
+                  acquiree: Siemens Digital Industries Software
+                - date: '2022-06-09'
+                  acquiree: Senseye
+                - date: '2022-07-18'
+                  acquiree: Zona Technology
+                - date: '2023-05-19'
+                  acquiree: Mass-Tech Controls
+                - date: '2023-08-22'
+                  acquiree: Heliox
+                - date: '2023-11-15'
+                  acquiree: Insight EDA
+                - date: '2023-12-05'
+                  acquiree: Bunt Planet
+              parents: []
+              ticker: SIE.DE
+              funding: 5178048063
+              stockExchange: etr
+              company_type: For Profit
+              industries:
+                - Consulting
+                - Cyber Security
+                - Manufacturing
+                - Real Estate
+            yahoo_finance_data:
+              effective_ticker: SIE.DE
+            image_data:
+              fileName: siemens.svg
+              hash: y/3Ryg8ZD5g91ce/UMwqdXBAyHmjQQkgcUdPt5nd3Dc=
+            best_practice_data:
+              badge: false
+              percentage: null
+  - category:
+    name: Cloud Computing
+    subcategories:
+      - subcategory:
+        name: IaaS
+        items:
+          - item:
+            name: Kraft Cloud
+            logo: kraftcloud.svg
+            crunchbase: https://www.crunchbase.com/organization/salesforce
+            homepage_url: https://kraft.cloud
+            extra:
+              github_org: https://github.com/kraftcloud
+            crunchbase_data:
+              name: Salesforce
+              description: Salesforce is a cloud-based software company that provides customer relationship management software and applications.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.salesforce.com
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://www.twitter.com/salesforce
+              linkedin: https://www.linkedin.com/company/salesforce
+              acquisitions:
+                - date: '2006-04-11'
+                  acquiree: Sendia
+                - date: '2006-08-22'
+                  acquiree: Kieden
+                - date: '2007-04-10'
+                  acquiree: Koral Technologies
+                - date: '2008-08-19'
+                  acquiree: InStranet
+                - date: '2009-12-11'
+                  acquiree: GroupSwim
+                - date: '2009-12-31'
+                  acquiree: Informavores
+                - date: '2010-04-21'
+                  acquiree: Jigsaw
+                - date: '2010-05-28'
+                  acquiree: Sitemasher
+                - date: '2010-09-24'
+                  acquiree: Activa Live
+                - date: '2010-12-08'
+                  acquiree: Heroku
+                - date: '2010-12-21'
+                  acquiree: Etacts
+                - date: '2011-01-06'
+                  acquiree: Dimdim
+                - date: '2011-02-01'
+                  acquiree: Manymoon
+                - date: '2011-03-30'
+                  acquiree: Radian6
+                - date: '2011-05-01'
+                  acquiree: Zorap
+                - date: '2011-08-26'
+                  acquiree: Navajo Systems
+                - date: '2011-09-21'
+                  acquiree: Desk.com
+                - date: '2011-11-14'
+                  acquiree: Model Metrics
+                - date: '2011-12-15'
+                  acquiree: Work.com
+                - date: '2012-05-01'
+                  acquiree: Stypi
+                - date: '2012-06-04'
+                  acquiree: Buddy Media
+                - date: '2012-06-18'
+                  acquiree: ChoicePass
+                - date: '2012-06-25'
+                  acquiree: Thinkfuse
+                - date: '2012-07-09'
+                  acquiree: GoInstant
+                - date: '2012-11-23'
+                  acquiree: Prior Knowledge
+                - date: '2013-02-06'
+                  acquiree: EntropySoft
+                - date: '2013-05-10'
+                  acquiree: Clipboard
+                - date: '2013-06-04'
+                  acquiree: ExactTarget
+                - date: '2013-06-07'
+                  acquiree: EdgeSpring
+                - date: '2013-11-18'
+                  acquiree: Cloud Connect
+                - date: '2014-07-11'
+                  acquiree: RelateIQ
+                - date: '2015-04-01'
+                  acquiree: Toopher
+                - date: '2015-05-29'
+                  acquiree: Tempo AI
+                - date: '2015-07-31'
+                  acquiree: Kerensen Consulting
+                - date: '2015-09-02'
+                  acquiree: AKTA
+                - date: '2015-12-14'
+                  acquiree: MinHash
+                - date: '2015-12-23'
+                  acquiree: SteelBrick
+                - date: '2016-01-22'
+                  acquiree: YOUR SL
+                - date: '2016-02-19'
+                  acquiree: PredictionIO
+                - date: '2016-04-04'
+                  acquiree: MetaMind
+                - date: '2016-05-09'
+                  acquiree: Implisit
+                - date: '2016-06-01'
+                  acquiree: Demandware
+                - date: '2016-07-21'
+                  acquiree: Coolan
+                - date: '2016-08-01'
+                  acquiree: Quip
+                - date: '2016-08-15'
+                  acquiree: BeyondCore
+                - date: '2016-09-07'
+                  acquiree: HeyWire
+                - date: '2016-09-30'
+                  acquiree: gravitytank
+                - date: '2016-10-03'
+                  acquiree: Krux
+                - date: '2016-12-14'
+                  acquiree: Twin Prime
+                - date: '2017-01-25'
+                  acquiree: Sequence
+                - date: '2018-01-08'
+                  acquiree: Attic Labs
+                - date: '2018-03-13'
+                  acquiree: CloudCraze
+                - date: '2018-03-20'
+                  acquiree: MuleSoft
+                - date: '2018-07-17'
+                  acquiree: Datorama
+                - date: '2018-10-05'
+                  acquiree: Rebel
+                - date: '2019-01-01'
+                  acquiree: Diffeo
+                - date: '2019-01-28'
+                  acquiree: Griddable
+                - date: '2019-04-16'
+                  acquiree: Salesforce Foundation
+                - date: '2019-04-17'
+                  acquiree: MapAnything
+                - date: '2019-05-06'
+                  acquiree: Bonobo AI
+                - date: '2019-06-10'
+                  acquiree: Tableau
+                - date: '2019-08-08'
+                  acquiree: ClickSoftware Technologies
+                - date: '2020-02-03'
+                  acquiree: Evergage
+                - date: '2020-02-25'
+                  acquiree: Vlocity
+                - date: '2020-03-02'
+                  acquiree: The CMO Club
+                - date: '2020-09-06'
+                  acquiree: Mobify
+                - date: '2020-12-01'
+                  acquiree: Acumen Solutions
+                - date: '2020-12-01'
+                  acquiree: Slack
+                - date: '2021-09-24'
+                  acquiree: LevelJump
+                - date: '2022-02-02'
+                  acquiree: Atonit
+                - date: '2022-03-01'
+                  acquiree: Troops
+                - date: '2022-04-04'
+                  acquiree: Phennecs
+                - date: '2023-09-21'
+                  acquiree: Airkit
+                - date: '2023-12-18'
+                  acquiree: Spiff
+              parents: []
+              ticker: CRM
+              funding: 65375124
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Apps
+                - CRM
+                - Cloud Computing
+                - Enterprise Software
+                - Information Technology
+                - Mobile Apps
+                - SaaS
+                - Sales Enablement
+                - Software
+                - iOS
+            yahoo_finance_data:
+              effective_ticker: CRM
+            image_data:
+              fileName: kraft-cloud.svg
+              hash: a+33lz2fcuGCavP29oLBaAb2KtSFwCJbNfJ469vvBMg=
+            best_practice_data:
+              badge: false
+              percentage: null
+      - subcategory:
+        name: SaaS
+        items:
+          - item:
+            name: Salesforce
+            logo: salesforce.svg
+            crunchbase: https://www.crunchbase.com/organization/salesforce
+            homepage_url: https://www.salesforce.com
+            extra:
+              github_org: https://github.com/salesforce
+            crunchbase_data:
+              name: Salesforce
+              description: Salesforce is a cloud-based software company that provides customer relationship management software and applications.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.salesforce.com
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://www.twitter.com/salesforce
+              linkedin: https://www.linkedin.com/company/salesforce
+              acquisitions:
+                - date: '2006-04-11'
+                  acquiree: Sendia
+                - date: '2006-08-22'
+                  acquiree: Kieden
+                - date: '2007-04-10'
+                  acquiree: Koral Technologies
+                - date: '2008-08-19'
+                  acquiree: InStranet
+                - date: '2009-12-11'
+                  acquiree: GroupSwim
+                - date: '2009-12-31'
+                  acquiree: Informavores
+                - date: '2010-04-21'
+                  acquiree: Jigsaw
+                - date: '2010-05-28'
+                  acquiree: Sitemasher
+                - date: '2010-09-24'
+                  acquiree: Activa Live
+                - date: '2010-12-08'
+                  acquiree: Heroku
+                - date: '2010-12-21'
+                  acquiree: Etacts
+                - date: '2011-01-06'
+                  acquiree: Dimdim
+                - date: '2011-02-01'
+                  acquiree: Manymoon
+                - date: '2011-03-30'
+                  acquiree: Radian6
+                - date: '2011-05-01'
+                  acquiree: Zorap
+                - date: '2011-08-26'
+                  acquiree: Navajo Systems
+                - date: '2011-09-21'
+                  acquiree: Desk.com
+                - date: '2011-11-14'
+                  acquiree: Model Metrics
+                - date: '2011-12-15'
+                  acquiree: Work.com
+                - date: '2012-05-01'
+                  acquiree: Stypi
+                - date: '2012-06-04'
+                  acquiree: Buddy Media
+                - date: '2012-06-18'
+                  acquiree: ChoicePass
+                - date: '2012-06-25'
+                  acquiree: Thinkfuse
+                - date: '2012-07-09'
+                  acquiree: GoInstant
+                - date: '2012-11-23'
+                  acquiree: Prior Knowledge
+                - date: '2013-02-06'
+                  acquiree: EntropySoft
+                - date: '2013-05-10'
+                  acquiree: Clipboard
+                - date: '2013-06-04'
+                  acquiree: ExactTarget
+                - date: '2013-06-07'
+                  acquiree: EdgeSpring
+                - date: '2013-11-18'
+                  acquiree: Cloud Connect
+                - date: '2014-07-11'
+                  acquiree: RelateIQ
+                - date: '2015-04-01'
+                  acquiree: Toopher
+                - date: '2015-05-29'
+                  acquiree: Tempo AI
+                - date: '2015-07-31'
+                  acquiree: Kerensen Consulting
+                - date: '2015-09-02'
+                  acquiree: AKTA
+                - date: '2015-12-14'
+                  acquiree: MinHash
+                - date: '2015-12-23'
+                  acquiree: SteelBrick
+                - date: '2016-01-22'
+                  acquiree: YOUR SL
+                - date: '2016-02-19'
+                  acquiree: PredictionIO
+                - date: '2016-04-04'
+                  acquiree: MetaMind
+                - date: '2016-05-09'
+                  acquiree: Implisit
+                - date: '2016-06-01'
+                  acquiree: Demandware
+                - date: '2016-07-21'
+                  acquiree: Coolan
+                - date: '2016-08-01'
+                  acquiree: Quip
+                - date: '2016-08-15'
+                  acquiree: BeyondCore
+                - date: '2016-09-07'
+                  acquiree: HeyWire
+                - date: '2016-09-30'
+                  acquiree: gravitytank
+                - date: '2016-10-03'
+                  acquiree: Krux
+                - date: '2016-12-14'
+                  acquiree: Twin Prime
+                - date: '2017-01-25'
+                  acquiree: Sequence
+                - date: '2018-01-08'
+                  acquiree: Attic Labs
+                - date: '2018-03-13'
+                  acquiree: CloudCraze
+                - date: '2018-03-20'
+                  acquiree: MuleSoft
+                - date: '2018-07-17'
+                  acquiree: Datorama
+                - date: '2018-10-05'
+                  acquiree: Rebel
+                - date: '2019-01-01'
+                  acquiree: Diffeo
+                - date: '2019-01-28'
+                  acquiree: Griddable
+                - date: '2019-04-16'
+                  acquiree: Salesforce Foundation
+                - date: '2019-04-17'
+                  acquiree: MapAnything
+                - date: '2019-05-06'
+                  acquiree: Bonobo AI
+                - date: '2019-06-10'
+                  acquiree: Tableau
+                - date: '2019-08-08'
+                  acquiree: ClickSoftware Technologies
+                - date: '2020-02-03'
+                  acquiree: Evergage
+                - date: '2020-02-25'
+                  acquiree: Vlocity
+                - date: '2020-03-02'
+                  acquiree: The CMO Club
+                - date: '2020-09-06'
+                  acquiree: Mobify
+                - date: '2020-12-01'
+                  acquiree: Acumen Solutions
+                - date: '2020-12-01'
+                  acquiree: Slack
+                - date: '2021-09-24'
+                  acquiree: LevelJump
+                - date: '2022-02-02'
+                  acquiree: Atonit
+                - date: '2022-03-01'
+                  acquiree: Troops
+                - date: '2022-04-04'
+                  acquiree: Phennecs
+                - date: '2023-09-21'
+                  acquiree: Airkit
+                - date: '2023-12-18'
+                  acquiree: Spiff
+              parents: []
+              ticker: CRM
+              funding: 65375124
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Apps
+                - CRM
+                - Cloud Computing
+                - Enterprise Software
+                - Information Technology
+                - Mobile Apps
+                - SaaS
+                - Sales Enablement
+                - Software
+                - iOS
+            yahoo_finance_data:
+              effective_ticker: CRM
+            image_data:
+              fileName: salesforce.svg
+              hash: VzJGUzzReyLfhQcbry+Fa4CW2rOQnZ3K6g4DiRpEe2A=
+            best_practice_data:
+              badge: false
+              percentage: null
+  - category:
+    name: Data Transfer
+    subcategories:
+      - subcategory:
+        name: Ethernet
+        items:
+          - item:
+            name: Arista
+            logo: arista.svg
+            crunchbase: https://www.crunchbase.com/organization/arista-networks
+            homepage_url: https://www.arista.com
+            extra:
+              github_org: https://github.com/aristanetworks
+            crunchbase_data:
+              name: Arista Networks
+              description: "Arista Networks is a computer networking\_firm delivering cloud networking solutions for large data center and computer environments."
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://www.arista.com
+              city: Santa Clara
+              region: California
+              country: United States
+              twitter: http://twitter.com/AristaNetworks
+              linkedin: https://www.linkedin.com/company/arista-networks-inc
+              acquisitions:
+                - date: '2018-08-02'
+                  acquiree: Mojo Networks
+                - date: '2018-09-12'
+                  acquiree: Metamako
+                - date: '2020-01-23'
+                  acquiree: Big Switch Networks
+                - date: '2020-09-28'
+                  acquiree: Arista NDR
+                - date: '2022-08-01'
+                  acquiree: Pluribus Networks
+              parents: []
+              ticker: ANET
+              funding: 7400092
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Data Center Automation
+                - Hardware
+                - Information Technology
+                - Software
+            yahoo_finance_data:
+              effective_ticker: ANET
+            image_data:
+              fileName: arista.svg
+              hash: R0MbetQ29XvmnQpB/gPIfJS1C05fj/ADw2d83AlJGpo=
+            best_practice_data:
+              badge: false
+              percentage: null
+      - subcategory:
+        name: Optics
+        items:
+          - item:
+            name: Broadcom
+            logo: broadcom.svg
+            crunchbase: https://www.crunchbase.com/organization/broadcom
+            homepage_url: https://www.broadcom.com/
+            second_path: Data Transfer / Ethernet
+            extra:
+              github_org: https://github.com/Broadcom
+            crunchbase_data:
+              name: Broadcom
+              description: Broadcom is a designer, developer, and global supplier of a broad range of analog and digital semiconductor connectivity solutions.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.broadcom.com
+              city: San Jose
+              region: California
+              country: United States
+              twitter: http://twitter.com/Broadcom
+              linkedin: https://www.linkedin.com/company/broadcom
+              acquisitions:
+                - date: '1999-01-27'
+                  acquiree: Maverick Networks
+                - date: '1999-08-12'
+                  acquiree: Altocom
+                - date: '2000-08-07'
+                  acquiree: Silicon Spice
+                - date: '2000-08-15'
+                  acquiree: NewPort Communications
+                - date: '2000-10-17'
+                  acquiree: Allayer Technologies
+                - date: '2000-11-01'
+                  acquiree: Element 14 Inc
+                - date: '2000-11-07'
+                  acquiree: SiByte
+                - date: '2001-01-06'
+                  acquiree: VisionTech
+                - date: '2001-01-08'
+                  acquiree: ServerWorks
+                - date: '2003-03-03'
+                  acquiree: Gadzoox Network
+                - date: '2004-02-02'
+                  acquiree: RAIDCore
+                - date: '2004-04-07'
+                  acquiree: Sand Video
+                - date: '2004-04-19'
+                  acquiree: WIDCOMM
+                - date: '2004-06-16'
+                  acquiree: Zyray Wireless
+                - date: '2004-09-22'
+                  acquiree: Alphamosaic
+                - date: '2004-10-05'
+                  acquiree: Agere Systems
+                - date: '2005-03-07'
+                  acquiree: Zeevo
+                - date: '2005-07-19'
+                  acquiree: Siliquent Technologies
+                - date: '2005-10-06'
+                  acquiree: Athena Semiconductors
+                - date: '2006-01-23'
+                  acquiree: Sandburst Corporation
+                - date: '2006-11-29'
+                  acquiree: LVL7 Systems
+                - date: '2007-05-03'
+                  acquiree: Octalica
+                - date: '2007-07-12'
+                  acquiree: Global Locate
+                - date: '2009-11-30'
+                  acquiree: DuneNetworks
+                - date: '2010-02-03'
+                  acquiree: Teknovus
+                - date: '2010-06-17'
+                  acquiree: Innovision Research & Technology
+                - date: '2010-10-13'
+                  acquiree: Beceem Communications
+                - date: '2010-10-26'
+                  acquiree: Percello
+                - date: '2010-11-22'
+                  acquiree: Gigle Networks
+                - date: '2011-03-21'
+                  acquiree: Provigent
+                - date: '2011-05-09'
+                  acquiree: SCsquare
+                - date: '2011-09-12'
+                  acquiree: NetLogic Microsystems
+                - date: '2012-03-21'
+                  acquiree: BroadLight
+                - date: '2013-01-30'
+                  acquiree: BroadLogic Network Technologies
+                - date: '2016-05-17'
+                  acquiree: MagnaCom
+                - date: '2016-11-02'
+                  acquiree: Brocade Communications Systems
+                - date: '2019-06-19'
+                  acquiree: ARGON DESIGN LTD
+                - date: '2019-11-01'
+                  acquiree: NortonLifeLock
+                - date: '2019-12-31'
+                  acquiree: Bay Dynamics
+                - date: '2021-12-07'
+                  acquiree: AppNeta
+                - date: '2022-05-26'
+                  acquiree: VMware
+                - date: '2023-06-06'
+                  acquiree: ConnectALL
+              parents: []
+              funding: 0
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Mobile
+                - Semiconductor
+                - Wireless
+            image_data:
+              fileName: broadcom.svg
+              hash: wI+feC6dldvWlBgJNRKDgxcVKyYvl/5u5C7dqVBRmCI=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Finisar
+            logo: finisar.svg
+            crunchbase: https://www.crunchbase.com/organization/finisar
+            homepage_url: https://finisar.com/
+            crunchbase_data:
+              name: Finisar
+              description: Finisar is a technology leader for fiber optic subsystems and network performance test systems.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.finisar.com
+              city: Sunnyvale
+              region: California
+              country: United States
+              twitter: http://twitter.com/Finisar
+              linkedin: https://www.linkedin.com/company/163813
+              acquisitions:
+                - date: '2000-10-18'
+                  acquiree: Sensors Unlimited
+                - date: '2000-11-21'
+                  acquiree: Demeter Technologies
+                - date: '2000-11-21'
+                  acquiree: Shomiti Systems
+                - date: '2000-11-21'
+                  acquiree: Transwave Fiber
+                - date: '2001-03-02'
+                  acquiree: Medusa Technologies
+                - date: '2002-02-05'
+                  acquiree: AIFOtec - Assets
+                - date: '2002-04-24'
+                  acquiree: New Focus - Assets
+                - date: '2003-04-01'
+                  acquiree: Genoa
+                - date: '2004-01-26'
+                  acquiree: Honeywell - VCSEL Optical Products Business
+                - date: '2004-08-10'
+                  acquiree: Data Transit Corporation
+                - date: '2005-01-25'
+                  acquiree: Infineon Technologies - Fiber Optic Transceiver Business
+                - date: '2005-04-07'
+                  acquiree: I-TECH
+                - date: '2005-05-07'
+                  acquiree: InterSAN
+                - date: '2005-12-01'
+                  acquiree: Big Bear Networks - Transponder Assets
+                - date: '2007-03-26'
+                  acquiree: AZNA
+                - date: '2007-04-11'
+                  acquiree: Kodeos Communications
+                - date: '2008-08-29'
+                  acquiree: Optium
+                - date: '2010-09-20'
+                  acquiree: Broadway Networks
+                - date: '2011-07-05'
+                  acquiree: Ignis
+                - date: '2012-07-03'
+                  acquiree: RED-C Optical Networks
+                - date: '2014-01-08'
+                  acquiree: u2t Photonics AG
+                - date: '2014-09-18'
+                  acquiree: LightSmyth Technologies
+              parents: []
+              ticker: FNSR
+              funding: 390000000
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Information Technology
+                - Internet
+                - Manufacturing
+                - Optical Communication
+                - Telecommunications
+                - Wireless
+            yahoo_finance_data:
+              effective_ticker: FNSR
+            image_data:
+              fileName: finisar.svg
+              hash: xqnjq0j6OUX79MeF6WmPyKixlFK+szioikbRbDbAxxY=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Jabil
+            logo: jabil.svg
+            crunchbase: https://www.crunchbase.com/organization/jabil
+            homepage_url: https://jabil.com
+            extra:
+              github_org: https://github.com/Jabil
+            crunchbase_data:
+              name: Jabil
+              description: Jabil is a product solutions company providing comprehensive design, manufacturing, supply chain and product management services.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.jabil.com
+              city: St. Petersburg
+              region: Florida
+              country: United States
+              twitter: https://twitter.com/Jabil
+              linkedin: https://www.linkedin.com/company/jabil
+              acquisitions:
+                - date: '1999-08-05'
+                  acquiree: GET Manufacturing
+                - date: '2006-04-10'
+                  acquiree: Celetronix
+                - date: '2006-11-22'
+                  acquiree: Taiwan Green Point Enterprises
+                - date: '2011-12-01'
+                  acquiree: Telmar Network Technology
+                - date: '2013-02-04'
+                  acquiree: Nypro
+                - date: '2015-03-29'
+                  acquiree: Wolfe Engineering
+                - date: '2015-06-01'
+                  acquiree: Clothing+
+                - date: '2015-08-06'
+                  acquiree: Kasalis
+                - date: '2015-08-10'
+                  acquiree: Shemer Group
+                - date: '2016-12-02'
+                  acquiree: Kuatro Technologies
+                - date: '2021-01-14'
+                  acquiree: Ecologic Brands
+                - date: '2023-11-06'
+                  acquiree: Retronix
+              parents: []
+              ticker: JBL
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Electronics
+                - Hardware
+                - Manufacturing
+            yahoo_finance_data:
+              effective_ticker: JBL
+            image_data:
+              fileName: jabil.svg
+              hash: /qaIDZHP18HkqzfQwY7vRMkNch9IwaWMIpBkOvdsuTg=
+            best_practice_data:
+              badge: false
+              percentage: null
+  - category:
     name: Silicon
     subcategories:
       - subcategory:
