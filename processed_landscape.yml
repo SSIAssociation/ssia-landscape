@@ -1654,6 +1654,40 @@ landscape:
         name: Wooden Structures
         items:
           - item:
+            name: WoodWorks
+            logo: woodworks.svg
+            crunchbase: https://www.crunchbase.com/organization/woodworks
+            homepage_url: https://www.woodworks.org/
+            crunchbase_data:
+              name: WoodWorks
+              description: WoodWorks provides education and free technical support related to the design and engineering.
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: https://www.woodworks.org
+              city: Washington
+              region: District of Columbia
+              country: United States
+              twitter: https://twitter.com/woodworksus
+              linkedin: https://www.linkedin.com/company/woodworks
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Commercial
+                - Construction
+                - Education
+                - Industrial Engineering
+                - Management Consulting
+                - Non Profit
+                - Wood Processing
+            image_data:
+              fileName: wood-works.svg
+              hash: K0QpDNGL8ClKWXW7ncpmjI8pfP6DO2Iehl9/88fxR9I=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Softwood Lumber Board
             logo: softwoord.svg
             crunchbase: https://www.crunchbase.com/organization/softwood-lumber-board
@@ -1695,6 +1729,379 @@ landscape:
             image_data:
               fileName: nyc-mass-timber-lab-studio-nycedc.svg
               hash: sBuxp84YI55JqJ1MwquzvatthlLXAzE+Hc5qrqd5bhU=
+            best_practice_data:
+              badge: false
+              percentage: null
+      - subcategory:
+        name: CRAH/CRAC
+        items:
+          - item:
+            name: Airedale
+            logo: airedale.svg
+            crunchbase: https://www.crunchbase.com/organization/airedale-international-air-conditioning-ltd
+            homepage_url: https://www.airedale.com
+            crunchbase_data:
+              name: Airedale International Air Conditioning Ltd
+              description: Airedale International Air Conditioning Limited designs and manufactures air conditioning products.
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: http://www.airedale.com/web/show
+              city: Leeds
+              region: Leeds
+              country: United Kingdom
+              twitter: https://www.twitter.com/airedaleac
+              linkedin: https://www.linkedin.com/company/airedale-international-air-conditioning-ltd
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Heating, Ventilation, and Air Conditioning (HVAC)
+                - Manufacturing
+            image_data:
+              fileName: airedale.svg
+              hash: RBRPNYzJnxqjOFR4nROQwyLUS7sUkXdDCXORxIbYRjc=
+            best_practice_data:
+              badge: false
+              percentage: null
+      - subcategory:
+        name: Heat Exchangers
+        items:
+          - item:
+            name: Alfa Laval
+            logo: alfa.svg
+            crunchbase: https://www.crunchbase.com/organization/alfa-laval
+            homepage_url: https://www.alfalaval.com
+            crunchbase_data:
+              name: Alfa Laval
+              description: Alfa Laval is a supplier of products and solutions for heat transfer, separation, and fluid handling technologies.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.alfalaval.com
+              city: Lund
+              region: Skane Lan
+              country: Sweden
+              twitter: https://www.twitter.com/alfa_laval
+              linkedin: https://www.linkedin.com/company/alfa-laval/
+              acquisitions:
+                - date: '2010-12-21'
+                  acquiree: Aalborg Industries
+                - date: '2014-04-07'
+                  acquiree: Frank Mohn
+                - date: '2021-01-12'
+                  acquiree: Sandymount Technologies
+                - date: '2021-05-10'
+                  acquiree: StormGeo
+                - date: '2022-03-31'
+                  acquiree: Desmet Ballestra
+                - date: '2022-06-16'
+                  acquiree: Scanjet Marine & Systems
+                - date: '2022-08-04'
+                  acquiree: BunkerMetric
+                - date: '2023-03-22'
+                  acquiree: MPS
+              parents: []
+              ticker: ALFA
+              stockExchange: sto
+              company_type: For Profit
+              industries:
+                - Energy Efficiency
+                - Industrial
+                - Machinery Manufacturing
+                - Mechanical Engineering
+                - Mining
+                - Test and Measurement
+            yahoo_finance_data:
+              effective_ticker: ALFA
+            image_data:
+              fileName: alfa-laval.svg
+              hash: OtvTUqV8ZvcpGOHWsRxhgJlUP5u1gPWNYbPSYqhLuiY=
+            best_practice_data:
+              badge: false
+              percentage: null
+      - subcategory:
+        name: Cooling Towers
+        items:
+          - item:
+            name: American Standard
+            logo: americanstandard.svg
+            crunchbase: https://www.crunchbase.com/organization/american-standard-2f52
+            homepage_url: https://www.americanstandard-us.com
+            crunchbase_data:
+              name: American Standard
+              description: American Standard is an online shop for heating and air conditioning products that suits the indoor environment.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.americanstandardair.com/
+              city: Tyler
+              region: Texas
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/americanstandardair/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - E-Commerce
+                - Electronics
+                - Heating, Ventilation, and Air Conditioning (HVAC)
+                - Solar
+            image_data:
+              fileName: american-standard.svg
+              hash: 4KpG2DpIxycnJ6GkCWvRGa8CK6h6c3BfEDAWJSc0ZuU=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Delta Cooling Towers
+            logo: delta.svg
+            crunchbase: https://www.crunchbase.com/organization/delta-cooling-towers
+            homepage_url: https://deltacooling.com/
+            crunchbase_data:
+              name: Delta Cooling Towers
+              description: Delta Cooling Towers manufactures corrosion proof and low maintenance high density polyethylene cooling towers for critical applications.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: https://deltacooling.com/
+              city: Wharton
+              region: New Jersey
+              country: United States
+              twitter: https://twitter.com/DeltaCTowers
+              linkedin: https://www.linkedin.com/company/delta-cooling-towers-inc-/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Industrial Engineering
+                - Manufacturing
+                - Mechanical Engineering
+            image_data:
+              fileName: delta-cooling-towers.svg
+              hash: vVrZVyqsojYpCO8SN0DY3qDQPkoM+j+RJwZHecoW8mM=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Evapco
+            logo: evapco.svg
+            crunchbase: https://www.crunchbase.com/organization/dominion-energy
+            homepage_url: https://www.evapco.com
+            crunchbase_data:
+              name: Dominion Energy
+              description: Dominion Energy is committed to safely providing reliable, affordable and sustainable energy and to achieving Net Zero emissions by 2050.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: http://www.dominionenergy.com/
+              city: Richmond
+              region: Virginia
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/dominionenergy
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries: []
+            image_data:
+              fileName: evapco.svg
+              hash: wLXCvYEsZu/Kfj7CjYNO232ejZPXH/W0SU2v2r1C8wY=
+            best_practice_data:
+              badge: false
+              percentage: null
+      - subcategory:
+        name: Dry Coolers
+        items:
+          - item:
+            name: Modine
+            logo: modine.svg
+            crunchbase: https://www.crunchbase.com/organization/modine-manufacturing-company
+            homepage_url: https://www.modine.com
+            crunchbase_data:
+              name: Modine Manufacturing Company
+              description: Since 1916, Modine Manufacturing Company has applied innovative thermal technology to meet customer's needs.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.modine.com
+              city: Racine
+              region: Wisconsin
+              country: United States
+              twitter: http://twitter.com/ModineHVAC
+              linkedin: https://www.linkedin.com/company/modine-manufacturing-company
+              acquisitions:
+                - date: '2001-05-11'
+                  acquiree: Thermacore International
+                - date: '2005-05-19'
+                  acquiree: Airedale International Air Conditioning Ltd
+                - date: '2006-05-08'
+                  acquiree: Radiadores Visconde
+                - date: '2012-05-31'
+                  acquiree: Geofinity Manufacturing
+                - date: '2014-02-28'
+                  acquiree: Barkell Ltd
+                - date: '2016-09-06'
+                  acquiree: Luvata -Heat Transfer Solutions
+                - date: '2023-07-06'
+                  acquiree: Napps Technology
+              parents: []
+              ticker: MOD
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Automotive
+                - Manufacturing
+            yahoo_finance_data:
+              effective_ticker: MOD
+            image_data:
+              fileName: modine.svg
+              hash: gHxn0P92qr0U6I+kxo4kf0SOW6Hcc1zgp2sqPY9nz34=
+            best_practice_data:
+              badge: false
+              percentage: null
+      - subcategory:
+        name: Data Compression
+        items:
+          - item:
+            name: OpenMP
+            logo: openmp.svg
+            crunchbase: https://www.crunchbase.com/organization/openmp
+            homepage_url: https://www.openmp.org
+            extra:
+              github_org: https://github.com/OpenMP
+            crunchbase_data:
+              name: OpenMP
+              description: OpenMP is a nonprofit corporation that standardizes directive-based multi-language high-level parallelism.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://www.openmp.org/
+              city: Beaverton
+              region: Oregon
+              country: United States
+              twitter: https://twitter.com/OpenMP_ARB
+              linkedin: https://www.linkedin.com/company/openmp-arb/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Consulting
+                - Information Technology
+                - Software
+            image_data:
+              fileName: open-mp.svg
+              hash: 2qNiT34THGdSDGz8WIBgQBOf9NylYmTeK4/XWtkgLCs=
+            best_practice_data:
+              badge: false
+              percentage: null
+      - subcategory:
+        name: Chillers
+        items:
+          - item:
+            name: Carrier
+            logo: carrier.svg
+            crunchbase: https://www.crunchbase.com/organization/carrier
+            homepage_url: https://www.carrier.com
+            crunchbase_data:
+              name: Carrier
+              description: Carrier is a heating, ventilation, and air conditioning (HVAC), refrigeration, fire, and security technology company.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: https://www.carrier.com.mx/
+              city: Santa Catarina
+              region: Nuevo Leon
+              country: Mexico
+              twitter: https://twitter.com/CarrierMEX
+              linkedin: https://www.linkedin.com/company/carrier-mexico-s-a-de-c-v-/about/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Commercial
+                - Heating, Ventilation, and Air Conditioning (HVAC)
+                - Industrial
+                - Industrial Engineering
+                - Mechanical Engineering
+            image_data:
+              fileName: carrier.svg
+              hash: NKhCPkx73nwvVHlIR00MzxgHLPVSSrO3Fxu0u+QKk1s=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Daikin
+            logo: daikin.svg
+            crunchbase: https://www.crunchbase.com/organization/daikin
+            homepage_url: https://www.daikin.com
+            crunchbase_data:
+              name: Daikin Industries
+              description: Daikin Industries is a provider of commercial and industrial air conditioning systems, humidifiers, refrigeration, ventilation, and more.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.daikin.com/
+              city: Osaka
+              region: Osaka
+              country: Japan
+              twitter: https://twitter.com/daikinindia
+              linkedin: https://www.linkedin.com/company/daikin-industries-ltd./
+              acquisitions:
+                - date: '2006-05-18'
+                  acquiree: O.Y.L. Industries Bhd
+                - date: '2012-08-29'
+                  acquiree: Goodman Global Group
+                - date: '2013-07-25'
+                  acquiree: PT Tatasolusi Pratama
+                - date: '2016-04-27'
+                  acquiree: Zanotti S.p.A.
+                - date: '2019-11-27'
+                  acquiree: BMS Engineering and Trading
+              parents: []
+              ticker: 6367.T
+              stockExchange: tyo
+              company_type: For Profit
+              industries:
+                - Heating, Ventilation, and Air Conditioning (HVAC)
+                - Industrial
+                - Manufacturing
+            yahoo_finance_data:
+              effective_ticker: 6367.T
+            image_data:
+              fileName: daikin.svg
+              hash: WzVkB5iWoMxNsZcvT9sQn6+AGTDubdm+JTVUoG2OAM4=
+            best_practice_data:
+              badge: false
+              percentage: null
+      - subcategory:
+        name: CDUs
+        items:
+          - item:
+            name: Coolcentric
+            logo: coolcentric.svg
+            crunchbase: https://www.crunchbase.com/organization/coolcentric
+            homepage_url: https://www.coolcentric.com
+            crunchbase_data:
+              name: Coolcentric
+              description: Coolcentric delivers the world's most energy and space efficient data center cooling solutions and data center cooling products.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: http://coolcentric.com/
+              city: Marlborough
+              region: Massachusetts
+              country: United States
+              twitter: https://www.twitter.com/coolcentric
+              linkedin: https://www.linkedin.com/company/coolcentric
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Energy
+                - Hardware
+                - Information Technology
+            image_data:
+              fileName: coolcentric.svg
+              hash: ioOe9OyfXC7E/gbrsvgjpGfOk1T2mL6svHtn/Jhkc8w=
             best_practice_data:
               badge: false
               percentage: null

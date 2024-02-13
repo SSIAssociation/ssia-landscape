@@ -206,6 +206,11 @@ landscape:
         name: Wooden Structures
         items:
           - item:
+            name: WoodWorks
+            logo: woodworks.svg
+            crunchbase: https://www.crunchbase.com/organization/woodworks
+            homepage_url: https://www.woodworks.org/
+          - item:
             name: Softwood Lumber Board
             logo: softwoord.svg
             crunchbase: https://www.crunchbase.com/organization/softwood-lumber-board
@@ -216,6 +221,79 @@ landscape:
             organization:
               name: NYC / EDC
             homepage_url: https://www.nycedc.com
+      - subcategory:
+        name: CRAH/CRAC
+        items:
+          - item:
+            name: Airedale
+            logo: airedale.svg
+            crunchbase: https://www.crunchbase.com/organization/airedale-international-air-conditioning-ltd
+            homepage_url: https://www.airedale.com
+      - subcategory:
+        name: Heat Exchangers
+        items:
+          - item:
+            name: Alfa Laval
+            logo: alfa.svg
+            crunchbase: https://www.crunchbase.com/organization/alfa-laval
+            homepage_url: https://www.alfalaval.com
+      - subcategory:
+        name: Cooling Towers
+        items:
+          - item:
+            name: American Standard
+            logo: americanstandard.svg
+            crunchbase: https://www.crunchbase.com/organization/american-standard-2f52
+            homepage_url: https://www.americanstandard-us.com
+          - item:
+            name: Delta Cooling Towers
+            logo: delta.svg
+            crunchbase: https://www.crunchbase.com/organization/delta-cooling-towers
+            homepage_url: https://deltacooling.com/
+          - item:
+            name: Evapco
+            logo: evapco.svg
+            crunchbase: https://www.crunchbase.com/organization/dominion-energy
+            homepage_url: https://www.evapco.com
+      - subcategory:
+        name: Dry Coolers
+        items:
+          - item:
+            name: Modine
+            logo: modine.svg
+            crunchbase: https://www.crunchbase.com/organization/modine-manufacturing-company
+            homepage_url: https://www.modine.com
+      - subcategory:
+        name: Data Compression
+        items:
+          - item:
+            name: OpenMP
+            logo: openmp.svg
+            crunchbase: https://www.crunchbase.com/organization/openmp
+            homepage_url: https://www.openmp.org
+            extra:
+              github_org: https://github.com/OpenMP
+      - subcategory:
+        name: Chillers
+        items:
+          - item:
+            name: Carrier
+            logo: carrier.svg
+            crunchbase: https://www.crunchbase.com/organization/carrier
+            homepage_url: https://www.carrier.com
+          - item:
+            name: Daikin
+            logo: daikin.svg
+            crunchbase: https://www.crunchbase.com/organization/daikin
+            homepage_url: https://www.daikin.com
+      - subcategory:
+        name: CDUs
+        items:
+          - item:
+            name: Coolcentric
+            logo: coolcentric.svg
+            crunchbase: https://www.crunchbase.com/organization/coolcentric
+            homepage_url: https://www.coolcentric.com
   - category:
     name: Silicon
     subcategories:
