@@ -8,28 +8,25 @@ global:
   email: info@www.ssia.org
   self: https://www.crunchbase.com/organization/ssia
   meta:
-    title: 
+    title: null
     fb_admin: alex.contini.94
     description: Filter and sort by GitHub stars, funding, commits, contributors, hq location, and tweets
     twitter: '@PROJECTTWITTER'
-    google_site_verification: 
-    ms_validate: 
+    google_site_verification: null
+    ms_validate: null
   membership: SSIA Members
   flags:
     gray_large_items: true
-# Data for the twitter card
 twitter:
   search: landscape.ssia.org
   url: https://landscape.ssia.org
   text: SSIA Landscape
-# Complete this section for identifying hosted projects of your project, along with member projects
 relation:
   label: SSIA Relation
   url: ssia
   values:
     - id: hosted
       label: SSIA Projects
-      # children to identify maturity levels ( incubation, active, etc ). If there aren't multiple levels, then just complete like below.
       children:
         - id: projects
           label: SSIA Projects
@@ -49,15 +46,12 @@ relation:
     - id: false
       label: Non-SSIA Member Products/Projects
       url: 'no'
-# membership levels
 membership:
-  # category for project members
   Premier:
     name: SSIA
     label: Premier Member
     funding: Premier
     is_large: true
-  # category for LF members
   linux_foundation:
     name: LF
     label: Project
@@ -66,29 +60,23 @@ membership:
   'false':
     funding: 'No'
 home:
-  # update to change the header text
   header: >
     <h1>SSI Alliance Interactive Landscape</h1> The SSIA Landscape (<a target="_blank" href="images/landscape.png">png</a>, <a target="_blank"
     href="images/landscape.pdf">pdf</a>) is dynamically generated below. It is modeled after the <a href="http://landscape.cncf.io">CNCF landscape</a> and based
     on the same open source code.
-  # don't change this
   footer: |
     Crunchbase data is used under license from Crunchbase to CNCF.
-# ads for the landscape. Good opportunity to advertise your project events
-ads:
+ads: null
 presets:
   - url: /format=card-mode&grouping=no&license=open-source&sort=first-commit
     label: Open source cards by age
-# sets the rendering of the landscape
 big_picture:
-  # this is for the main page
   main:
     tab_index: -1
     url: landscape
     name: Landscape
     title: SSIA Landscape
     fullscreen_header: See the interactive landscape at l.ssia.org
-    # add one element for each category in landscape.yml
     elements:
       - type: HorizontalCategory
         category: Building Management Software
@@ -122,20 +110,37 @@ big_picture:
         is_large: true
       - type: HorizontalCategory
         category: Datacenter Construction
-        rows: 6
-        width: 2000
-        height: 300
+        rows: 4
+        width: 1200
+        height: 150
         top: 260
         left: 0
         color: rgb(103,66,18)
         fit_width: true
         is_large: true
-# test to make sure the build worked. Identify one landscape item that you know will always be there, preferably towards the top of the rendering
+      - type: HorizontalCategory
+        category: Datacenter Cooling
+        rows: 2
+        width: 1200
+        height: 150
+        top: 430
+        left: 0
+        color: rgb(103,66,18)
+        fit_width: true
+        is_large: true
+      - type: HorizontalCategory
+        category: Datacenter Operations
+        rows: 2
+        width: 1200
+        height: 150
+        top: 600
+        left: 0
+        color: rgb(103,66,18)
+        fit_width: true
+        is_large: true
 test:
   header: SSI Alliance Interactive Landscape
   section: Non-SSIA Member Products/Projects
-  logo: intel.svg # pick any logo to put here
-# if you have a common view, create a pre-render to speed the render time up
+  logo: intel.svg
 prerender:
-  # good pre-render to always have; embedable member logo list for a website. Renders to /pages/members
   members: /card-mode?category=open-mainframe-project-member-company&grouping=category&embed=yes&style=borderless

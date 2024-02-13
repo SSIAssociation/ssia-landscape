@@ -8,9 +8,9 @@ landscape:
         items:
           - item:
             name: EkkoSense
+            homepage_url: https://www.ekkosense.com
             logo: ekkosense.svg
             crunchbase: https://www.crunchbase.com/organization/dominion-energy
-            homepage_url: https://www.ekkosense.com
             extra:
               github_org: https://github.com/EkkoSense
             crunchbase_data:
@@ -37,9 +37,9 @@ landscape:
               percentage: null
           - item:
             name: Siemens
+            homepage_url: https://www.siemens.com
             logo: siemens.svg
             crunchbase: https://www.crunchbase.com/organization/siemens
-            homepage_url: https://www.siemens.com
             extra:
               github_org: https://github.com/siemens
             crunchbase_data:
@@ -246,9 +246,9 @@ landscape:
         items:
           - item:
             name: Kraft Cloud
+            homepage_url: https://kraft.cloud
             logo: kraftcloud.svg
             crunchbase: https://www.crunchbase.com/organization/salesforce
-            homepage_url: https://kraft.cloud
             extra:
               github_org: https://github.com/kraftcloud
             crunchbase_data:
@@ -440,9 +440,9 @@ landscape:
         items:
           - item:
             name: Salesforce
+            homepage_url: https://www.salesforce.com
             logo: salesforce.svg
             crunchbase: https://www.crunchbase.com/organization/salesforce
-            homepage_url: https://www.salesforce.com
             extra:
               github_org: https://github.com/salesforce
             crunchbase_data:
@@ -637,9 +637,9 @@ landscape:
         items:
           - item:
             name: Arista
+            homepage_url: https://www.arista.com
             logo: arista.svg
             crunchbase: https://www.crunchbase.com/organization/arista-networks
-            homepage_url: https://www.arista.com
             extra:
               github_org: https://github.com/aristanetworks
             crunchbase_data:
@@ -685,9 +685,9 @@ landscape:
               percentage: null
           - item:
             name: Juniper
+            homepage_url: https://juniper.net
             logo: juniper.svg
             crunchbase: https://www.crunchbase.com/organization/juniper-networks
-            homepage_url: https://juniper.net
             extra:
               github_org: https://github.com/Juniper
             crunchbase_data:
@@ -788,10 +788,10 @@ landscape:
         items:
           - item:
             name: Broadcom
+            second_path: Data Transfer / Ethernet
+            homepage_url: https://www.broadcom.com/
             logo: broadcom.svg
             crunchbase: https://www.crunchbase.com/organization/broadcom
-            homepage_url: https://www.broadcom.com/
-            second_path: Data Transfer / Ethernet
             extra:
               github_org: https://github.com/Broadcom
             crunchbase_data:
@@ -906,9 +906,9 @@ landscape:
               percentage: null
           - item:
             name: Finisar
+            homepage_url: https://finisar.com/
             logo: finisar.svg
             crunchbase: https://www.crunchbase.com/organization/finisar
-            homepage_url: https://finisar.com/
             crunchbase_data:
               name: Finisar
               description: Finisar is a technology leader for fiber optic subsystems and network performance test systems.
@@ -987,9 +987,9 @@ landscape:
               percentage: null
           - item:
             name: Jabil
+            homepage_url: https://jabil.com
             logo: jabil.svg
             crunchbase: https://www.crunchbase.com/organization/jabil
-            homepage_url: https://jabil.com
             extra:
               subcategory: Silicon Photonics
               github_org: https://github.com/Jabil
@@ -1047,9 +1047,9 @@ landscape:
               percentage: null
           - item:
             name: Molex
+            homepage_url: https://www.molex.com
             logo: molex.svg
             crunchbase: https://www.crunchbase.com/organization/molex
-            homepage_url: https://www.molex.com
             crunchbase_data:
               name: Molex
               description: Molex is a supplier of electronic interconnects.
@@ -1098,25 +1098,10 @@ landscape:
         name: Carbon Sequestration/Direct Air Capture
         items:
           - item:
-            name: OpenDAC
-            logo: opendac.svg
-            homepage_url: https://open-dac.github.io/
-            organization:
-              name: ODAC23
-            crunchbase_data:
-              name: ODAC23
-              parents: []
-            image_data:
-              fileName: open-dac.svg
-              hash: 2Gp0UCuCJKKMcOw4CeOVYoGsBDY81g3aCrOr2bqQWZo=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Carbon Engineering Ltd.
+            homepage_url: https://carbonengineering.com
             logo: carbonengineering.svg
             crunchbase: https://www.crunchbase.com/organization/carbon-engineering
-            homepage_url: https://carbonengineering.com
             crunchbase_data:
               name: Carbon Engineering
               description: Carbon Engineering uses technology to capture carbon dioxide from the atmosphere and convert it into transportation fuels.
@@ -1147,9 +1132,9 @@ landscape:
               percentage: null
           - item:
             name: Climeworks
+            homepage_url: https://www.climeworks.com
             logo: climeworks.svg
             crunchbase: https://www.crunchbase.com/organization/climeworks
-            homepage_url: https://www.climeworks.com
             crunchbase_data:
               name: Climeworks
               description: Climeworks engages in capturing CO2 from the air via commercial carbon dioxide removal technology.
@@ -1180,10 +1165,10 @@ landscape:
               percentage: null
           - item:
             name: Exxon
+            second_path: Fluids and Chemicals / Dielectrics
+            homepage_url: https://www.exxon.com
             logo: exxon.svg
             crunchbase: https://www.crunchbase.com/organization/dominion-energy
-            homepage_url: https://www.exxon.com
-            second_path: Fluids and Chemicals / Dielectrics
             crunchbase_data:
               name: Dominion Energy
               description: Dominion Energy is committed to safely providing reliable, affordable and sustainable energy and to achieving Net Zero emissions by 2050.
@@ -1208,10 +1193,10 @@ landscape:
               percentage: null
           - item:
             name: Exxon Mobil
-            logo: exxon.svg
-            homepage_url: https://corporate.exxonmobil.com/
-            crunchbase: https://www.crunchbase.com/organization/dominion-energy
             second_path: Fluids and Chemicals / Dielectrics
+            homepage_url: https://corporate.exxonmobil.com/
+            logo: exxon.svg
+            crunchbase: https://www.crunchbase.com/organization/dominion-energy
             crunchbase_data:
               name: Dominion Energy
               description: Dominion Energy is committed to safely providing reliable, affordable and sustainable energy and to achieving Net Zero emissions by 2050.
@@ -1234,13 +1219,83 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            name: OpenDAC
+            homepage_url: https://open-dac.github.io/
+            logo: opendac.svg
+            organization:
+              name: ODAC23
+            crunchbase_data:
+              name: ODAC23
+              parents: []
+            image_data:
+              fileName: open-dac.svg
+              hash: 2Gp0UCuCJKKMcOw4CeOVYoGsBDY81g3aCrOr2bqQWZo=
+            best_practice_data:
+              badge: false
+              percentage: null
       - subcategory:
         name: Electric Construction Equipment
         items:
           - item:
+            name: Doosan
+            homepage_url: https://www.doosan.com
+            logo: doosan.svg
+            crunchbase: https://www.crunchbase.com/organization/dominion-energy
+            crunchbase_data:
+              name: Dominion Energy
+              description: Dominion Energy is committed to safely providing reliable, affordable and sustainable energy and to achieving Net Zero emissions by 2050.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: http://www.dominionenergy.com/
+              city: Richmond
+              region: Virginia
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/dominionenergy
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries: []
+            image_data:
+              fileName: doosan.svg
+              hash: O4Rcgswl1bJoe2PShZoObh4J+XdXHmZxGQgNIVGe9NM=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: JLG Industries
+            homepage_url: https://jlg.com
+            logo: jlg.svg
+            crunchbase: https://www.crunchbase.com/organization/jlg-industries-inc
+            crunchbase_data:
+              name: JLG Industries
+              description: JLG Industries is an American designer, manufacturer and marketer of access equipment.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://www.jlg.com/en
+              city: Mc Connellsburg
+              region: Pennsylvania
+              country: United States
+              twitter: https://twitter.com/jlg_industries
+              linkedin: https://www.linkedin.com/company/jlg-industries
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Manufacturing
+            image_data:
+              fileName: jlg-industries.svg
+              hash: QnWD66yjFafKRwKOc7Sgv8nd1J+N9JMZMcjCKkZQ2Aw=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Oshkosh Corp
-            logo: oshkosh.svg
             homepage_url: https://www.oshkoshcorp.com
+            logo: oshkosh.svg
             crunchbase: https://www.crunchbase.com/organization/oshkosh-corporation
             crunchbase_data:
               name: Oshkosh
@@ -1294,69 +1349,14 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-          - item:
-            name: Doosan
-            logo: doosan.svg
-            crunchbase: https://www.crunchbase.com/organization/dominion-energy
-            homepage_url: https://www.doosan.com
-            crunchbase_data:
-              name: Dominion Energy
-              description: Dominion Energy is committed to safely providing reliable, affordable and sustainable energy and to achieving Net Zero emissions by 2050.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: http://www.dominionenergy.com/
-              city: Richmond
-              region: Virginia
-              country: United States
-              twitter: null
-              linkedin: https://www.linkedin.com/company/dominionenergy
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: ''
-              industries: []
-            image_data:
-              fileName: doosan.svg
-              hash: O4Rcgswl1bJoe2PShZoObh4J+XdXHmZxGQgNIVGe9NM=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: JLG Industries
-            logo: jlg.svg
-            crunchbase: https://www.crunchbase.com/organization/jlg-industries-inc
-            homepage_url: https://jlg.com
-            crunchbase_data:
-              name: JLG Industries
-              description: JLG Industries is an American designer, manufacturer and marketer of access equipment.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: http://www.jlg.com/en
-              city: Mc Connellsburg
-              region: Pennsylvania
-              country: United States
-              twitter: https://twitter.com/jlg_industries
-              linkedin: https://www.linkedin.com/company/jlg-industries
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Manufacturing
-            image_data:
-              fileName: jlg-industries.svg
-              hash: QnWD66yjFafKRwKOc7Sgv8nd1J+N9JMZMcjCKkZQ2Aw=
-            best_practice_data:
-              badge: false
-              percentage: null
       - subcategory:
         name: Modular DC
         items:
           - item:
             name: Eclairion/CGG
+            homepage_url: https://www.cgg.com
             logo: cgg.svg
             crunchbase: https://www.crunchbase.com/organization/dominion-energy
-            homepage_url: https://www.cgg.com
             crunchbase_data:
               name: Dominion Energy
               description: Dominion Energy is committed to safely providing reliable, affordable and sustainable energy and to achieving Net Zero emissions by 2050.
@@ -1384,9 +1384,9 @@ landscape:
         items:
           - item:
             name: HKS
+            homepage_url: https://hksinc.com
             logo: hks.svg
             crunchbase: https://www.crunchbase.com/organization/hks
-            homepage_url: https://hksinc.com
             crunchbase_data:
               name: HKS
               description: HKS provides services in risk management, investment calculation, customer management, controlling, and business reporting.
@@ -1416,43 +1416,10 @@ landscape:
         name: Waste Recycling
         items:
           - item:
-            name: Wisetek
-            logo: wisetek.svg
-            crunchbase: https://www.crunchbase.com/organization/wisetek
-            homepage_url: https://www.wisetek.net
-            crunchbase_data:
-              name: WiseTek
-              description: WiseTek is a medical device company specialized in developing disposable visualization systems.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: http://www.ws-medical.com
-              city: Yinzhou
-              region: Zhejiang
-              country: China
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              funding: 437701
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Electronics
-                - Health Care
-                - Medical Device
-                - Video
-              kind: funding
-            image_data:
-              fileName: wisetek.svg
-              hash: 7n8WFHNs19ibKx+hpSX7GmnGdxl2XeqvwGAntoIgqdk=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: ITRenew
+            homepage_url: https://itrenew.com
             logo: itrenew.svg
             crunchbase: https://www.crunchbase.com/organization/itrenew
-            homepage_url: https://itrenew.com
             extra:
               github_org: https://github.com/ITRenew
             crunchbase_data:
@@ -1488,9 +1455,9 @@ landscape:
               percentage: null
           - item:
             name: Mint Innovation
+            homepage_url: https://www.mint.bio/
             logo: mint.svg
             crunchbase: https://www.crunchbase.com/organization/mint-innovation
-            homepage_url: https://www.mint.bio/
             crunchbase_data:
               name: Mint Innovation
               description: Developing a biometallurgical processes that use microbes to capture value from metal waste streams while mitigating environmental harm.
@@ -1516,14 +1483,143 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            name: Wisetek
+            homepage_url: https://www.wisetek.net
+            logo: wisetek.svg
+            crunchbase: https://www.crunchbase.com/organization/wisetek
+            crunchbase_data:
+              name: WiseTek
+              description: WiseTek is a medical device company specialized in developing disposable visualization systems.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://www.ws-medical.com
+              city: Yinzhou
+              region: Zhejiang
+              country: China
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              funding: 437701
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Electronics
+                - Health Care
+                - Medical Device
+                - Video
+              kind: funding
+            image_data:
+              fileName: wisetek.svg
+              hash: 7n8WFHNs19ibKx+hpSX7GmnGdxl2XeqvwGAntoIgqdk=
+            best_practice_data:
+              badge: false
+              percentage: null
       - subcategory:
         name: Green Concrete
         items:
           - item:
+            name: Minus Materials
+            homepage_url: https://minusmaterials.com
+            logo: minusmaterials.svg
+            crunchbase: https://www.crunchbase.com/organization/minus-materials
+            crunchbase_data:
+              name: Minus Materials
+              description: Minus Materials grows carbon-negative, biorenewable limestone using microalgae
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://www.minusmaterials.com/
+              city: Boulder
+              region: Colorado
+              country: United States
+              twitter: https://twitter.com/MinusMaterials
+              linkedin: https://www.linkedin.com/company/minus-materials
+              acquisitions: []
+              parents: []
+              funding: 275000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Building Material
+                - Construction
+                - Manufacturing
+                - Product Research
+              kind: funding
+            image_data:
+              fileName: minus-materials.svg
+              hash: 0hGHuNq+9BTgwiFGyv0d+fd25osHe0VfP4aAL38Pmng=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Ozinga
+            homepage_url: https://www.ozinga.com
+            logo: ozinga.svg
+            crunchbase: https://www.crunchbase.com/organization/ozinga
+            crunchbase_data:
+              name: Ozinga
+              description: Ozinga provides an assortment of ready mix, sustainable and specialty concrete products, as well as various concrete add-ons and supplies.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: https://www.ozinga.com/
+              city: Mokena
+              region: Illinois
+              country: United States
+              twitter: https://www.twitter.com/ozinga
+              linkedin: https://www.linkedin.com/company/ozinga
+              acquisitions:
+                - date: '2017-05-22'
+                  acquiree: Banaszak Concrete
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Logistics
+                - Real Estate
+            image_data:
+              fileName: ozinga.svg
+              hash: i4tl8H6ahdJCkicaF1GLrVXOprFt0FMW5lTGlTSlCTc=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Prometheus Materials
+            homepage_url: https://www.prometheusmaterials.com
+            logo: prometheus.svg
+            crunchbase: https://www.crunchbase.com/organization/prometheus-materials
+            crunchbase_data:
+              name: Prometheus Materials
+              description: Prometheus Materials develops bio-cement with zero carbon emissions to reduce the global CO2 emissions.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://www.prometheusmaterials.com
+              city: Boulder
+              region: Colorado
+              country: United States
+              twitter: https://twitter.com/LoseTheCarbon
+              linkedin: https://www.linkedin.com/company/prometheus-materials
+              acquisitions: []
+              parents: []
+              funding: 8000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Advanced Materials
+                - Green Building
+                - Sustainability
+              kind: funding
+            image_data:
+              fileName: prometheus-materials.svg
+              hash: fMRNd6p0iFczlN3rnkrJvU9viI8QeMGyGJdd98UbTjs=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Solidia Technologies
+            homepage_url: https://www.solidiatech.com
             logo: solidia.svg
             crunchbase: https://www.crunchbase.com/organization/solidia-technologies
-            homepage_url: https://www.solidiatech.com
             crunchbase_data:
               name: Solidia Technologies
               description: "Solidia Technologies is a tech\_firm that makes it profitable to use CO₂ for manufacturing\_construction and industrial products."
@@ -1554,110 +1650,59 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-          - item:
-            name: Ozinga
-            logo: ozinga.svg
-            crunchbase: https://www.crunchbase.com/organization/ozinga
-            homepage_url: https://www.ozinga.com
-            crunchbase_data:
-              name: Ozinga
-              description: Ozinga provides an assortment of ready mix, sustainable and specialty concrete products, as well as various concrete add-ons and supplies.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: https://www.ozinga.com/
-              city: Mokena
-              region: Illinois
-              country: United States
-              twitter: https://www.twitter.com/ozinga
-              linkedin: https://www.linkedin.com/company/ozinga
-              acquisitions:
-                - date: '2017-05-22'
-                  acquiree: Banaszak Concrete
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Logistics
-                - Real Estate
-            image_data:
-              fileName: ozinga.svg
-              hash: i4tl8H6ahdJCkicaF1GLrVXOprFt0FMW5lTGlTSlCTc=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Prometheus Materials
-            logo: prometheus.svg
-            crunchbase: https://www.crunchbase.com/organization/prometheus-materials
-            homepage_url: https://www.prometheusmaterials.com
-            crunchbase_data:
-              name: Prometheus Materials
-              description: Prometheus Materials develops bio-cement with zero carbon emissions to reduce the global CO2 emissions.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://www.prometheusmaterials.com
-              city: Boulder
-              region: Colorado
-              country: United States
-              twitter: https://twitter.com/LoseTheCarbon
-              linkedin: https://www.linkedin.com/company/prometheus-materials
-              acquisitions: []
-              parents: []
-              funding: 8000000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Advanced Materials
-                - Green Building
-                - Sustainability
-              kind: funding
-            image_data:
-              fileName: prometheus-materials.svg
-              hash: fMRNd6p0iFczlN3rnkrJvU9viI8QeMGyGJdd98UbTjs=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Minus Materials
-            logo: minusmaterials.svg
-            crunchbase: https://www.crunchbase.com/organization/minus-materials
-            homepage_url: https://minusmaterials.com
-            crunchbase_data:
-              name: Minus Materials
-              description: Minus Materials grows carbon-negative, biorenewable limestone using microalgae
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://www.minusmaterials.com/
-              city: Boulder
-              region: Colorado
-              country: United States
-              twitter: https://twitter.com/MinusMaterials
-              linkedin: https://www.linkedin.com/company/minus-materials
-              acquisitions: []
-              parents: []
-              funding: 275000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Building Material
-                - Construction
-                - Manufacturing
-                - Product Research
-              kind: funding
-            image_data:
-              fileName: minus-materials.svg
-              hash: 0hGHuNq+9BTgwiFGyv0d+fd25osHe0VfP4aAL38Pmng=
-            best_practice_data:
-              badge: false
-              percentage: null
       - subcategory:
         name: Wooden Structures
         items:
           - item:
+            name: NYC Mass Timber Lab/Studio (NYCEDC)
+            homepage_url: https://www.nycedc.com
+            logo: masstimber.svg
+            organization:
+              name: NYC / EDC
+            crunchbase_data:
+              name: NYC / EDC
+              parents: []
+            image_data:
+              fileName: nyc-mass-timber-lab-studio-nycedc.svg
+              hash: sBuxp84YI55JqJ1MwquzvatthlLXAzE+Hc5qrqd5bhU=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Softwood Lumber Board
+            homepage_url: https://www.softwoodlumberboard.org
+            logo: softwoord.svg
+            crunchbase: https://www.crunchbase.com/organization/softwood-lumber-board
+            crunchbase_data:
+              name: Softwood Lumber Board
+              description: Softwood Lumber Board is an industry funded initiative established to promote the benefits and uses of softwood lumber products.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://softwoodlumberboard.org/
+              city: West Linn
+              region: Oregon
+              country: United States
+              twitter: https://twitter.com/lumberboard
+              linkedin: https://www.linkedin.com/company/softwoodlumberboard/
+              acquisitions: []
+              parents: []
+              funding: 384000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Building Material
+              kind: funding
+            image_data:
+              fileName: softwood-lumber-board.svg
+              hash: PhrIYApw4o3a5w1uKodeFes7tNjyNHTDHlhPHqpWAMY=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: WoodWorks
+            homepage_url: https://www.woodworks.org/
             logo: woodworks.svg
             crunchbase: https://www.crunchbase.com/organization/woodworks
-            homepage_url: https://www.woodworks.org/
             crunchbase_data:
               name: WoodWorks
               description: WoodWorks provides education and free technical support related to the design and engineering.
@@ -1687,87 +1732,17 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-          - item:
-            name: Softwood Lumber Board
-            logo: softwoord.svg
-            crunchbase: https://www.crunchbase.com/organization/softwood-lumber-board
-            homepage_url: https://www.softwoodlumberboard.org
-            crunchbase_data:
-              name: Softwood Lumber Board
-              description: Softwood Lumber Board is an industry funded initiative established to promote the benefits and uses of softwood lumber products.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://softwoodlumberboard.org/
-              city: West Linn
-              region: Oregon
-              country: United States
-              twitter: https://twitter.com/lumberboard
-              linkedin: https://www.linkedin.com/company/softwoodlumberboard/
-              acquisitions: []
-              parents: []
-              funding: 384000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Building Material
-              kind: funding
-            image_data:
-              fileName: softwood-lumber-board.svg
-              hash: PhrIYApw4o3a5w1uKodeFes7tNjyNHTDHlhPHqpWAMY=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: NYC Mass Timber Lab/Studio (NYCEDC)
-            logo: masstimber.svg
-            organization:
-              name: NYC / EDC
-            homepage_url: https://www.nycedc.com
-            crunchbase_data:
-              name: NYC / EDC
-              parents: []
-            image_data:
-              fileName: nyc-mass-timber-lab-studio-nycedc.svg
-              hash: sBuxp84YI55JqJ1MwquzvatthlLXAzE+Hc5qrqd5bhU=
-            best_practice_data:
-              badge: false
-              percentage: null
+  - category:
+    name: Datacenter Cooling
+    subcategories:
       - subcategory:
         name: CRAH/CRAC
         items:
           - item:
-            name: Stulz
-            logo: stulz.svg
-            crunchbase: https://www.crunchbase.com/organization/stulz
-            homepage_url: https://www.stulz-usa.com
-            crunchbase_data:
-              name: Stulz
-              description: STULZ is a global provider of innovative data center cooling solutions and services.
-              num_employees_min: 501
-              num_employees_max: 1000
-              homepage: http://www.stulz-ats.com/
-              city: Frederick
-              region: Maryland
-              country: United States
-              twitter: https://www.twitter.com/stulz_usa
-              linkedin: https://www.linkedin.com/company-beta/286641/?pathWildcard=286641
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Manufacturing
-            image_data:
-              fileName: stulz.svg
-              hash: R7oyGNJYZp1bd3s12Oi/IapnJkLFWhtl/wgNignpxnA=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Airedale
+            homepage_url: https://www.airedale.com
             logo: airedale.svg
             crunchbase: https://www.crunchbase.com/organization/airedale-international-air-conditioning-ltd
-            homepage_url: https://www.airedale.com
             crunchbase_data:
               name: Airedale International Air Conditioning Ltd
               description: Airedale International Air Conditioning Limited designs and manufactures air conditioning products.
@@ -1792,45 +1767,42 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-      - subcategory:
-        name: Heat Exchangers
-        items:
           - item:
-            name: Tetra Pak
-            logo: tetrapak.svg
-            crunchbase: https://www.crunchbase.com/organization/tetra-pak
-            homepage_url: https://www.tetrapak.com
+            name: Stulz
+            homepage_url: https://www.stulz-usa.com
+            logo: stulz.svg
+            crunchbase: https://www.crunchbase.com/organization/stulz
             crunchbase_data:
-              name: Tetra Pak
-              description: Tetra Pak is a multinational food packaging and processing company of Swedish origin with head offices in Lund, Sweden and Lausanne,
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.tetrapak.com
-              city: Denton
-              region: Texas
+              name: Stulz
+              description: STULZ is a global provider of innovative data center cooling solutions and services.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: http://www.stulz-ats.com/
+              city: Frederick
+              region: Maryland
               country: United States
-              twitter: https://www.twitter.com/tetrapak
-              linkedin: https://www.linkedin.com/company/tetra-pak
+              twitter: https://www.twitter.com/stulz_usa
+              linkedin: https://www.linkedin.com/company-beta/286641/?pathWildcard=286641
               acquisitions: []
               parents: []
               stockExchange: null
               company_type: For Profit
               industries:
-                - Consumer
-                - Food Processing
-                - Packaging Services
-                - Public Safety
+                - Manufacturing
             image_data:
-              fileName: tetra-pak.svg
-              hash: eFlmT2N3YAv0r6qbT+A1PmQZ/bn/LKNmkpzEZ8eDCWY=
+              fileName: stulz.svg
+              hash: R7oyGNJYZp1bd3s12Oi/IapnJkLFWhtl/wgNignpxnA=
             best_practice_data:
               badge: false
               percentage: null
+      - subcategory:
+        name: Heat Exchangers
+        items:
           - item:
             name: Alfa Laval
+            homepage_url: https://www.alfalaval.com
             logo: alfa.svg
             crunchbase: https://www.crunchbase.com/organization/alfa-laval
-            homepage_url: https://www.alfalaval.com
             crunchbase_data:
               name: Alfa Laval
               description: Alfa Laval is a supplier of products and solutions for heat transfer, separation, and fluid handling technologies.
@@ -1878,45 +1850,45 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-      - subcategory:
-        name: Cooling Towers
-        items:
           - item:
-            name: SPX Cooling Technologies
-            logo: spx.svg
-            crunchbase: https://www.crunchbase.com/organization/spx-cooling-technologies
-            homepage_url: https://spxcooling.com
+            name: Tetra Pak
+            homepage_url: https://www.tetrapak.com
+            logo: tetrapak.svg
+            crunchbase: https://www.crunchbase.com/organization/tetra-pak
             crunchbase_data:
-              name: SPX Cooling Technologies
-              description: SPX Cooling Technologies is a manufacturer of cooling towers, evaporative fluid coolers, and evaporative condensers.
-              num_employees_min: 501
-              num_employees_max: 1000
-              homepage: https://www.spxcooling.com/
-              city: Overland Park
-              region: Kansas
+              name: Tetra Pak
+              description: Tetra Pak is a multinational food packaging and processing company of Swedish origin with head offices in Lund, Sweden and Lausanne,
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.tetrapak.com
+              city: Denton
+              region: Texas
               country: United States
-              twitter: https://twitter.com/SPXCoolingTech
-              linkedin: https://www.linkedin.com/company/spx-cooling-technologies/
+              twitter: https://www.twitter.com/tetrapak
+              linkedin: https://www.linkedin.com/company/tetra-pak
               acquisitions: []
               parents: []
               stockExchange: null
               company_type: For Profit
               industries:
-                - Building Material
-                - Construction
-                - Heating, Ventilation, and Air Conditioning (HVAC)
-                - Manufacturing
+                - Consumer
+                - Food Processing
+                - Packaging Services
+                - Public Safety
             image_data:
-              fileName: spx-cooling-technologies.svg
-              hash: F1gGH/zzXnpwaEIUTdaiEu/SsF8fYpN82DnFpyLIdKM=
+              fileName: tetra-pak.svg
+              hash: eFlmT2N3YAv0r6qbT+A1PmQZ/bn/LKNmkpzEZ8eDCWY=
             best_practice_data:
               badge: false
               percentage: null
+      - subcategory:
+        name: Cooling Towers
+        items:
           - item:
             name: American Standard
+            homepage_url: https://www.americanstandard-us.com
             logo: americanstandard.svg
             crunchbase: https://www.crunchbase.com/organization/american-standard-2f52
-            homepage_url: https://www.americanstandard-us.com
             crunchbase_data:
               name: American Standard
               description: American Standard is an online shop for heating and air conditioning products that suits the indoor environment.
@@ -1945,9 +1917,9 @@ landscape:
               percentage: null
           - item:
             name: Delta Cooling Towers
+            homepage_url: https://deltacooling.com/
             logo: delta.svg
             crunchbase: https://www.crunchbase.com/organization/delta-cooling-towers
-            homepage_url: https://deltacooling.com/
             crunchbase_data:
               name: Delta Cooling Towers
               description: Delta Cooling Towers manufactures corrosion proof and low maintenance high density polyethylene cooling towers for critical applications.
@@ -1975,9 +1947,9 @@ landscape:
               percentage: null
           - item:
             name: Evapco
+            homepage_url: https://www.evapco.com
             logo: evapco.svg
             crunchbase: https://www.crunchbase.com/organization/dominion-energy
-            homepage_url: https://www.evapco.com
             crunchbase_data:
               name: Dominion Energy
               description: Dominion Energy is committed to safely providing reliable, affordable and sustainable energy and to achieving Net Zero emissions by 2050.
@@ -2000,14 +1972,45 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            name: SPX Cooling Technologies
+            homepage_url: https://spxcooling.com
+            logo: spx.svg
+            crunchbase: https://www.crunchbase.com/organization/spx-cooling-technologies
+            crunchbase_data:
+              name: SPX Cooling Technologies
+              description: SPX Cooling Technologies is a manufacturer of cooling towers, evaporative fluid coolers, and evaporative condensers.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: https://www.spxcooling.com/
+              city: Overland Park
+              region: Kansas
+              country: United States
+              twitter: https://twitter.com/SPXCoolingTech
+              linkedin: https://www.linkedin.com/company/spx-cooling-technologies/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Building Material
+                - Construction
+                - Heating, Ventilation, and Air Conditioning (HVAC)
+                - Manufacturing
+            image_data:
+              fileName: spx-cooling-technologies.svg
+              hash: F1gGH/zzXnpwaEIUTdaiEu/SsF8fYpN82DnFpyLIdKM=
+            best_practice_data:
+              badge: false
+              percentage: null
       - subcategory:
         name: Dry Coolers
         items:
           - item:
             name: Modine
+            homepage_url: https://www.modine.com
             logo: modine.svg
             crunchbase: https://www.crunchbase.com/organization/modine-manufacturing-company
-            homepage_url: https://www.modine.com
             crunchbase_data:
               name: Modine Manufacturing Company
               description: Since 1916, Modine Manufacturing Company has applied innovative thermal technology to meet customer's needs.
@@ -2054,9 +2057,9 @@ landscape:
         items:
           - item:
             name: OpenMP
+            homepage_url: https://www.openmp.org
             logo: openmp.svg
             crunchbase: https://www.crunchbase.com/organization/openmp
-            homepage_url: https://www.openmp.org
             extra:
               github_org: https://github.com/OpenMP
             crunchbase_data:
@@ -2088,44 +2091,10 @@ landscape:
         name: Chillers
         items:
           - item:
-            name: Trane
-            logo: trane.svg
-            crunchbase: https://www.crunchbase.com/organization/trane
-            homepage_url: https://www.trane.com
-            crunchbase_data:
-              name: Trane
-              description: Trane manufactures and supplies heating, ventilation, and air conditioning systems.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.trane.com
-              city: Davidson
-              region: North Carolina
-              country: United States
-              twitter: https://www.twitter.com/tranecommercial
-              linkedin: https://www.linkedin.com/company/trane
-              acquisitions:
-                - date: '2017-11-08'
-                  acquiree: CALMAC Corp
-                - date: '2019-06-13'
-                  acquiree: EcoFactor
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Industrial
-                - Industrial Engineering
-                - Machinery Manufacturing
-            image_data:
-              fileName: trane.svg
-              hash: 72RRhXpg+Y3eRLRkuHmeaio0ysGxPl0gFnZeclQsXLE=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Carrier
+            homepage_url: https://www.carrier.com
             logo: carrier.svg
             crunchbase: https://www.crunchbase.com/organization/carrier
-            homepage_url: https://www.carrier.com
             crunchbase_data:
               name: Carrier
               description: Carrier is a heating, ventilation, and air conditioning (HVAC), refrigeration, fire, and security technology company.
@@ -2155,9 +2124,9 @@ landscape:
               percentage: null
           - item:
             name: Daikin
+            homepage_url: https://www.daikin.com
             logo: daikin.svg
             crunchbase: https://www.crunchbase.com/organization/daikin
-            homepage_url: https://www.daikin.com
             crunchbase_data:
               name: Daikin Industries
               description: Daikin Industries is a provider of commercial and industrial air conditioning systems, humidifiers, refrigeration, ventilation, and more.
@@ -2196,14 +2165,612 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            name: Trane
+            homepage_url: https://www.trane.com
+            logo: trane.svg
+            crunchbase: https://www.crunchbase.com/organization/trane
+            crunchbase_data:
+              name: Trane
+              description: Trane manufactures and supplies heating, ventilation, and air conditioning systems.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.trane.com
+              city: Davidson
+              region: North Carolina
+              country: United States
+              twitter: https://www.twitter.com/tranecommercial
+              linkedin: https://www.linkedin.com/company/trane
+              acquisitions:
+                - date: '2017-11-08'
+                  acquiree: CALMAC Corp
+                - date: '2019-06-13'
+                  acquiree: EcoFactor
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Industrial
+                - Industrial Engineering
+                - Machinery Manufacturing
+            image_data:
+              fileName: trane.svg
+              hash: 72RRhXpg+Y3eRLRkuHmeaio0ysGxPl0gFnZeclQsXLE=
+            best_practice_data:
+              badge: false
+              percentage: null
+  - category:
+    name: Datacenter Operations
+    subcategories:
+      - subcategory:
+        name: Archives
+        items:
+          - item:
+            name: IBM
+            logo: ibm.svg
+            crunchbase: https://www.crunchbase.com/organization/ibm
+            homepage_url: https://ibm.com
+            extra:
+              github_org: https://github.com/IBM
+            second_path: Datacenter Operations / Enterprise
+            crunchbase_data:
+              name: IBM
+              description: IBM is an IT technology and consulting firm providing computer hardware, software, infrastructure, and hosting services.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.ibm.com
+              city: Armonk
+              region: New York
+              country: United States
+              twitter: http://twitter.com/IBM
+              linkedin: https://www.linkedin.com/company/ibm
+              acquisitions:
+                - date: '1923-01-01'
+                  acquiree: Dehomag
+                - date: '1930-01-01'
+                  acquiree: The Automatic Accounting Scale Company
+                - date: '1932-01-01'
+                  acquiree: National Counting Scale Company
+                - date: '1941-01-01'
+                  acquiree: Munitions Manufacturing Corporation
+                - date: '1964-01-01'
+                  acquiree: Science Research Associates
+                - date: '1974-01-01'
+                  acquiree: Satellite Business Systems
+                - date: '1984-09-26'
+                  acquiree: ROLM Corporation
+                - date: '1994-08-01'
+                  acquiree: Transarc
+                - date: '1995-07-06'
+                  acquiree: Lotus Development Corporation
+                - date: '1996-02-01'
+                  acquiree: Tivoli Systems
+                - date: '1997-03-19'
+                  acquiree: NetObjects
+                - date: '1998-04-30'
+                  acquiree: CommQuest Services
+                - date: '1999-06-09'
+                  acquiree: Whistle Communications
+                - date: '1999-07-12'
+                  acquiree: Sequent Computer Systems Inc
+                - date: '1999-07-27'
+                  acquiree: Mylex
+                - date: '1999-09-22'
+                  acquiree: Dascom
+                - date: '2001-06-07'
+                  acquiree: Mainspring
+                - date: '2002-01-02'
+                  acquiree: Informix
+                - date: '2002-01-14'
+                  acquiree: CrossWorlds Software
+                - date: '2002-06-25'
+                  acquiree: Metamerge
+                - date: '2002-08-29'
+                  acquiree: TrelliSoft
+                - date: '2002-09-03'
+                  acquiree: Access360
+                - date: '2002-09-12'
+                  acquiree: HOLOSOFX
+                - date: '2002-10-02'
+                  acquiree: PwC Consulting
+                - date: '2002-10-07'
+                  acquiree: EADS Matra Datavision
+                - date: '2002-11-04'
+                  acquiree: Tarian Software
+                - date: '2003-02-20'
+                  acquiree: Rational Software
+                - date: '2003-05-14'
+                  acquiree: Think Dynamics
+                - date: '2003-07-15'
+                  acquiree: Presence Online
+                - date: '2003-10-14'
+                  acquiree: CrossAccess
+                - date: '2003-11-13'
+                  acquiree: Productivity Solutions
+                - date: '2003-12-17'
+                  acquiree: Green Pasture Software
+                - date: '2004-03-09'
+                  acquiree: Trigo Technologies
+                - date: '2004-04-07'
+                  acquiree: Daksh Infosoft
+                - date: '2004-04-07'
+                  acquiree: Daksh eServices
+                - date: '2004-06-07'
+                  acquiree: Candle Corporation
+                - date: '2004-07-14'
+                  acquiree: AlphaBlox
+                - date: '2004-07-29'
+                  acquiree: Cyanea Systems
+                - date: '2004-08-17'
+                  acquiree: Maersk Data
+                - date: '2004-08-26'
+                  acquiree: Venetica
+                - date: '2004-10-12'
+                  acquiree: Systemcorp A.L.G.
+                - date: '2004-11-23'
+                  acquiree: Liberty Insurance Services
+                - date: '2004-12-13'
+                  acquiree: KeyMRO
+                - date: '2005-01-07'
+                  acquiree: SRD SASSA Check
+                - date: '2005-01-07'
+                  acquiree: Systems Research & Development
+                - date: '2005-01-25'
+                  acquiree: Corio
+                - date: '2005-02-02'
+                  acquiree: Equitant
+                - date: '2005-05-02'
+                  acquiree: Ascential Software
+                - date: '2005-05-10'
+                  acquiree: Gluecode Software
+                - date: '2005-06-15'
+                  acquiree: Healthlink
+                - date: '2005-06-23'
+                  acquiree: Meiosys
+                - date: '2005-07-27'
+                  acquiree: Isogon Corporation
+                - date: '2005-08-02'
+                  acquiree: DWL
+                - date: '2005-08-05'
+                  acquiree: PureEdge Solutions
+                - date: '2005-10-18'
+                  acquiree: DataPower Technology
+                - date: '2005-11-01'
+                  acquiree: iPhrase Technologies
+                - date: '2005-11-09'
+                  acquiree: Network Solutions Private Limited
+                - date: '2005-11-16'
+                  acquiree: Collation
+                - date: '2005-12-20'
+                  acquiree: Bowstreet
+                - date: '2005-12-21'
+                  acquiree: Micromuse
+                - date: '2006-01-25'
+                  acquiree: CIMS Lab
+                - date: '2006-01-27'
+                  acquiree: ARGUS Semiconductor Software
+                - date: '2006-02-08'
+                  acquiree: Viacore
+                - date: '2006-03-16'
+                  acquiree: Language Analysis Systems
+                - date: '2006-05-02'
+                  acquiree: BuildForge
+                - date: '2006-05-08'
+                  acquiree: Unicorn Solutions
+                - date: '2006-05-18'
+                  acquiree: Rembo Technology
+                - date: '2006-08-02'
+                  acquiree: Webify
+                - date: '2006-09-06'
+                  acquiree: Global Value Solutions
+                - date: '2006-09-30'
+                  acquiree: Valchemy
+                - date: '2006-10-05'
+                  acquiree: MRO Software
+                - date: '2006-10-12'
+                  acquiree: FileNet Corporation
+                - date: '2006-10-20'
+                  acquiree: Internet Security Systems
+                - date: '2006-11-10'
+                  acquiree: Palisades Technology Partners
+                - date: '2006-12-05'
+                  acquiree: Consul Risk Management International
+                - date: '2007-02-14'
+                  acquiree: Vallent Corporation
+                - date: '2007-03-01'
+                  acquiree: Softek Storage Solutions
+                - date: '2007-04-20'
+                  acquiree: Unicible
+                - date: '2007-06-11'
+                  acquiree: Telelogic
+                - date: '2007-07-23'
+                  acquiree: Watchfire
+                - date: '2007-08-03'
+                  acquiree: Princeton Softech
+                - date: '2007-08-22'
+                  acquiree: Webdialogs
+                - date: '2007-09-04'
+                  acquiree: DataMirror
+                - date: '2007-10-24'
+                  acquiree: NovusCG
+                - date: '2007-12-06'
+                  acquiree: Arsenal Digital Solutions
+                - date: '2007-12-21'
+                  acquiree: Solid Information Technology
+                - date: '2008-01-02'
+                  acquiree: XIV
+                - date: '2008-01-18'
+                  acquiree: Net Integration Technologies
+                - date: '2008-01-23'
+                  acquiree: AptSoft
+                - date: '2008-01-31'
+                  acquiree: Cognos
+                - date: '2008-03-12'
+                  acquiree: Encentuate
+                - date: '2008-04-10'
+                  acquiree: FilesX
+                - date: '2008-04-22'
+                  acquiree: Diligent
+                - date: '2008-04-29'
+                  acquiree: InfoDyne Corporation
+                - date: '2008-07-02'
+                  acquiree: Platform Solutions
+                - date: '2008-07-28'
+                  acquiree: ILOG
+                - date: '2008-11-18'
+                  acquiree: Transitive
+                - date: '2009-04-16'
+                  acquiree: Outblaze
+                - date: '2009-05-05'
+                  acquiree: Exeros
+                - date: '2009-07-28'
+                  acquiree: Ounce Labs
+                - date: '2009-07-28'
+                  acquiree: SPSS
+                - date: '2009-09-22'
+                  acquiree: RedPill Solutions
+                - date: '2009-11-30'
+                  acquiree: Guardium
+                - date: '2009-12-16'
+                  acquiree: Lombardi Software
+                - date: '2010-01-20'
+                  acquiree: National Interest Security Company
+                - date: '2010-02-03'
+                  acquiree: Initiate Systems
+                - date: '2010-02-16'
+                  acquiree: Intelliden
+                - date: '2010-05-03'
+                  acquiree: Cast Iron Systems
+                - date: '2010-05-24'
+                  acquiree: Sterling Commerce
+                - date: '2010-06-14'
+                  acquiree: Storwize
+                - date: '2010-06-15'
+                  acquiree: Coremetrics
+                - date: '2010-07-01'
+                  acquiree: BigFix
+                - date: '2010-08-10'
+                  acquiree: Datacap
+                - date: '2010-08-13'
+                  acquiree: Unica
+                - date: '2010-09-15'
+                  acquiree: OpenPages
+                - date: '2010-09-20'
+                  acquiree: Netezza
+                - date: '2010-09-27'
+                  acquiree: BLADE Network Technologies
+                - date: '2010-10-13'
+                  acquiree: PSS Systems
+                - date: '2010-10-21'
+                  acquiree: Clarity Systems
+                - date: '2011-04-14'
+                  acquiree: TRIRIGA
+                - date: '2011-08-31'
+                  acquiree: i2 Group
+                - date: '2011-09-01'
+                  acquiree: Algorithmics
+                - date: '2011-10-04'
+                  acquiree: Q1 Labs
+                - date: '2011-10-11'
+                  acquiree: Platform Computing
+                - date: '2011-12-08'
+                  acquiree: DemandTec
+                - date: '2011-12-15'
+                  acquiree: Emptoris
+                - date: '2011-12-20'
+                  acquiree: Cúram Software
+                - date: '2012-01-04'
+                  acquiree: Green Hat
+                - date: '2012-01-31'
+                  acquiree: Worklight
+                - date: '2012-04-13'
+                  acquiree: Varicent Software
+                - date: '2012-04-25'
+                  acquiree: Vivisimo
+                - date: '2012-05-02'
+                  acquiree: Tealeaf
+                - date: '2012-07-01'
+                  acquiree: Cibecs
+                - date: '2012-08-16'
+                  acquiree: Texas Memory Systems
+                - date: '2012-08-28'
+                  acquiree: Kenexa
+                - date: '2012-09-24'
+                  acquiree: Butterfly Software
+                - date: '2013-02-07'
+                  acquiree: StoredIQ
+                - date: '2013-03-20'
+                  acquiree: Star Analytics
+                - date: '2013-04-22'
+                  acquiree: Urbancode
+                - date: '2013-06-04'
+                  acquiree: SoftLayer
+                - date: '2013-07-10'
+                  acquiree: CSL International
+                - date: '2013-08-15'
+                  acquiree: Trusteer
+                - date: '2013-09-19'
+                  acquiree: Daeja Image Systems
+                - date: '2013-10-03'
+                  acquiree: Xtify
+                - date: '2013-10-29'
+                  acquiree: The Now Factory
+                - date: '2013-12-18'
+                  acquiree: Fiberlink
+                - date: '2013-12-19'
+                  acquiree: Aspera
+                - date: '2014-02-24'
+                  acquiree: Cloudant
+                - date: '2014-04-10'
+                  acquiree: Silverpop
+                - date: '2014-05-20'
+                  acquiree: Cognea
+                - date: '2014-07-31'
+                  acquiree: CrossIdeas
+                - date: '2015-03-04'
+                  acquiree: AlchemyAPI
+                - date: '2015-03-27'
+                  acquiree: Blekko
+                - date: '2015-04-16'
+                  acquiree: Explorys
+                - date: '2015-05-04'
+                  acquiree: Phytel
+                - date: '2015-06-03'
+                  acquiree: Blue Box
+                - date: '2015-07-23'
+                  acquiree: Compose
+                - date: '2015-08-06'
+                  acquiree: Merge Healthcare
+                - date: '2015-09-10'
+                  acquiree: StrongLoop
+                - date: '2015-09-28'
+                  acquiree: Meteorix
+                - date: '2015-10-05'
+                  acquiree: Cleversafe
+                - date: '2015-10-28'
+                  acquiree: The Weather Company
+                - date: '2015-11-03'
+                  acquiree: Gravitant
+                - date: '2015-12-08'
+                  acquiree: Clearleap
+                - date: '2016-01-15'
+                  acquiree: IRIS Analytics
+                - date: '2016-01-21'
+                  acquiree: Ustream
+                - date: '2016-01-28'
+                  acquiree: Resource/Ammirati
+                - date: '2016-02-02'
+                  acquiree: Aperto
+                - date: '2016-02-03'
+                  acquiree: Ecx.io
+                - date: '2016-02-18'
+                  acquiree: Truven Health Analytics
+                - date: '2016-02-29'
+                  acquiree: IBM Resilient
+                - date: '2016-03-17'
+                  acquiree: Optevia
+                - date: '2016-03-30'
+                  acquiree: Bluewolf
+                - date: '2016-06-01'
+                  acquiree: EZSource
+                - date: '2016-09-29'
+                  acquiree: Promontory Financial Group
+                - date: '2016-10-27'
+                  acquiree: Sanovi Technologies
+                - date: '2016-11-01'
+                  acquiree: Expert Personal Shopper (XPS)
+                - date: '2017-01-23'
+                  acquiree: Agile 3 Solutions
+                - date: '2017-05-02'
+                  acquiree: Verizon - Cloud services
+                - date: '2017-09-24'
+                  acquiree: Cloudigo
+                - date: '2017-10-04'
+                  acquiree: Vivant
+                - date: '2018-05-03'
+                  acquiree: Armanta
+                - date: '2018-06-15'
+                  acquiree: Oniqua Inc.
+                - date: '2018-10-28'
+                  acquiree: Red Hat
+                - date: '2019-01-14'
+                  acquiree: T-Systems - Mainframe Services business
+                - date: '2019-06-01'
+                  acquiree: Red Hat
+                - date: '2020-06-15'
+                  acquiree: Spanugo
+                - date: '2020-07-08'
+                  acquiree: WDG Automation
+                - date: '2020-11-16'
+                  acquiree: TruQua
+                - date: '2020-11-18'
+                  acquiree: Instana
+                - date: '2020-12-15'
+                  acquiree: IBM Payments Center
+                - date: '2020-12-21'
+                  acquiree: Nordcloud
+                - date: '2021-01-11'
+                  acquiree: 7Summits
+                - date: '2021-01-14'
+                  acquiree: Taos Mountain
+                - date: '2021-04-15'
+                  acquiree: myInvenio, an IBM Company
+                - date: '2021-04-29'
+                  acquiree: Turbonomic
+                - date: '2021-05-18'
+                  acquiree: Waeg
+                - date: '2021-05-25'
+                  acquiree: Catalogic
+                - date: '2021-07-08'
+                  acquiree: BoxBoat Technologies
+                - date: '2021-07-15'
+                  acquiree: Bluetab
+                - date: '2021-10-28'
+                  acquiree: McD Tech Labs
+                - date: '2021-11-02'
+                  acquiree: ReaQta
+                - date: '2021-11-30'
+                  acquiree: SXiQ
+                - date: '2022-01-11'
+                  acquiree: Envizi
+                - date: '2022-02-01'
+                  acquiree: Sentaca
+                - date: '2022-02-15'
+                  acquiree: Neudesic
+                - date: '2022-06-14'
+                  acquiree: Randori
+                - date: '2022-07-01'
+                  acquiree: Omnio
+                - date: '2022-07-06'
+                  acquiree: Databand
+                - date: '2022-09-22'
+                  acquiree: Dialexa
+                - date: '2022-12-07'
+                  acquiree: Octo
+                - date: '2023-02-06'
+                  acquiree: StepZen
+                - date: '2023-04-14'
+                  acquiree: Ahana
+                - date: '2023-05-16'
+                  acquiree: Polar Security - an IBM Company
+                - date: '2023-06-26'
+                  acquiree: Apptio
+                - date: '2023-10-24'
+                  acquiree: Manta
+                - date: '2023-12-18'
+                  acquiree: StreamSets
+                - date: '2023-12-18'
+                  acquiree: webMethods
+              parents: []
+              ticker: IBM
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Business Development
+                - Business Information Systems
+                - CRM
+                - Data Management
+                - Software
+            yahoo_finance_data:
+              effective_ticker: IBM
+            image_data:
+              fileName: ibm.svg
+              hash: N1ieYeiJkhSCJJDoDqK09zjd/FT+yCVPjjTLOIJPCh4=
+            best_practice_data:
+              badge: false
+              percentage: null
       - subcategory:
         name: Enterprise
         items:
           - item:
+            name: HPE
+            logo: hpe.svg
+            homepage_url: https://hpe.com
+            crunchbase: https://www.crunchbase.com/organization/hewlett-packard-enterprise
+            extra:
+              github_org: https://github.com/HewlettPackard
+            second_path: Datacenter Construction / Modular DC
+            crunchbase_data:
+              name: Hewlett Packard Enterprise
+              description: Hewlett Packard Enterprise is an edge-to-cloud company that uses comprehensive solutions to accelerate business outcomes.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.hpe.com
+              city: Roseville
+              region: California
+              country: United States
+              twitter: https://www.twitter.com/hpe
+              linkedin: https://www.linkedin.com/company/hewlett-packard-enterprise
+              acquisitions:
+                - date: '2016-02-03'
+                  acquiree: Trilead
+                - date: '2016-08-11'
+                  acquiree: Silicon Graphics
+                - date: '2017-01-17'
+                  acquiree: Simplivity
+                - date: '2017-01-23'
+                  acquiree: Cloud Cruiser
+                - date: '2017-02-01'
+                  acquiree: Niara
+                - date: '2017-03-07'
+                  acquiree: Nimble Storage
+                - date: '2017-09-05'
+                  acquiree: Cloud Technology Partners
+                - date: '2018-04-11'
+                  acquiree: RedPixie
+                - date: '2018-05-15'
+                  acquiree: Plexxi
+                - date: '2018-11-27'
+                  acquiree: BlueData Software
+                - date: '2019-08-06'
+                  acquiree: MapR Technologies
+                - date: '2019-09-26'
+                  acquiree: Cray
+                - date: '2020-02-03'
+                  acquiree: Scytale.io
+                - date: '2020-07-13'
+                  acquiree: Silver Peak Systems, Inc.
+                - date: '2021-02-23'
+                  acquiree: CloudPhysics
+                - date: '2021-06-21'
+                  acquiree: Determined AI
+                - date: '2021-07-01'
+                  acquiree: Zerto
+                - date: '2021-07-07'
+                  acquiree: Ampool
+                - date: '2023-01-12'
+                  acquiree: Pachyderm
+                - date: '2023-02-23'
+                  acquiree: Athonet
+                - date: '2023-03-02'
+                  acquiree: Axis Security
+                - date: '2023-03-20'
+                  acquiree: OpsRamp
+                - date: '2024-01-09'
+                  acquiree: Juniper Networks
+              parents: []
+              ticker: HPE
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Data Center
+                - Enterprise Software
+                - IT Management
+                - Information Technology
+                - Network Security
+            yahoo_finance_data:
+              effective_ticker: HPE
+            image_data:
+              fileName: hpe.svg
+              hash: B0rWZG2csaVWC7zAQK0vcLZvh5QTVFJzum/gvjR5Ts0=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: AT&T
+            homepage_url: https://www.att.com
             logo: att.svg
             crunchbase: https://www.crunchbase.com/organization/at-t
-            homepage_url: https://www.att.com
             extra:
               github_org: https://github.com/att
             crunchbase_data:
@@ -2306,14 +2873,90 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            name: Cyxtera
+            homepage_url: https://www.cyxtera.com
+            logo: cyxtera.svg
+            crunchbase: https://www.crunchbase.com/organization/cyxtera-technologies
+            crunchbase_data:
+              name: Cyxtera Technologies
+              description: Cyxtera Technologies provides an integrated, secure, and resilient infrastructure platform.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: https://www.cyxtera.com
+              city: Coral Gables
+              region: Florida
+              country: United States
+              twitter: https://twitter.com/cyxtera
+              linkedin: https://www.linkedin.com/company/cyxtera/
+              acquisitions:
+                - date: '2017-06-08'
+                  acquiree: Brainspace
+                - date: '2018-01-08'
+                  acquiree: Immunity
+              parents: []
+              ticker: CYXT
+              funding: 500000000
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Analytics
+                - Cloud Infrastructure
+                - Electronics
+                - Government
+                - Information Services
+                - Information Technology
+            yahoo_finance_data:
+              effective_ticker: CYXT
+            image_data:
+              fileName: cyxtera.svg
+              hash: l0nu96CgMlDYnSLOBPs5E5Hjjsm6sUlktiMA/Na0DlE=
+            best_practice_data:
+              badge: false
+              percentage: null
+      - subcategory:
+        name: GPU Manufacturers
+        items:
+          - item:
+            name: DEEPX
+            logo: deepx.svg
+            crunchbase: https://www.crunchbase.com/organization/deepx-c937
+            homepage_url: https://www.deepxtech.com
+            crunchbase_data:
+              name: DEEPX
+              description: DEEPX is a Korean AI hardware system solution company.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://deepx.co.kr
+              city: Seongnam
+              region: Kyonggi-do
+              country: South Korea
+              twitter: null
+              linkedin: https://www.linkedin.com/company/deepx-corporation
+              acquisitions: []
+              parents: []
+              funding: 21625903
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Artificial Intelligence (AI)
+                - Information Technology
+                - Internet of Things
+              kind: funding
+            image_data:
+              fileName: deepx.svg
+              hash: aG78F74KkssEine0kIJvl+olyQas0ZEU4tIY3oFGyHA=
+            best_practice_data:
+              badge: false
+              percentage: null
       - subcategory:
         name: CDUs
         items:
           - item:
             name: Coolcentric
+            homepage_url: https://www.coolcentric.com
             logo: coolcentric.svg
             crunchbase: https://www.crunchbase.com/organization/coolcentric
-            homepage_url: https://www.coolcentric.com
             crunchbase_data:
               name: Coolcentric
               description: Coolcentric delivers the world's most energy and space efficient data center cooling solutions and data center cooling products.
@@ -2339,6 +2982,826 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+      - subcategory:
+        name: Hyperscale
+        items:
+          - item:
+            name: Microsoft Azure
+            logo: microsoft_azure.svg
+            crunchbase: https://www.crunchbase.com/organization/microsoft
+            homepage_url: https://azure.microsoft.com
+            extra:
+              github_org: https://github.com/Azure
+            crunchbase_data:
+              name: Microsoft
+              description: Microsoft is a software corporation that develops, manufactures, licenses, supports, and sells a range of software products and services.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.microsoft.com
+              city: Redmond
+              region: Washington
+              country: United States
+              twitter: https://www.twitter.com/Microsoft
+              linkedin: https://www.linkedin.com/company/microsoft
+              acquisitions:
+                - date: '1987-07-30'
+                  acquiree: Forethought
+                - date: '1991-03-08'
+                  acquiree: Consumers Software
+                - date: '1992-03-25'
+                  acquiree: Fox Software
+                - date: '1994-02-15'
+                  acquiree: SoftImage
+                - date: '1994-09-27'
+                  acquiree: Altamira Software
+                - date: '1994-11-01'
+                  acquiree: NextBase
+                - date: '1994-11-16'
+                  acquiree: One Tree Software Ltd
+                - date: '1995-02-23'
+                  acquiree: RenderMorphics
+                - date: '1995-07-10'
+                  acquiree: Network Managers
+                - date: '1995-10-16'
+                  acquiree: Blue Ribbon SoundWorks
+                - date: '1995-11-06'
+                  acquiree: Netwise
+                - date: '1995-12-12'
+                  acquiree: Bruce Artwick Organization
+                - date: '1996-01-16'
+                  acquiree: Vermeer Technologies
+                - date: '1996-03-12'
+                  acquiree: Colusa Software
+                - date: '1996-04-15'
+                  acquiree: EXOS
+                - date: '1996-04-23'
+                  acquiree: Aspect Software Inc
+                - date: '1996-06-11'
+                  acquiree: eShop
+                - date: '1996-06-17'
+                  acquiree: Electric Gravity
+                - date: '1996-12-10'
+                  acquiree: NetCarta
+                - date: '1997-03-03'
+                  acquiree: Interse
+                - date: '1997-04-06'
+                  acquiree: WebTV Networks
+                - date: '1997-05-07'
+                  acquiree: Dimension X
+                - date: '1997-06-13'
+                  acquiree: Cooper & Peters
+                - date: '1997-06-30'
+                  acquiree: LinkAge Software
+                - date: '1997-08-05'
+                  acquiree: VXtreme
+                - date: '1997-12-31'
+                  acquiree: Hotmail
+                - date: '1997-12-31'
+                  acquiree: Windows Live Hotmail
+                - date: '1998-04-09'
+                  acquiree: Firefly Network
+                - date: '1998-04-28'
+                  acquiree: MESA Group
+                - date: '1998-06-23'
+                  acquiree: Merchant Planet
+                - date: '1998-08-25'
+                  acquiree: Valence Research
+                - date: '1998-08-25'
+                  acquiree: Valence Technology
+                - date: '1998-11-05'
+                  acquiree: linkexchange
+                - date: '1999-01-08'
+                  acquiree: FASA Interactive
+                - date: '1999-03-04'
+                  acquiree: CompareNet
+                - date: '1999-03-28'
+                  acquiree: Numinous Technologies
+                - date: '1999-04-26'
+                  acquiree: Jump Networks
+                - date: '1999-06-07'
+                  acquiree: ShadowFactor Software
+                - date: '1999-06-14'
+                  acquiree: OmniBrowse
+                - date: '1999-07-01'
+                  acquiree: Sendit
+                - date: '1999-07-07'
+                  acquiree: Zoomit
+                - date: '1999-07-21'
+                  acquiree: STNC
+                - date: '1999-07-28'
+                  acquiree: Intrinsa
+                - date: '1999-09-15'
+                  acquiree: Visio Corporation
+                - date: '1999-09-17'
+                  acquiree: Softway Systems
+                - date: '1999-10-29'
+                  acquiree: Entropic
+                - date: '1999-11-01'
+                  acquiree: Entropic Research Laboratories
+                - date: '2000-02-29'
+                  acquiree: Peach Networks
+                - date: '2000-06-19'
+                  acquiree: Bungie
+                - date: '2000-07-12'
+                  acquiree: NetGames
+                - date: '2000-09-13'
+                  acquiree: MongoMusic
+                - date: '2000-09-18'
+                  acquiree: Pacific Microsonics
+                - date: '2000-12-05'
+                  acquiree: Digital Anvil
+                - date: '2000-12-21'
+                  acquiree: Great Plains Software
+                - date: '2001-04-30'
+                  acquiree: NCompass Labs
+                - date: '2001-09-13'
+                  acquiree: XDegrees
+                - date: '2002-05-07'
+                  acquiree: Navision
+                - date: '2002-09-24'
+                  acquiree: Rare
+                - date: '2002-10-22'
+                  acquiree: Vicinity Corporation
+                - date: '2003-02-19'
+                  acquiree: Connectix
+                - date: '2003-03-04'
+                  acquiree: Pelican Security
+                - date: '2003-04-30'
+                  acquiree: PlaceWare
+                - date: '2003-06-10'
+                  acquiree: RAV Antivirus
+                - date: '2004-04-26'
+                  acquiree: ActiveViews
+                - date: '2004-07-17'
+                  acquiree: Lookout Software
+                - date: '2004-12-16'
+                  acquiree: GIANT Company Software
+                - date: '2005-02-08'
+                  acquiree: Sybari
+                - date: '2005-03-10'
+                  acquiree: Groove Networks
+                - date: '2005-05-11'
+                  acquiree: MessageCast
+                - date: '2005-07-20'
+                  acquiree: Frontbridge Technologies
+                - date: '2005-08-30'
+                  acquiree: Teleo
+                - date: '2005-09-19'
+                  acquiree: Alacris
+                - date: '2005-10-06'
+                  acquiree: Unveil Technologies
+                - date: '2005-11-02'
+                  acquiree: Media-Streams.com
+                - date: '2005-11-03'
+                  acquiree: FolderShare
+                - date: '2005-11-17'
+                  acquiree: 5th Finger
+                - date: '2006-01-28'
+                  acquiree: SeaDragon Software
+                - date: '2006-02-13'
+                  acquiree: Motion Bridge
+                - date: '2006-03-07'
+                  acquiree: Apptimum
+                - date: '2006-03-07'
+                  acquiree: Onfolio
+                - date: '2006-04-03'
+                  acquiree: ProClarity
+                - date: '2006-04-06'
+                  acquiree: Lionhead Studios
+                - date: '2006-04-26'
+                  acquiree: AssetMetrix Corporation
+                - date: '2006-05-01'
+                  acquiree: Massive
+                - date: '2006-05-04'
+                  acquiree: DeepMetrix
+                - date: '2006-05-04'
+                  acquiree: Vexcel
+                - date: '2006-05-18'
+                  acquiree: Whale Communications
+                - date: '2006-06-27'
+                  acquiree: iView Multimedia
+                - date: '2006-07-17'
+                  acquiree: Softricity
+                - date: '2006-07-18'
+                  acquiree: Winternals
+                - date: '2006-07-26'
+                  acquiree: Azyxxi
+                - date: '2006-09-26'
+                  acquiree: Gteko
+                - date: '2006-10-02'
+                  acquiree: DesktopStandard
+                - date: '2006-10-12'
+                  acquiree: Colloquis
+                - date: '2007-02-26'
+                  acquiree: Medstory
+                - date: '2007-03-14'
+                  acquiree: Tellme
+                - date: '2007-03-14'
+                  acquiree: Tellme
+                - date: '2007-03-28'
+                  acquiree: devBiz Business Solutions
+                - date: '2007-05-03'
+                  acquiree: Screen Tonic
+                - date: '2007-05-18'
+                  acquiree: aQuantive
+                - date: '2007-06-05'
+                  acquiree: Engyro
+                - date: '2007-06-07'
+                  acquiree: Stratature
+                - date: '2007-07-26'
+                  acquiree: AdECN
+                - date: '2007-08-29'
+                  acquiree: Parlano
+                - date: '2007-10-29'
+                  acquiree: Global Care Solutions
+                - date: '2007-11-15'
+                  acquiree: Musiwave
+                - date: '2007-11-30'
+                  acquiree: WebFives
+                - date: '2007-12-12'
+                  acquiree: MultiMap
+                - date: '2008-01-08'
+                  acquiree: Fast Search & Transfer
+                - date: '2008-01-21'
+                  acquiree: Calista Technologies
+                - date: '2008-02-07'
+                  acquiree: Caligari Corporation
+                - date: '2008-02-11'
+                  acquiree: Danger
+                - date: '2008-02-27'
+                  acquiree: YaData
+                - date: '2008-03-08'
+                  acquiree: Credentica
+                - date: '2008-03-12'
+                  acquiree: Kidaro
+                - date: '2008-03-14'
+                  acquiree: 90 Degree Software
+                - date: '2008-03-14'
+                  acquiree: Rapt
+                - date: '2008-03-20'
+                  acquiree: Komoku
+                - date: '2008-04-09'
+                  acquiree: Farecast
+                - date: '2008-06-18'
+                  acquiree: Navic Networks
+                - date: '2008-06-18'
+                  acquiree: Navic Systems
+                - date: '2008-06-26'
+                  acquiree: MobiComp
+                - date: '2008-07-01'
+                  acquiree: Powerset
+                - date: '2008-07-14'
+                  acquiree: Zoomix
+                - date: '2008-07-25'
+                  acquiree: DATAllegro
+                - date: '2008-08-29'
+                  acquiree: Greenfield Online
+                - date: '2008-08-31'
+                  acquiree: Ciao
+                - date: '2009-05-07'
+                  acquiree: BigPark
+                - date: '2009-06-01'
+                  acquiree: Rosetta Biosoftware
+                - date: '2009-06-28'
+                  acquiree: ClickStream Technologies
+                - date: '2009-09-22'
+                  acquiree: Interactive Supercomputing
+                - date: '2009-12-10'
+                  acquiree: Sentillion
+                - date: '2009-12-11'
+                  acquiree: Opalis Software
+                - date: '2010-10-06'
+                  acquiree: AVIcode
+                - date: '2010-10-29'
+                  acquiree: Canesta
+                - date: '2011-05-10'
+                  acquiree: Skype
+                - date: '2011-06-08'
+                  acquiree: Prodiance Corporation
+                - date: '2011-10-12'
+                  acquiree: Twisted Pixel Games
+                - date: '2011-11-23'
+                  acquiree: VideoSurf
+                - date: '2012-06-25'
+                  acquiree: Yammer
+                - date: '2012-07-09'
+                  acquiree: Perceptive Pixel
+                - date: '2012-10-04'
+                  acquiree: PhoneFactor
+                - date: '2012-10-16'
+                  acquiree: StorSimple
+                - date: '2012-10-17'
+                  acquiree: MarketingPilot
+                - date: '2012-12-28'
+                  acquiree: R2 Studios
+                - date: '2013-01-02'
+                  acquiree: id8 Group R2 Studios
+                - date: '2013-02-04'
+                  acquiree: Pando Networks
+                - date: '2013-03-04'
+                  acquiree: MetricsHub
+                - date: '2013-03-19'
+                  acquiree: Netbreeze
+                - date: '2013-06-03'
+                  acquiree: InRelease
+                - date: '2013-09-03'
+                  acquiree: Nokia - Devices & Services Business
+                - date: '2013-10-04'
+                  acquiree: Apiphany
+                - date: '2014-01-06'
+                  acquiree: Parature
+                - date: '2014-04-30'
+                  acquiree: GreenButton
+                - date: '2014-05-28'
+                  acquiree: Capptain
+                - date: '2014-07-03'
+                  acquiree: SyntaxTree
+                - date: '2014-07-11'
+                  acquiree: InMage Systems
+                - date: '2014-09-15'
+                  acquiree: Mojang Studios
+                - date: '2014-10-08'
+                  acquiree: Equivio
+                - date: '2014-11-13'
+                  acquiree: Aorato
+                - date: '2014-12-01'
+                  acquiree: Acompli
+                - date: '2014-12-11'
+                  acquiree: Bit Stadium GmbH
+                - date: '2014-12-11'
+                  acquiree: HockeyApp
+                - date: '2015-01-23'
+                  acquiree: Revolution Analytics
+                - date: '2015-02-04'
+                  acquiree: Sunrise
+                - date: '2015-02-12'
+                  acquiree: N-Trig
+                - date: '2015-03-26'
+                  acquiree: LiveLoop
+                - date: '2015-04-14'
+                  acquiree: Datazen Software
+                - date: '2015-06-02'
+                  acquiree: Wunderlist
+                - date: '2015-06-10'
+                  acquiree: BlueStripe
+                - date: '2015-07-16'
+                  acquiree: FieldOne Systems
+                - date: '2015-07-19'
+                  acquiree: Adallom
+                - date: '2015-08-03'
+                  acquiree: FantasySalesTeam
+                - date: '2015-09-10'
+                  acquiree: Double Labs
+                - date: '2015-09-11'
+                  acquiree: VoloMetrix
+                - date: '2015-09-14'
+                  acquiree: Echo Locker
+                - date: '2015-09-30'
+                  acquiree: Adxstudio
+                - date: '2015-10-02'
+                  acquiree: Havok
+                - date: '2015-11-05'
+                  acquiree: Mobile Data Labs
+                - date: '2015-11-09'
+                  acquiree: Secure Islands Technologies
+                - date: '2015-12-18'
+                  acquiree: Metanautix
+                - date: '2015-12-21'
+                  acquiree: Talko
+                - date: '2016-01-13'
+                  acquiree: Event Zero
+                - date: '2016-01-19'
+                  acquiree: MinecraftEdu
+                - date: '2016-02-02'
+                  acquiree: SwiftKey
+                - date: '2016-02-09'
+                  acquiree: Groove (dba Zikera)
+                - date: '2016-02-24'
+                  acquiree: Xamarin
+                - date: '2016-05-03'
+                  acquiree: Solair
+                - date: '2016-06-13'
+                  acquiree: LinkedIn
+                - date: '2016-06-16'
+                  acquiree: Wand Labs
+                - date: '2016-06-28'
+                  acquiree: Code Connect
+                - date: '2016-08-11'
+                  acquiree: Mixer
+                - date: '2016-08-22'
+                  acquiree: Genee
+                - date: '2017-01-13'
+                  acquiree: Maluuba
+                - date: '2017-01-17'
+                  acquiree: Donya Labs
+                - date: '2017-04-01'
+                  acquiree: Open Build Service
+                - date: '2017-04-10'
+                  acquiree: Deis.com
+                - date: '2017-04-18'
+                  acquiree: Intentional Software
+                - date: '2017-05-24'
+                  acquiree: Hexadite
+                - date: '2017-06-28'
+                  acquiree: Cloudyn
+                - date: '2017-08-15'
+                  acquiree: Cycle Computing
+                - date: '2017-10-04'
+                  acquiree: AltspaceVR
+                - date: '2017-11-07'
+                  acquiree: Swing Technologies
+                - date: '2018-01-03'
+                  acquiree: Avere Systems
+                - date: '2018-01-29'
+                  acquiree: PlayFab
+                - date: '2018-02-13'
+                  acquiree: Chalkup
+                - date: '2018-05-20'
+                  acquiree: Semantic Machines
+                - date: '2018-06-03'
+                  acquiree: GitHub
+                - date: '2018-06-10'
+                  acquiree: Compulsion Games
+                - date: '2018-06-10'
+                  acquiree: Ninja Theory
+                - date: '2018-06-10'
+                  acquiree: Playground Games
+                - date: '2018-06-10'
+                  acquiree: Undead Labs
+                - date: '2018-06-18'
+                  acquiree: FlipGrid
+                - date: '2018-06-20'
+                  acquiree: Bonsai
+                - date: '2018-07-31'
+                  acquiree: PaperVault
+                - date: '2018-09-13'
+                  acquiree: Lobe
+                - date: '2018-11-10'
+                  acquiree: Obsidian Entertainment
+                - date: '2018-11-10'
+                  acquiree: inXile Entertainment
+                - date: '2018-11-14'
+                  acquiree: XOXCO
+                - date: '2018-11-19'
+                  acquiree: FSLogix
+                - date: '2019-01-24'
+                  acquiree: Citus Data
+                - date: '2019-02-04'
+                  acquiree: DataSense
+                - date: '2019-04-18'
+                  acquiree: Express Logic
+                - date: '2019-07-29'
+                  acquiree: BlueTalon
+                - date: '2019-08-05'
+                  acquiree: PromoteIQ
+                - date: '2019-08-19'
+                  acquiree: jClarity
+                - date: '2019-09-04'
+                  acquiree: Movere
+                - date: '2019-10-21'
+                  acquiree: Mover
+                - date: '2020-03-26'
+                  acquiree: Affirmed Networks
+                - date: '2020-05-05'
+                  acquiree: CyberX
+                - date: '2020-05-14'
+                  acquiree: Metaswitch Networks
+                - date: '2020-05-19'
+                  acquiree: Softomotive
+                - date: '2020-06-18'
+                  acquiree: ADRM Software
+                - date: '2020-07-08'
+                  acquiree: Orions Systems
+                - date: '2020-09-21'
+                  acquiree: ZeniMax
+                - date: '2020-12-02'
+                  acquiree: Smash.gg
+                - date: '2021-03-16'
+                  acquiree: The Marsden Group
+                - date: '2021-04-12'
+                  acquiree: Nuance Communications
+                - date: '2021-04-29'
+                  acquiree: Kinvolk
+                - date: '2021-06-02'
+                  acquiree: ReFirm Labs
+                - date: '2021-07-11'
+                  acquiree: RiskIQ
+                - date: '2021-07-21'
+                  acquiree: CloudKnox Security
+                - date: '2021-07-28'
+                  acquiree: Suplari
+                - date: '2021-08-10'
+                  acquiree: Peer5
+                - date: '2021-09-07'
+                  acquiree: Clipchamp
+                - date: '2021-09-10'
+                  acquiree: TakeLessons
+                - date: '2021-10-07'
+                  acquiree: Ally.io (Acquired)
+                - date: '2021-10-22'
+                  acquiree: Clear Software
+                - date: '2021-10-29'
+                  acquiree: Two Hat Security
+                - date: '2021-12-21'
+                  acquiree: Xandr
+                - date: '2022-03-31'
+                  acquiree: Minit
+                - date: '2022-04-28'
+                  acquiree: Activision Blizzard
+                - date: '2022-06-14'
+                  acquiree: Miburo
+                - date: '2022-12-09'
+                  acquiree: Lumenisity
+                - date: '2022-12-15'
+                  acquiree: Fungible
+              parents: []
+              ticker: MSFT
+              funding: 1000000
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Data Management
+                - DevOps
+                - Developer Tools
+                - Enterprise Software
+                - Operating Systems
+                - Software
+            yahoo_finance_data:
+              effective_ticker: MSFT
+            image_data:
+              fileName: microsoft-azure.svg
+              hash: oalKqYyicTTj5HJcsAsf+QhUqYUOzEyq55DcWlv4HCU=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Oracle Cloud Infrastructure
+            logo: oracle_cloud.svg
+            crunchbase: https://www.crunchbase.com/organization/oracle-cloud
+            homepage_url: https://www.oracle.com/cloud
+            extra:
+              github_org: https://github.com/oracle
+            crunchbase_data:
+              name: Oracle Cloud
+              description: Oracle Cloud is a cloud computing service offered by Oracle Corporation
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://www.oracle.com/cloud/
+              city: Redwood Shores
+              region: California
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/oracle
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries: []
+            image_data:
+              fileName: oracle-cloud-infrastructure.svg
+              hash: SRzVWdC9GTVFNoiw+E9gPUDl+LrQt6imwV/179OnmuQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Google Cloud
+            logo: googlecloud.svg
+            crunchbase: https://www.crunchbase.com/organization/google-cloud-platform
+            homepage_url: https://cloud.google.com
+            extra:
+              github_org: https://github.com/GoogleCloudPlatform
+            crunchbase_data:
+              name: Google Cloud
+              description: Google Cloud focuses on business challenges that head-on with cloud computing services from Google.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://cloud.google.com/
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: http://www.twitter.com/googlecloud
+              linkedin: https://www.linkedin.com/showcase/google-cloud
+              acquisitions:
+                - date: '2017-09-26'
+                  acquiree: Bitium
+                - date: '2019-11-18'
+                  acquiree: CloudSimple
+                - date: '2020-02-19'
+                  acquiree: Cornerstone
+                - date: '2020-12-02'
+                  acquiree: Actifio
+                - date: '2020-12-08'
+                  acquiree: Dataform
+                - date: '2022-04-29'
+                  acquiree: MobiledgeX
+              parents:
+                - https://www.crunchbase.com/organization/google
+                - https://www.crunchbase.com/organization/alphabet
+              ticker: GOOG
+              funding: 26100000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Cloud Data Services
+                - Developer Platform
+            yahoo_finance_data:
+              effective_ticker: GOOG
+            image_data:
+              fileName: google-cloud.svg
+              hash: XYjN2YfCLOT+YBD/Elj1AO/v5OquRckKSVw3k9jL8Tg=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: AWS
+            homepage_url: https://aws.amazon.com
+            logo: aws.svg
+            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
+            extra:
+              github_org: https://github.com/aws
+            crunchbase_data:
+              name: Amazon Web Services
+              description: Amazon Web Services provides information technology infrastructure services to businesses in the form of web services.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://aws.amazon.com
+              city: Seattle
+              region: Washington
+              country: United States
+              twitter: http://www.twitter.com/awscloud
+              linkedin: https://www.linkedin.com/company/amazon-web-services
+              acquisitions:
+                - date: '2015-07-14'
+                  acquiree: AppThwack
+                - date: '2016-02-11'
+                  acquiree: NICE
+                - date: '2017-03-06'
+                  acquiree: Thinkbox Software
+                - date: '2017-03-08'
+                  acquiree: Do
+                - date: '2018-01-23'
+                  acquiree: Sqrrl
+                - date: '2019-01-14'
+                  acquiree: TSO Logic
+                - date: '2020-02-21'
+                  acquiree: TeamSQL, Inc.
+                - date: '2021-01-28'
+                  acquiree: DB Best Technologies
+                - date: '2021-06-25'
+                  acquiree: Wickr
+              parents:
+                - https://www.crunchbase.com/organization/amazon
+              ticker: AMZN
+              funding: 8108000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Computer
+                - Consulting
+                - DevOps
+                - Information Services
+                - Information Technology
+                - Internet
+                - Service Industry
+                - Software
+                - Web Development
+            yahoo_finance_data:
+              effective_ticker: AMZN
+            image_data:
+              fileName: aws.svg
+              hash: 5lcFbSnisoeFuplPdpraEDkbqBtGd6edyYYfmOovB70=
+            best_practice_data:
+              badge: false
+              percentage: null
+      - subcategory:
+        name: Colocation
+        items:
+          - item:
+            name: Equinix
+            logo: equinix.svg
+            crunchbase: https://www.crunchbase.com/organization/dominion-energy
+            homepage_url: https://https://www.equinix.com
+            extra:
+              github_org: https://github.com/equinix
+            crunchbase_data:
+              name: Dominion Energy
+              description: Dominion Energy is committed to safely providing reliable, affordable and sustainable energy and to achieving Net Zero emissions by 2050.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: http://www.dominionenergy.com/
+              city: Richmond
+              region: Virginia
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/dominionenergy
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries: []
+            image_data:
+              fileName: equinix.svg
+              hash: g45AnwOX8e8Jns/iZnOvtUxQmwbtJWbz/bwjTJy9zrs=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Digital Realty
+            logo: digitalrealy.svg
+            crunchbase: https://www.crunchbase.com/organization/dominion-energy
+            homepage_url: https://www.digitalrealty.com
+            crunchbase_data:
+              name: Dominion Energy
+              description: Dominion Energy is committed to safely providing reliable, affordable and sustainable energy and to achieving Net Zero emissions by 2050.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: http://www.dominionenergy.com/
+              city: Richmond
+              region: Virginia
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/dominionenergy
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries: []
+            image_data:
+              fileName: digital-realty.svg
+              hash: gy+j15JOHhyWGsl8RStyhXNUgobRX48IgHmqrYVGx5I=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: CyrusOne
+            homepage_url: https://cyrusone.com
+            logo: cyrus.svg
+            crunchbase: https://www.crunchbase.com/organization/cyrusone
+            crunchbase_data:
+              name: CyrusOne
+              description: CyrusOne is a data center operator that offers colocation and peering services.
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: http://www.cyrusone.com
+              city: Houston
+              region: Texas
+              country: United States
+              twitter: http://twitter.com/Cyrusone
+              linkedin: https://www.linkedin.com/company/cyrusone
+              acquisitions:
+                - date: '2015-04-28'
+                  acquiree: Cervalis
+                - date: '2017-12-21'
+                  acquiree: Zenium Technology Partners(ZTP)
+              parents: []
+              ticker: CONE
+              funding: 2123587946
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Data Center
+                - Information Services
+                - Information Technology
+                - Web Hosting
+            yahoo_finance_data:
+              effective_ticker: CONE
+            image_data:
+              fileName: cyrus-one.svg
+              hash: NgQyGQmOa4npWaPnsIO0Yt0CwoZVbATJUECqjm030f0=
+            best_practice_data:
+              badge: false
+              percentage: null
+      - subcategory:
+        name: Edge
+        items:
+          - item:
+            name: EdgeConneX
+            logo: edgeconnex.svg
+            crunchbase: https://www.crunchbase.com/organization/dominion-energy
+            homepage_url: https://www.edgeconnex.com
+            crunchbase_data:
+              name: Dominion Energy
+              description: Dominion Energy is committed to safely providing reliable, affordable and sustainable energy and to achieving Net Zero emissions by 2050.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: http://www.dominionenergy.com/
+              city: Richmond
+              region: Virginia
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/dominionenergy
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries: []
+            image_data:
+              fileName: edge-conne-x.svg
+              hash: K03e+hktoUuEhcMJPLfwsRO0Zlfw7cO9mLUOGLBYTf0=
+            best_practice_data:
+              badge: false
+              percentage: null
   - category:
     name: Silicon
     subcategories:
@@ -2347,9 +3810,9 @@ landscape:
         items:
           - item:
             name: Intel
+            homepage_url: http://www.intel.com
             logo: intel.svg
             crunchbase: https://www.crunchbase.com/organization/intel
-            homepage_url: http://www.intel.com
             extra:
               github_org: https://github.com/intel
             crunchbase_data:
@@ -2606,9 +4069,9 @@ landscape:
         items:
           - item:
             name: Arm
+            homepage_url: http://www.arm.com
             logo: arm.svg
             crunchbase: https://www.crunchbase.com/organization/arm
-            homepage_url: http://www.arm.com
             extra:
               github_org: https://github.com/arm
             crunchbase_data:
@@ -2683,10 +4146,10 @@ landscape:
               percentage: null
           - item:
             name: NVidia
+            second_path: Silicon / DPU Manufacturers
+            homepage_url: http://nvidia.com
             logo: nvidia.svg
             crunchbase: https://www.crunchbase.com/organization/nvidia
-            homepage_url: http://nvidia.com
-            second_path: Silicon / DPU Manufacturers
             extra:
               github_org: https://github.com/nvidia
             crunchbase_data:
@@ -2771,9 +4234,9 @@ landscape:
         items:
           - item:
             name: Qualcomm
+            homepage_url: http://qualcomm.com
             logo: qualcomm.svg
             crunchbase: https://www.crunchbase.com/organization/qualcomm
-            homepage_url: http://qualcomm.com
             extra:
               github_org: https://github.com/qualcomm
             crunchbase_data:
@@ -2919,9 +4382,9 @@ landscape:
         items:
           - item:
             name: BittWare (Molex)
+            homepage_url: https://www.molex.com
             logo: bittware.svg
             crunchbase: https://www.crunchbase.com/organization/bittware
-            homepage_url: https://www.molex.com
             crunchbase_data:
               name: BittWare
               description: BittWare has designed and deployed high-end signal processing, network processing, and high performance computing board-level solutions.
@@ -2951,9 +4414,9 @@ landscape:
         items:
           - item:
             name: Fungible (Microsoft)
+            homepage_url: https://blogs.microsoft.com/blog/2023/01/09/microsoft-announces-acquisition-of-fungible-to-accelerate-datacenter-innovation/
             logo: fungible.svg
             crunchbase: https://www.crunchbase.com/organization/fungible-inc
-            homepage_url: https://blogs.microsoft.com/blog/2023/01/09/microsoft-announces-acquisition-of-fungible-to-accelerate-datacenter-innovation/
             crunchbase_data:
               name: Fungible
               description: Fungible creates hardware and software platforms for data centers.
@@ -2986,10 +4449,10 @@ landscape:
               percentage: null
           - item:
             name: Xilinx
+            second_path: Silicon / FPGAs
+            homepage_url: https://www.xilinx.com
             logo: xilinx.svg
             crunchbase: https://www.crunchbase.com/organization/xilinx
-            homepage_url: https://www.xilinx.com
-            second_path: Silicon / FPGAs
             extra:
               github_org: https://github.com/xilinx
             crunchbase_data:
@@ -3060,9 +4523,9 @@ landscape:
         items:
           - item:
             name: 3M
+            homepage_url: https://www.3m.com
             logo: 3m.svg
             crunchbase: https://www.crunchbase.com/organization/3m
-            homepage_url: https://www.3m.com
             crunchbase_data:
               name: 3M
               description: 3M operates as a diversified technology company.
@@ -3251,9 +4714,9 @@ landscape:
               percentage: null
           - item:
             name: BP Castrol
+            homepage_url: https://www.castrol.com
             logo: castrol.svg
             crunchbase: https://www.crunchbase.com/organization/bp-castrol
-            homepage_url: https://www.castrol.com
             crunchbase_data:
               name: British Petroleum
               description: British Petroleum is an integrated oil and gas company. Reimagining energy for people and our planet.
@@ -3317,9 +4780,9 @@ landscape:
               percentage: null
           - item:
             name: Lubrizol
+            homepage_url: https://lubrizol.com
             logo: lubrizol.svg
             crunchbase: https://www.crunchbase.com/organization/the-lubrizol-corp
-            homepage_url: https://lubrizol.com
             crunchbase_data:
               name: The Lubrizol Corp
               description: A Berkshire Hathaway company, is a technology-driven global company
@@ -3362,9 +4825,9 @@ landscape:
               percentage: null
           - item:
             name: Shell
+            homepage_url: https://www.shell.com
             logo: shell.svg
             crunchbase: https://www.crunchbase.com/organization/shell
-            homepage_url: https://www.shell.com
             crunchbase_data:
               name: Shell
               description: Shell is a global energy company with around 87,000 employees in more than 70 countries.
@@ -3395,9 +4858,9 @@ landscape:
         items:
           - item:
             name: Maxwell Labs
+            homepage_url: https://maxwell-labs.com
             logo: maxwell.svg
             crunchbase: https://www.crunchbase.com/organization/maxwell-labs
-            homepage_url: https://maxwell-labs.com
             extra:
               github_org: https://github.com/maxwell-labs
             crunchbase_data:
@@ -3433,3 +4896,4 @@ landscape:
       - subcategory:
         name: Premier
         items: []
+updated_at: 2024-02-13T14:54:15.580Z

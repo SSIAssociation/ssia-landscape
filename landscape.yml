@@ -7,16 +7,16 @@ landscape:
         items:
           - item:
             name: EkkoSense
+            homepage_url: https://www.ekkosense.com
             logo: ekkosense.svg
             crunchbase: https://www.crunchbase.com/organization/dominion-energy
-            homepage_url: https://www.ekkosense.com
             extra:
               github_org: https://github.com/EkkoSense
           - item:
             name: Siemens
+            homepage_url: https://www.siemens.com
             logo: siemens.svg
             crunchbase: https://www.crunchbase.com/organization/siemens
-            homepage_url: https://www.siemens.com
             extra:
               github_org: https://github.com/siemens
   - category:
@@ -27,9 +27,9 @@ landscape:
         items:
           - item:
             name: Kraft Cloud
+            homepage_url: https://kraft.cloud
             logo: kraftcloud.svg
             crunchbase: https://www.crunchbase.com/organization/salesforce
-            homepage_url: https://kraft.cloud
             extra:
               github_org: https://github.com/kraftcloud
       - subcategory:
@@ -37,9 +37,9 @@ landscape:
         items:
           - item:
             name: Salesforce
+            homepage_url: https://www.salesforce.com
             logo: salesforce.svg
             crunchbase: https://www.crunchbase.com/organization/salesforce
-            homepage_url: https://www.salesforce.com
             extra:
               github_org: https://github.com/salesforce
   - category:
@@ -50,16 +50,16 @@ landscape:
         items:
           - item:
             name: Arista
+            homepage_url: https://www.arista.com
             logo: arista.svg
             crunchbase: https://www.crunchbase.com/organization/arista-networks
-            homepage_url: https://www.arista.com
             extra:
               github_org: https://github.com/aristanetworks
           - item:
             name: Juniper
+            homepage_url: https://juniper.net
             logo: juniper.svg
             crunchbase: https://www.crunchbase.com/organization/juniper-networks
-            homepage_url: https://juniper.net
             extra:
               github_org: https://github.com/Juniper
       - subcategory:
@@ -67,30 +67,30 @@ landscape:
         items:
           - item:
             name: Broadcom
+            second_path: Data Transfer / Ethernet
+            homepage_url: https://www.broadcom.com/
             logo: broadcom.svg
             crunchbase: https://www.crunchbase.com/organization/broadcom
-            homepage_url: https://www.broadcom.com/
-            second_path: Data Transfer / Ethernet
             extra:
               github_org: https://github.com/Broadcom
           - item:
             name: Finisar
+            homepage_url: https://finisar.com/
             logo: finisar.svg
             crunchbase: https://www.crunchbase.com/organization/finisar
-            homepage_url: https://finisar.com/
           - item:
             name: Jabil
+            homepage_url: https://jabil.com
             logo: jabil.svg
             crunchbase: https://www.crunchbase.com/organization/jabil
-            homepage_url: https://jabil.com
             extra:
               subcategory: Silicon Photonics
               github_org: https://github.com/Jabil
           - item:
             name: Molex
+            homepage_url: https://www.molex.com
             logo: molex.svg
             crunchbase: https://www.crunchbase.com/organization/molex
-            homepage_url: https://www.molex.com
   - category:
     name: Datacenter Construction
     subcategories:
@@ -98,232 +98,329 @@ landscape:
         name: Carbon Sequestration/Direct Air Capture
         items:
           - item:
-            name: OpenDAC
-            logo: opendac.svg
-            homepage_url: https://open-dac.github.io/
-            organization:
-              name: ODAC23
-          - item:
             name: Carbon Engineering Ltd.
+            homepage_url: https://carbonengineering.com
             logo: carbonengineering.svg
             crunchbase: https://www.crunchbase.com/organization/carbon-engineering
-            homepage_url: https://carbonengineering.com
           - item:
             name: Climeworks
+            homepage_url: https://www.climeworks.com
             logo: climeworks.svg
             crunchbase: https://www.crunchbase.com/organization/climeworks
-            homepage_url: https://www.climeworks.com
           - item:
             name: Exxon
+            second_path: Fluids and Chemicals / Dielectrics
+            homepage_url: https://www.exxon.com
             logo: exxon.svg
             crunchbase: https://www.crunchbase.com/organization/dominion-energy
-            homepage_url: https://www.exxon.com
-            second_path: Fluids and Chemicals / Dielectrics
           - item:
             name: Exxon Mobil
-            logo: exxon.svg
-            homepage_url: https://corporate.exxonmobil.com/
-            crunchbase: https://www.crunchbase.com/organization/dominion-energy
             second_path: Fluids and Chemicals / Dielectrics
+            homepage_url: https://corporate.exxonmobil.com/
+            logo: exxon.svg
+            crunchbase: https://www.crunchbase.com/organization/dominion-energy
+          - item:
+            name: OpenDAC
+            homepage_url: https://open-dac.github.io/
+            logo: opendac.svg
+            organization:
+              name: ODAC23
       - subcategory:
         name: Electric Construction Equipment
         items:
           - item:
-            name: Oshkosh Corp
-            logo: oshkosh.svg
-            homepage_url: https://www.oshkoshcorp.com
-            crunchbase: https://www.crunchbase.com/organization/oshkosh-corporation
-          - item:
             name: Doosan
+            homepage_url: https://www.doosan.com
             logo: doosan.svg
             crunchbase: https://www.crunchbase.com/organization/dominion-energy
-            homepage_url: https://www.doosan.com
           - item:
             name: JLG Industries
+            homepage_url: https://jlg.com
             logo: jlg.svg
             crunchbase: https://www.crunchbase.com/organization/jlg-industries-inc
-            homepage_url: https://jlg.com
+          - item:
+            name: Oshkosh Corp
+            homepage_url: https://www.oshkoshcorp.com
+            logo: oshkosh.svg
+            crunchbase: https://www.crunchbase.com/organization/oshkosh-corporation
       - subcategory:
         name: Modular DC
         items:
           - item:
             name: Eclairion/CGG
+            homepage_url: https://www.cgg.com
             logo: cgg.svg
             crunchbase: https://www.crunchbase.com/organization/dominion-energy
-            homepage_url: https://www.cgg.com
       - subcategory:
         name: Retrofits
         items:
           - item:
             name: HKS
+            homepage_url: https://hksinc.com
             logo: hks.svg
             crunchbase: https://www.crunchbase.com/organization/hks
-            homepage_url: https://hksinc.com
       - subcategory:
         name: Waste Recycling
         items:
           - item:
-            name: Wisetek
-            logo: wisetek.svg
-            crunchbase: https://www.crunchbase.com/organization/wisetek
-            homepage_url: https://www.wisetek.net
-          - item:
             name: ITRenew
+            homepage_url: https://itrenew.com
             logo: itrenew.svg
             crunchbase: https://www.crunchbase.com/organization/itrenew
-            homepage_url: https://itrenew.com
             extra:
               github_org: https://github.com/ITRenew
           - item:
             name: Mint Innovation
+            homepage_url: https://www.mint.bio/
             logo: mint.svg
             crunchbase: https://www.crunchbase.com/organization/mint-innovation
-            homepage_url: https://www.mint.bio/
+          - item:
+            name: Wisetek
+            homepage_url: https://www.wisetek.net
+            logo: wisetek.svg
+            crunchbase: https://www.crunchbase.com/organization/wisetek
       - subcategory:
         name: Green Concrete
         items:
           - item:
-            name: Solidia Technologies
-            logo: solidia.svg
-            crunchbase: https://www.crunchbase.com/organization/solidia-technologies
-            homepage_url: https://www.solidiatech.com
-          - item:
-            name: Ozinga
-            logo: ozinga.svg
-            crunchbase: https://www.crunchbase.com/organization/ozinga
-            homepage_url: https://www.ozinga.com
-          - item:
-            name: Prometheus Materials
-            logo: prometheus.svg
-            crunchbase: https://www.crunchbase.com/organization/prometheus-materials
-            homepage_url: https://www.prometheusmaterials.com
-          - item:
             name: Minus Materials
+            homepage_url: https://minusmaterials.com
             logo: minusmaterials.svg
             crunchbase: https://www.crunchbase.com/organization/minus-materials
-            homepage_url: https://minusmaterials.com
+          - item:
+            name: Ozinga
+            homepage_url: https://www.ozinga.com
+            logo: ozinga.svg
+            crunchbase: https://www.crunchbase.com/organization/ozinga
+          - item:
+            name: Prometheus Materials
+            homepage_url: https://www.prometheusmaterials.com
+            logo: prometheus.svg
+            crunchbase: https://www.crunchbase.com/organization/prometheus-materials
+          - item:
+            name: Solidia Technologies
+            homepage_url: https://www.solidiatech.com
+            logo: solidia.svg
+            crunchbase: https://www.crunchbase.com/organization/solidia-technologies
       - subcategory:
         name: Wooden Structures
         items:
           - item:
-            name: WoodWorks
-            logo: woodworks.svg
-            crunchbase: https://www.crunchbase.com/organization/woodworks
-            homepage_url: https://www.woodworks.org/
-          - item:
-            name: Softwood Lumber Board
-            logo: softwoord.svg
-            crunchbase: https://www.crunchbase.com/organization/softwood-lumber-board
-            homepage_url: https://www.softwoodlumberboard.org
-          - item:
             name: NYC Mass Timber Lab/Studio (NYCEDC)
+            homepage_url: https://www.nycedc.com
             logo: masstimber.svg
             organization:
               name: NYC / EDC
-            homepage_url: https://www.nycedc.com
+          - item:
+            name: Softwood Lumber Board
+            homepage_url: https://www.softwoodlumberboard.org
+            logo: softwoord.svg
+            crunchbase: https://www.crunchbase.com/organization/softwood-lumber-board
+          - item:
+            name: WoodWorks
+            homepage_url: https://www.woodworks.org/
+            logo: woodworks.svg
+            crunchbase: https://www.crunchbase.com/organization/woodworks
+  - category:
+    name: Datacenter Cooling
+    subcategories:
       - subcategory:
         name: CRAH/CRAC
         items:
           - item:
-            name: Stulz
-            logo: stulz.svg
-            crunchbase: https://www.crunchbase.com/organization/stulz
-            homepage_url: https://www.stulz-usa.com
-          - item:
             name: Airedale
+            homepage_url: https://www.airedale.com
             logo: airedale.svg
             crunchbase: https://www.crunchbase.com/organization/airedale-international-air-conditioning-ltd
-            homepage_url: https://www.airedale.com
+          - item:
+            name: Stulz
+            homepage_url: https://www.stulz-usa.com
+            logo: stulz.svg
+            crunchbase: https://www.crunchbase.com/organization/stulz
       - subcategory:
         name: Heat Exchangers
         items:
           - item:
-            name: Tetra Pak
-            logo: tetrapak.svg
-            crunchbase: https://www.crunchbase.com/organization/tetra-pak
-            homepage_url: https://www.tetrapak.com
-          - item:
             name: Alfa Laval
+            homepage_url: https://www.alfalaval.com
             logo: alfa.svg
             crunchbase: https://www.crunchbase.com/organization/alfa-laval
-            homepage_url: https://www.alfalaval.com
+          - item:
+            name: Tetra Pak
+            homepage_url: https://www.tetrapak.com
+            logo: tetrapak.svg
+            crunchbase: https://www.crunchbase.com/organization/tetra-pak
       - subcategory:
         name: Cooling Towers
         items:
           - item:
-            name: SPX Cooling Technologies
-            logo: spx.svg
-            crunchbase: https://www.crunchbase.com/organization/spx-cooling-technologies
-            homepage_url: https://spxcooling.com
-          - item:
             name: American Standard
+            homepage_url: https://www.americanstandard-us.com
             logo: americanstandard.svg
             crunchbase: https://www.crunchbase.com/organization/american-standard-2f52
-            homepage_url: https://www.americanstandard-us.com
           - item:
             name: Delta Cooling Towers
+            homepage_url: https://deltacooling.com/
             logo: delta.svg
             crunchbase: https://www.crunchbase.com/organization/delta-cooling-towers
-            homepage_url: https://deltacooling.com/
           - item:
             name: Evapco
+            homepage_url: https://www.evapco.com
             logo: evapco.svg
             crunchbase: https://www.crunchbase.com/organization/dominion-energy
-            homepage_url: https://www.evapco.com
+          - item:
+            name: SPX Cooling Technologies
+            homepage_url: https://spxcooling.com
+            logo: spx.svg
+            crunchbase: https://www.crunchbase.com/organization/spx-cooling-technologies
       - subcategory:
         name: Dry Coolers
         items:
           - item:
             name: Modine
+            homepage_url: https://www.modine.com
             logo: modine.svg
             crunchbase: https://www.crunchbase.com/organization/modine-manufacturing-company
-            homepage_url: https://www.modine.com
       - subcategory:
         name: Data Compression
         items:
           - item:
             name: OpenMP
+            homepage_url: https://www.openmp.org
             logo: openmp.svg
             crunchbase: https://www.crunchbase.com/organization/openmp
-            homepage_url: https://www.openmp.org
             extra:
               github_org: https://github.com/OpenMP
       - subcategory:
         name: Chillers
         items:
           - item:
-            name: Trane
-            logo: trane.svg
-            crunchbase: https://www.crunchbase.com/organization/trane
-            homepage_url: https://www.trane.com
-          - item:
             name: Carrier
+            homepage_url: https://www.carrier.com
             logo: carrier.svg
             crunchbase: https://www.crunchbase.com/organization/carrier
-            homepage_url: https://www.carrier.com
           - item:
             name: Daikin
+            homepage_url: https://www.daikin.com
             logo: daikin.svg
             crunchbase: https://www.crunchbase.com/organization/daikin
-            homepage_url: https://www.daikin.com
+          - item:
+            name: Trane
+            homepage_url: https://www.trane.com
+            logo: trane.svg
+            crunchbase: https://www.crunchbase.com/organization/trane
+  - category:
+    name: Datacenter Operations
+    subcategories:
+      - subcategory:
+        name: Archives
+        items:
+          - item:
+            name: IBM
+            logo: ibm.svg
+            crunchbase: https://www.crunchbase.com/organization/ibm
+            homepage_url: https://ibm.com
+            extra:
+              github_org: https://github.com/IBM
+            second_path: Datacenter Operations / Enterprise
       - subcategory:
         name: Enterprise
         items:
           - item:
+            name: HPE
+            logo: hpe.svg
+            homepage_url: https://hpe.com
+            crunchbase: https://www.crunchbase.com/organization/hewlett-packard-enterprise
+            extra:
+              github_org: https://github.com/HewlettPackard
+            second_path: Datacenter Construction / Modular DC
+          - item:
             name: AT&T
+            homepage_url: https://www.att.com
             logo: att.svg
             crunchbase: https://www.crunchbase.com/organization/at-t
-            homepage_url: https://www.att.com
             extra:
               github_org: https://github.com/att
+          - item:
+            name: Cyxtera
+            homepage_url: https://www.cyxtera.com
+            logo: cyxtera.svg
+            crunchbase: https://www.crunchbase.com/organization/cyxtera-technologies
+      - subcategory:
+        name: GPU Manufacturers
+        items:
+          - item:
+            name: DEEPX
+            logo: deepx.svg
+            crunchbase: https://www.crunchbase.com/organization/deepx-c937
+            homepage_url: https://www.deepxtech.com
       - subcategory:
         name: CDUs
         items:
           - item:
             name: Coolcentric
+            homepage_url: https://www.coolcentric.com
             logo: coolcentric.svg
             crunchbase: https://www.crunchbase.com/organization/coolcentric
-            homepage_url: https://www.coolcentric.com
+      - subcategory:
+        name: Hyperscale
+        items:
+          - item:
+            name: Microsoft Azure
+            logo: microsoft_azure.svg
+            crunchbase: https://www.crunchbase.com/organization/microsoft
+            homepage_url: https://azure.microsoft.com
+            extra:
+              github_org: https://github.com/Azure
+          - item:
+            name: Oracle Cloud Infrastructure
+            logo: oracle_cloud.svg
+            crunchbase: https://www.crunchbase.com/organization/oracle-cloud
+            homepage_url: https://www.oracle.com/cloud
+            extra:
+              github_org: https://github.com/oracle
+          - item:
+            name: Google Cloud
+            logo: googlecloud.svg
+            crunchbase: https://www.crunchbase.com/organization/google-cloud-platform
+            homepage_url: https://cloud.google.com
+            extra:
+              github_org: https://github.com/GoogleCloudPlatform
+          - item:
+            name: AWS
+            homepage_url: https://aws.amazon.com
+            logo: aws.svg
+            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
+            extra:
+              github_org: https://github.com/aws
+      - subcategory:
+        name: Colocation
+        items:
+          - item:
+            name: Equinix
+            logo: equinix.svg
+            crunchbase: https://www.crunchbase.com/organization/dominion-energy
+            homepage_url: https://https://www.equinix.com
+            extra:
+              github_org: https://github.com/equinix
+          - item:
+            name: Digital Realty
+            logo: digitalrealy.svg
+            crunchbase: https://www.crunchbase.com/organization/dominion-energy
+            homepage_url: https://www.digitalrealty.com
+          - item:
+            name: CyrusOne
+            homepage_url: https://cyrusone.com
+            logo: cyrus.svg
+            crunchbase: https://www.crunchbase.com/organization/cyrusone
+      - subcategory:
+        name: Edge
+        items:
+          - item:
+            name: EdgeConneX
+            logo: edgeconnex.svg
+            crunchbase: https://www.crunchbase.com/organization/dominion-energy
+            homepage_url: https://www.edgeconnex.com
   - category:
     name: Silicon
     subcategories:
@@ -332,9 +429,9 @@ landscape:
         items:
           - item:
             name: Intel
+            homepage_url: http://www.intel.com
             logo: intel.svg
             crunchbase: https://www.crunchbase.com/organization/intel
-            homepage_url: http://www.intel.com
             extra:
               github_org: https://github.com/intel
       - subcategory:
@@ -342,17 +439,17 @@ landscape:
         items:
           - item:
             name: Arm
+            homepage_url: http://www.arm.com
             logo: arm.svg
             crunchbase: https://www.crunchbase.com/organization/arm
-            homepage_url: http://www.arm.com
             extra:
               github_org: https://github.com/arm
           - item:
             name: NVidia
+            second_path: Silicon / DPU Manufacturers
+            homepage_url: http://nvidia.com
             logo: nvidia.svg
             crunchbase: https://www.crunchbase.com/organization/nvidia
-            homepage_url: http://nvidia.com
-            second_path: Silicon / DPU Manufacturers
             extra:
               github_org: https://github.com/nvidia
       - subcategory:
@@ -360,9 +457,9 @@ landscape:
         items:
           - item:
             name: Qualcomm
+            homepage_url: http://qualcomm.com
             logo: qualcomm.svg
             crunchbase: https://www.crunchbase.com/organization/qualcomm
-            homepage_url: http://qualcomm.com
             extra:
               github_org: https://github.com/qualcomm
       - subcategory:
@@ -370,23 +467,23 @@ landscape:
         items:
           - item:
             name: BittWare (Molex)
+            homepage_url: https://www.molex.com
             logo: bittware.svg
             crunchbase: https://www.crunchbase.com/organization/bittware
-            homepage_url: https://www.molex.com
       - subcategory:
         name: DPU Manufacturers
         items:
           - item:
             name: Fungible (Microsoft)
+            homepage_url: https://blogs.microsoft.com/blog/2023/01/09/microsoft-announces-acquisition-of-fungible-to-accelerate-datacenter-innovation/
             logo: fungible.svg
             crunchbase: https://www.crunchbase.com/organization/fungible-inc
-            homepage_url: https://blogs.microsoft.com/blog/2023/01/09/microsoft-announces-acquisition-of-fungible-to-accelerate-datacenter-innovation/
           - item:
             name: Xilinx
+            second_path: Silicon / FPGAs
+            homepage_url: https://www.xilinx.com
             logo: xilinx.svg
             crunchbase: https://www.crunchbase.com/organization/xilinx
-            homepage_url: https://www.xilinx.com
-            second_path: Silicon / FPGAs
             extra:
               github_org: https://github.com/xilinx
   - category:
@@ -397,32 +494,32 @@ landscape:
         items:
           - item:
             name: 3M
+            homepage_url: https://www.3m.com
             logo: 3m.svg
             crunchbase: https://www.crunchbase.com/organization/3m
-            homepage_url: https://www.3m.com
           - item:
             name: BP Castrol
+            homepage_url: https://www.castrol.com
             logo: castrol.svg
             crunchbase: https://www.crunchbase.com/organization/bp-castrol
-            homepage_url: https://www.castrol.com
           - item:
             name: Lubrizol
+            homepage_url: https://lubrizol.com
             logo: lubrizol.svg
             crunchbase: https://www.crunchbase.com/organization/the-lubrizol-corp
-            homepage_url: https://lubrizol.com
           - item:
             name: Shell
+            homepage_url: https://www.shell.com
             logo: shell.svg
             crunchbase: https://www.crunchbase.com/organization/shell
-            homepage_url: https://www.shell.com
       - subcategory:
         name: Advanced Coatings/Pastes
         items:
           - item:
             name: Maxwell Labs
+            homepage_url: https://maxwell-labs.com
             logo: maxwell.svg
             crunchbase: https://www.crunchbase.com/organization/maxwell-labs
-            homepage_url: https://maxwell-labs.com
             extra:
               github_org: https://github.com/maxwell-labs
   - category:
