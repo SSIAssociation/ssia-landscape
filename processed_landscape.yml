@@ -1049,7 +1049,7 @@ landscape:
             name: Molex
             logo: molex.svg
             crunchbase: https://www.crunchbase.com/organization/molex
-            homepage_url: www.molex.com
+            homepage_url: https://www.molex.com
             crunchbase_data:
               name: Molex
               description: Molex is a supplier of electronic interconnects.
@@ -1088,6 +1088,326 @@ landscape:
             image_data:
               fileName: molex.svg
               hash: YsBGdhLFp95WE1uk8i2Qgo8xMwzTtHXEkYEzvJw2jl0=
+            best_practice_data:
+              badge: false
+              percentage: null
+  - category:
+    name: Datacenter Construction
+    subcategories:
+      - subcategory:
+        name: Carbon Sequestration/Direct Air Capture
+        items:
+          - item:
+            name: Carbon Engineering Ltd.
+            logo: carbonengineering.svg
+            crunchbase: https://www.crunchbase.com/organization/carbon-engineering
+            homepage_url: https://carbonengineering.com
+            crunchbase_data:
+              name: Carbon Engineering
+              description: Carbon Engineering uses technology to capture carbon dioxide from the atmosphere and convert it into transportation fuels.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: http://carbonengineering.com
+              city: Squamish
+              region: British Columbia
+              country: Canada
+              twitter: https://twitter.com/CarbonEngineer
+              linkedin: https://www.linkedin.com/company/carbon-engineering-limited
+              acquisitions: []
+              parents: []
+              funding: 110355247
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Carbon Capture
+                - Clean Energy
+                - Environmental Engineering
+                - Renewable Energy
+              kind: funding
+            image_data:
+              fileName: carbon-engineering-ltd.svg
+              hash: HUvaAeU25M7EtczkzQ6cBQV/79SzKWSr9b1/OVSovxU=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Climeworks
+            logo: climeworks.svg
+            crunchbase: https://www.crunchbase.com/organization/climeworks
+            homepage_url: https://www.climeworks.com
+            crunchbase_data:
+              name: Climeworks
+              description: Climeworks engages in capturing CO2 from the air via commercial carbon dioxide removal technology.
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: http://www.climeworks.com
+              city: Zürich
+              region: Zurich
+              country: Switzerland
+              twitter: http://www.twitter.com/Climeworks
+              linkedin: https://www.linkedin.com/company/climeworks
+              acquisitions: []
+              parents: []
+              funding: 784122928
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Carbon Capture
+                - CleanTech
+                - Environmental Engineering
+                - GreenTech
+              kind: funding
+            image_data:
+              fileName: climeworks.svg
+              hash: ipdrwVWDl4kVPJbSJH+f/cynYwfeh6ZOvjRl2V5rfsU=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Exxon
+            logo: exxon.svg
+            crunchbase: https://www.crunchbase.com/organization/dominion-energy
+            homepage_url: https://www.exxon.com
+            second_path: Fluids and Chemicals / Dielectrics
+            crunchbase_data:
+              name: Dominion Energy
+              description: Dominion Energy is committed to safely providing reliable, affordable and sustainable energy and to achieving Net Zero emissions by 2050.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: http://www.dominionenergy.com/
+              city: Richmond
+              region: Virginia
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/dominionenergy
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries: []
+            image_data:
+              fileName: exxon.svg
+              hash: Lf7MPWvHcrI+P687u/tNys6JDoIS3ISd/4wKqtFjVSE=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Exxon Mobil
+            logo: exxon.svg
+            homepage_url: https://corporate.exxonmobil.com/
+            crunchbase: https://www.crunchbase.com/organization/dominion-energy
+            second_path: Fluids and Chemicals / Dielectrics
+            crunchbase_data:
+              name: Dominion Energy
+              description: Dominion Energy is committed to safely providing reliable, affordable and sustainable energy and to achieving Net Zero emissions by 2050.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: http://www.dominionenergy.com/
+              city: Richmond
+              region: Virginia
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/dominionenergy
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries: []
+            image_data:
+              fileName: exxon-mobil.svg
+              hash: Lf7MPWvHcrI+P687u/tNys6JDoIS3ISd/4wKqtFjVSE=
+            best_practice_data:
+              badge: false
+              percentage: null
+      - subcategory:
+        name: Electric Construction Equipment
+        items:
+          - item:
+            name: Doosan
+            logo: doosan.svg
+            crunchbase: https://www.crunchbase.com/organization/dominion-energy
+            homepage_url: https://www.doosan.com
+            crunchbase_data:
+              name: Dominion Energy
+              description: Dominion Energy is committed to safely providing reliable, affordable and sustainable energy and to achieving Net Zero emissions by 2050.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: http://www.dominionenergy.com/
+              city: Richmond
+              region: Virginia
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/dominionenergy
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries: []
+            image_data:
+              fileName: doosan.svg
+              hash: O4Rcgswl1bJoe2PShZoObh4J+XdXHmZxGQgNIVGe9NM=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: JLG Industries
+            logo: jlg.svg
+            crunchbase: https://www.crunchbase.com/organization/jlg-industries-inc
+            homepage_url: https://jlg.com
+            crunchbase_data:
+              name: JLG Industries
+              description: JLG Industries is an American designer, manufacturer and marketer of access equipment.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://www.jlg.com/en
+              city: Mc Connellsburg
+              region: Pennsylvania
+              country: United States
+              twitter: https://twitter.com/jlg_industries
+              linkedin: https://www.linkedin.com/company/jlg-industries
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Manufacturing
+            image_data:
+              fileName: jlg-industries.svg
+              hash: QnWD66yjFafKRwKOc7Sgv8nd1J+N9JMZMcjCKkZQ2Aw=
+            best_practice_data:
+              badge: false
+              percentage: null
+      - subcategory:
+        name: Modular DC
+        items:
+          - item:
+            name: Eclairion/CGG
+            logo: cgg.svg
+            crunchbase: https://www.crunchbase.com/organization/dominion-energy
+            homepage_url: https://www.cgg.com
+            crunchbase_data:
+              name: Dominion Energy
+              description: Dominion Energy is committed to safely providing reliable, affordable and sustainable energy and to achieving Net Zero emissions by 2050.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: http://www.dominionenergy.com/
+              city: Richmond
+              region: Virginia
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/dominionenergy
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries: []
+            image_data:
+              fileName: eclairion-cgg.svg
+              hash: oH2DGocEzTAB2OzjrPbSeIxX4uTQ60TpksNzErul+FE=
+            best_practice_data:
+              badge: false
+              percentage: null
+      - subcategory:
+        name: Retrofits
+        items:
+          - item:
+            name: HKS
+            logo: hks.svg
+            crunchbase: https://www.crunchbase.com/organization/hks
+            homepage_url: https://hksinc.com
+            crunchbase_data:
+              name: HKS
+              description: HKS provides services in risk management, investment calculation, customer management, controlling, and business reporting.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://www.hksinformatik.de
+              city: Moers
+              region: Nordrhein-Westfalen
+              country: Germany
+              twitter: null
+              linkedin: https://www.linkedin.com/company/hks-informatik-gmbh/?originalSubdomain=de
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Business Development
+                - Consulting
+                - Risk Management
+            image_data:
+              fileName: hks.svg
+              hash: 5pONOI7D7lorSO1iVCXNwV+GSzyuxeS26XS49mRmCtc=
+            best_practice_data:
+              badge: false
+              percentage: null
+      - subcategory:
+        name: Waste Recycling
+        items:
+          - item:
+            name: ITRenew
+            logo: itrenew.svg
+            crunchbase: https://www.crunchbase.com/organization/itrenew
+            homepage_url: https://itrenew.com
+            extra:
+              github_org: https://github.com/ITRenew
+            crunchbase_data:
+              name: ITRenew
+              description: ITRenew provides ITAD and data security for the new era of cloud computing and mass storage.
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: http://itrenew.com
+              city: Newark
+              region: California
+              country: United States
+              twitter: https://twitter.com/itrenewinc
+              linkedin: https://www.linkedin.com/company/itrenew
+              acquisitions:
+                - date: '2018-06-11'
+                  acquiree: Splitted-Desktop Systems
+                - date: '2018-10-11'
+                  acquiree: eSISO
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cyber Security
+                - Data Center
+                - Hardware
+                - Information Technology
+                - Security
+            image_data:
+              fileName: it-renew.svg
+              hash: 1tkf5EgSPdghwr9o6ELExIHgiXaj0D79Rpu85tUDzmQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Mint Innovation
+            logo: mint.svg
+            crunchbase: https://www.crunchbase.com/organization/mint-innovation
+            homepage_url: https://www.mint.bio/
+            crunchbase_data:
+              name: Mint Innovation
+              description: Developing a biometallurgical processes that use microbes to capture value from metal waste streams while mitigating environmental harm.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.mint.bio
+              city: Parnell
+              region: Auckland
+              country: New Zealand
+              twitter: https://twitter.com/MintInnovation1
+              linkedin: https://www.linkedin.com/company/mintinnovation
+              acquisitions: []
+              parents: []
+              funding: 37117206
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Biotechnology
+              kind: funding
+            image_data:
+              fileName: mint-innovation.svg
+              hash: YZHx+Wf+aJumrmw7+8CuwkGSHvSAHI1Fs/K5RxA82Js=
             best_practice_data:
               badge: false
               percentage: null

@@ -92,6 +92,78 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/molex
             homepage_url: https://www.molex.com
   - category:
+    name: Datacenter Construction
+    subcategories:
+      - subcategory:
+        name: Carbon Sequestration/Direct Air Capture
+        items:
+          - item:
+            name: Carbon Engineering Ltd.
+            logo: carbonengineering.svg
+            crunchbase: https://www.crunchbase.com/organization/carbon-engineering
+            homepage_url: https://carbonengineering.com
+          - item:
+            name: Climeworks
+            logo: climeworks.svg
+            crunchbase: https://www.crunchbase.com/organization/climeworks
+            homepage_url: https://www.climeworks.com
+          - item:
+            name: Exxon
+            logo: exxon.svg
+            crunchbase: https://www.crunchbase.com/organization/dominion-energy
+            homepage_url: https://www.exxon.com
+            second_path: Fluids and Chemicals / Dielectrics
+          - item:
+            name: Exxon Mobil
+            logo: exxon.svg
+            homepage_url: https://corporate.exxonmobil.com/
+            crunchbase: https://www.crunchbase.com/organization/dominion-energy
+            second_path: Fluids and Chemicals / Dielectrics
+      - subcategory:
+        name: Electric Construction Equipment
+        items:
+          - item:
+            name: Doosan
+            logo: doosan.svg
+            crunchbase: https://www.crunchbase.com/organization/dominion-energy
+            homepage_url: https://www.doosan.com
+          - item:
+            name: JLG Industries
+            logo: jlg.svg
+            crunchbase: https://www.crunchbase.com/organization/jlg-industries-inc
+            homepage_url: https://jlg.com
+      - subcategory:
+        name: Modular DC
+        items:
+          - item:
+            name: Eclairion/CGG
+            logo: cgg.svg
+            crunchbase: https://www.crunchbase.com/organization/dominion-energy
+            homepage_url: https://www.cgg.com
+      - subcategory:
+        name: Retrofits
+        items:
+          - item:
+            name: HKS
+            logo: hks.svg
+            crunchbase: https://www.crunchbase.com/organization/hks
+            homepage_url: https://hksinc.com
+      - subcategory:
+        name: Waste Recycling
+        items:
+          - item:
+            name: ITRenew
+            logo: itrenew.svg
+            crunchbase: https://www.crunchbase.com/organization/itrenew
+            homepage_url: https://itrenew.com
+            extra:
+              github_org: https://github.com/ITRenew
+          - item:
+            name: Mint Innovation
+            logo: mint.svg
+            crunchbase: https://www.crunchbase.com/organization/mint-innovation
+            homepage_url: https://www.mint.bio/
+  - category:
     name: Silicon
     subcategories:
       - subcategory:
