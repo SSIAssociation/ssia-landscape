@@ -225,6 +225,11 @@ landscape:
         name: CRAH/CRAC
         items:
           - item:
+            name: Stulz
+            logo: stulz.svg
+            crunchbase: https://www.crunchbase.com/organization/stulz
+            homepage_url: https://www.stulz-usa.com
+          - item:
             name: Airedale
             logo: airedale.svg
             crunchbase: https://www.crunchbase.com/organization/airedale-international-air-conditioning-ltd
@@ -233,6 +238,11 @@ landscape:
         name: Heat Exchangers
         items:
           - item:
+            name: Tetra Pak
+            logo: tetrapak.svg
+            crunchbase: https://www.crunchbase.com/organization/tetra-pak
+            homepage_url: https://www.tetrapak.com
+          - item:
             name: Alfa Laval
             logo: alfa.svg
             crunchbase: https://www.crunchbase.com/organization/alfa-laval
@@ -240,6 +250,11 @@ landscape:
       - subcategory:
         name: Cooling Towers
         items:
+          - item:
+            name: SPX Cooling Technologies
+            logo: spx.svg
+            crunchbase: https://www.crunchbase.com/organization/spx-cooling-technologies
+            homepage_url: https://spxcooling.com
           - item:
             name: American Standard
             logo: americanstandard.svg
@@ -277,6 +292,11 @@ landscape:
         name: Chillers
         items:
           - item:
+            name: Trane
+            logo: trane.svg
+            crunchbase: https://www.crunchbase.com/organization/trane
+            homepage_url: https://www.trane.com
+          - item:
             name: Carrier
             logo: carrier.svg
             crunchbase: https://www.crunchbase.com/organization/carrier
@@ -286,6 +306,16 @@ landscape:
             logo: daikin.svg
             crunchbase: https://www.crunchbase.com/organization/daikin
             homepage_url: https://www.daikin.com
+      - subcategory:
+        name: Enterprise
+        items:
+          - item:
+            name: AT&T
+            logo: att.svg
+            crunchbase: https://www.crunchbase.com/organization/at-t
+            homepage_url: https://www.att.com
+            extra:
+              github_org: https://github.com/att
       - subcategory:
         name: CDUs
         items:

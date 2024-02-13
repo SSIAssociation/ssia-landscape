@@ -15,7 +15,8 @@ global:
     google_site_verification: 
     ms_validate: 
   membership: SSIA Members
-  flags: {}
+  flags:
+    gray_large_items: true
 # Data for the twitter card
 twitter:
   search: landscape.ssia.org
@@ -90,23 +91,45 @@ big_picture:
     # add one element for each category in landscape.yml
     elements:
       - type: HorizontalCategory
-        category: Silicon
+        category: Building Management Software
         rows: 4
-        width: 650
+        width: 300
         height: 150
         top: 10
         left: 0
         color: rgb(103,66,18)
         fit_width: true
+        is_large: true
       - type: HorizontalCategory
-        category: Fluids and Chemicals
+        category: Cloud Computing
         rows: 4
-        width: 650
+        width: 300
         height: 150
-        top: 170
+        top: 10
+        left: 330
+        color: rgb(103,66,18)
+        fit_width: true
+        is_large: true
+      - type: HorizontalCategory
+        category: Data Transfer
+        rows: 4
+        width: 550
+        height: 150
+        top: 10
+        left: 650
+        color: rgb(103,66,18)
+        fit_width: true
+        is_large: true
+      - type: HorizontalCategory
+        category: Datacenter Construction
+        rows: 6
+        width: 2000
+        height: 300
+        top: 260
         left: 0
         color: rgb(103,66,18)
         fit_width: true
+        is_large: true
 # test to make sure the build worked. Identify one landscape item that you know will always be there, preferably towards the top of the rendering
 test:
   header: SSI Alliance Interactive Landscape

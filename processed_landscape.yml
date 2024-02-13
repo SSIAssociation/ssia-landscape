@@ -1736,6 +1736,34 @@ landscape:
         name: CRAH/CRAC
         items:
           - item:
+            name: Stulz
+            logo: stulz.svg
+            crunchbase: https://www.crunchbase.com/organization/stulz
+            homepage_url: https://www.stulz-usa.com
+            crunchbase_data:
+              name: Stulz
+              description: STULZ is a global provider of innovative data center cooling solutions and services.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: http://www.stulz-ats.com/
+              city: Frederick
+              region: Maryland
+              country: United States
+              twitter: https://www.twitter.com/stulz_usa
+              linkedin: https://www.linkedin.com/company-beta/286641/?pathWildcard=286641
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Manufacturing
+            image_data:
+              fileName: stulz.svg
+              hash: R7oyGNJYZp1bd3s12Oi/IapnJkLFWhtl/wgNignpxnA=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Airedale
             logo: airedale.svg
             crunchbase: https://www.crunchbase.com/organization/airedale-international-air-conditioning-ltd
@@ -1767,6 +1795,37 @@ landscape:
       - subcategory:
         name: Heat Exchangers
         items:
+          - item:
+            name: Tetra Pak
+            logo: tetrapak.svg
+            crunchbase: https://www.crunchbase.com/organization/tetra-pak
+            homepage_url: https://www.tetrapak.com
+            crunchbase_data:
+              name: Tetra Pak
+              description: Tetra Pak is a multinational food packaging and processing company of Swedish origin with head offices in Lund, Sweden and Lausanne,
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.tetrapak.com
+              city: Denton
+              region: Texas
+              country: United States
+              twitter: https://www.twitter.com/tetrapak
+              linkedin: https://www.linkedin.com/company/tetra-pak
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Consumer
+                - Food Processing
+                - Packaging Services
+                - Public Safety
+            image_data:
+              fileName: tetra-pak.svg
+              hash: eFlmT2N3YAv0r6qbT+A1PmQZ/bn/LKNmkpzEZ8eDCWY=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Alfa Laval
             logo: alfa.svg
@@ -1822,6 +1881,37 @@ landscape:
       - subcategory:
         name: Cooling Towers
         items:
+          - item:
+            name: SPX Cooling Technologies
+            logo: spx.svg
+            crunchbase: https://www.crunchbase.com/organization/spx-cooling-technologies
+            homepage_url: https://spxcooling.com
+            crunchbase_data:
+              name: SPX Cooling Technologies
+              description: SPX Cooling Technologies is a manufacturer of cooling towers, evaporative fluid coolers, and evaporative condensers.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: https://www.spxcooling.com/
+              city: Overland Park
+              region: Kansas
+              country: United States
+              twitter: https://twitter.com/SPXCoolingTech
+              linkedin: https://www.linkedin.com/company/spx-cooling-technologies/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Building Material
+                - Construction
+                - Heating, Ventilation, and Air Conditioning (HVAC)
+                - Manufacturing
+            image_data:
+              fileName: spx-cooling-technologies.svg
+              hash: F1gGH/zzXnpwaEIUTdaiEu/SsF8fYpN82DnFpyLIdKM=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: American Standard
             logo: americanstandard.svg
@@ -1998,6 +2088,40 @@ landscape:
         name: Chillers
         items:
           - item:
+            name: Trane
+            logo: trane.svg
+            crunchbase: https://www.crunchbase.com/organization/trane
+            homepage_url: https://www.trane.com
+            crunchbase_data:
+              name: Trane
+              description: Trane manufactures and supplies heating, ventilation, and air conditioning systems.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.trane.com
+              city: Davidson
+              region: North Carolina
+              country: United States
+              twitter: https://www.twitter.com/tranecommercial
+              linkedin: https://www.linkedin.com/company/trane
+              acquisitions:
+                - date: '2017-11-08'
+                  acquiree: CALMAC Corp
+                - date: '2019-06-13'
+                  acquiree: EcoFactor
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Industrial
+                - Industrial Engineering
+                - Machinery Manufacturing
+            image_data:
+              fileName: trane.svg
+              hash: 72RRhXpg+Y3eRLRkuHmeaio0ysGxPl0gFnZeclQsXLE=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Carrier
             logo: carrier.svg
             crunchbase: https://www.crunchbase.com/organization/carrier
@@ -2069,6 +2193,116 @@ landscape:
             image_data:
               fileName: daikin.svg
               hash: WzVkB5iWoMxNsZcvT9sQn6+AGTDubdm+JTVUoG2OAM4=
+            best_practice_data:
+              badge: false
+              percentage: null
+      - subcategory:
+        name: Enterprise
+        items:
+          - item:
+            name: AT&T
+            logo: att.svg
+            crunchbase: https://www.crunchbase.com/organization/at-t
+            homepage_url: https://www.att.com
+            extra:
+              github_org: https://github.com/att
+            crunchbase_data:
+              name: AT&T
+              description: AT&T is a telecommunications company.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.att.com
+              city: Dallas
+              region: Texas
+              country: United States
+              twitter: http://twitter.com/ATT
+              linkedin: https://www.linkedin.com/company/at&t
+              acquisitions:
+                - date: '1993-08-17'
+                  acquiree: McCaw Cellular Communications
+                - date: '1994-10-18'
+                  acquiree: Alascom
+                - date: '1999-03-01'
+                  acquiree: Tele-Communications, Inc
+                - date: '2001-09-22'
+                  acquiree: Prodigy Communications
+                - date: '2001-10-08'
+                  acquiree: Telecorp PCS
+                - date: '2006-03-05'
+                  acquiree: BellSouth
+                - date: '2006-09-12'
+                  acquiree: USInternetworking
+                - date: '2006-12-01'
+                  acquiree: inFreeDA
+                - date: '2007-10-02'
+                  acquiree: Interwise
+                - date: '2007-11-15'
+                  acquiree: Dobson Fiber
+                - date: '2007-11-19'
+                  acquiree: Ingenio
+                - date: '2007-12-04'
+                  acquiree: Edge Wireless
+                - date: '2008-11-10'
+                  acquiree: Wayport
+                - date: '2008-12-01'
+                  acquiree: GetFon
+                - date: '2009-02-22'
+                  acquiree: Sterling Commerce
+                - date: '2009-09-30'
+                  acquiree: Plusmo
+                - date: '2009-11-06'
+                  acquiree: Centennial Communications Corp
+                - date: '2010-12-06'
+                  acquiree: Xanboo
+                - date: '2011-09-26'
+                  acquiree: Superclick Networks
+                - date: '2012-08-02'
+                  acquiree: NextWave Wireless
+                - date: '2013-07-01'
+                  acquiree: Leap Wireless
+                - date: '2013-09-20'
+                  acquiree: Alltel
+                - date: '2014-11-07'
+                  acquiree: Iusacell compañía
+                - date: '2015-01-27'
+                  acquiree: Nextel Mexico
+                - date: '2015-07-24'
+                  acquiree: DIRECTV
+                - date: '2015-12-30'
+                  acquiree: Carrier IQ
+                - date: '2016-05-16'
+                  acquiree: QuickPlay Media
+                - date: '2016-10-22'
+                  acquiree: WarnerMedia
+                - date: '2016-11-21'
+                  acquiree: INVIDI Technologies
+                - date: '2017-02-01'
+                  acquiree: FiberTower
+                - date: '2017-06-02'
+                  acquiree: Vyatta
+                - date: '2018-06-25'
+                  acquiree: AppNexus
+                - date: '2018-07-10'
+                  acquiree: AT&T CyberSecurity
+                - date: '2018-08-01'
+                  acquiree: Otter Media
+              parents: []
+              ticker: T
+              funding: 2200000
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Collaboration
+                - Communications Infrastructure
+                - Mobile
+                - Service Industry
+                - Telecommunications
+                - Wireless
+            yahoo_finance_data:
+              effective_ticker: T
+            image_data:
+              fileName: at-t.svg
+              hash: +r2beOPYlpa0l0yB7SbHLNOjMSjngQOi651E3iw4DV8=
             best_practice_data:
               badge: false
               percentage: null
