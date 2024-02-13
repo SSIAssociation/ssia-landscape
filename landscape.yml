@@ -327,6 +327,13 @@ landscape:
         name: Enterprise
         items:
           - item:
+            name: T-Mobile
+            logo: tmobile.svg
+            homepage_url: https://www.t-mobile.com/
+            crunchbase: https://www.crunchbase.com/organization/t-mobile
+            extra:
+              github_org: https://github.com/tmobile
+          - item:
             name: HPE
             logo: hpe.svg
             homepage_url: https://hpe.com
@@ -397,6 +404,18 @@ landscape:
         name: Colocation
         items:
           - item:
+            name: Switch.com
+            logo: switch.svg
+            crunchbase: https://www.crunchbase.com/organization/switch
+            homepage_url: https://www.switch.com/
+            extra:
+              github_org: https://github.com/switch
+          - item:
+            name: Green Mountain
+            logo: green_mountain.svg
+            crunchbase: https://www.crunchbase.com/organization/green-mountain-as
+            homepage_url: https://greenmountain.no/
+          - item:
             name: Equinix
             logo: equinix.svg
             crunchbase: https://www.crunchbase.com/organization/dominion-energy
@@ -416,6 +435,18 @@ landscape:
       - subcategory:
         name: Edge
         items:
+          - item:
+            name: StackPath
+            logo: stackpath.svg
+            crunchbase: https://www.crunchbase.com/organization/stackpath
+            homepage_url: https://www.stackpath.com
+            extra:
+              github_repo: https://github.com/stackpath
+          - item:
+            name: Vapor IO
+            logo: vapor.svg
+            crunchbase: https://www.crunchbase.com/organization/vapor-io
+            homepage_url: https://www.vapor.io
           - item:
             name: EdgeConneX
             logo: edgeconnex.svg
