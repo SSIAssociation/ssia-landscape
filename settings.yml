@@ -138,6 +138,27 @@ big_picture:
         color: rgb(103,66,18)
         fit_width: true
         is_large: true
+      - type: HorizontalCategory
+        category: Fluids and Chemicals
+        rows: 2
+        width: 400
+        height: 150
+        top: 770
+        left: 0
+        color: rgb(103,66,18)
+        fit_width: true
+        is_large: true
+      - type: HorizontalCategory
+        category: Silicon
+        rows: 2
+        width: 780
+        height: 150
+        top: 770
+        left: 420
+        color: rgb(103,66,18)
+        fit_width: true
+        is_large: true
+
 test:
   header: SSI Alliance Interactive Landscape
   section: Non-SSIA Member Products/Projects
