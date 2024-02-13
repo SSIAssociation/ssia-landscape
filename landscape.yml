@@ -163,6 +163,23 @@ landscape:
             logo: mint.svg
             crunchbase: https://www.crunchbase.com/organization/mint-innovation
             homepage_url: https://www.mint.bio/
+      - subcategory:
+        name: Green Concrete
+        items:
+          - item:
+            name: Minus Materials
+            logo: minusmaterials.svg
+            crunchbase: https://www.crunchbase.com/organization/minus-materials
+            homepage_url: https://minusmaterials.com
+      - subcategory:
+        name: Wooden Structures
+        items:
+          - item:
+            name: NYC Mass Timber Lab/Studio (NYCEDC)
+            logo: masstimber.svg
+            organization:
+              name: NYC / EDC
+            homepage_url: https://www.nycedc.com
   - category:
     name: Silicon
     subcategories:

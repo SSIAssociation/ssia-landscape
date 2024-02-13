@@ -1411,6 +1411,60 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+      - subcategory:
+        name: Green Concrete
+        items:
+          - item:
+            name: Minus Materials
+            logo: minusmaterials.svg
+            crunchbase: https://www.crunchbase.com/organization/minus-materials
+            homepage_url: https://minusmaterials.com
+            crunchbase_data:
+              name: Minus Materials
+              description: Minus Materials grows carbon-negative, biorenewable limestone using microalgae
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://www.minusmaterials.com/
+              city: Boulder
+              region: Colorado
+              country: United States
+              twitter: https://twitter.com/MinusMaterials
+              linkedin: https://www.linkedin.com/company/minus-materials
+              acquisitions: []
+              parents: []
+              funding: 275000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Building Material
+                - Construction
+                - Manufacturing
+                - Product Research
+              kind: funding
+            image_data:
+              fileName: minus-materials.svg
+              hash: 0hGHuNq+9BTgwiFGyv0d+fd25osHe0VfP4aAL38Pmng=
+            best_practice_data:
+              badge: false
+              percentage: null
+      - subcategory:
+        name: Wooden Structures
+        items:
+          - item:
+            name: NYC Mass Timber Lab/Studio (NYCEDC)
+            logo: masstimber.svg
+            organization:
+              name: NYC / EDC
+            homepage_url: https://www.nycedc.com
+            crunchbase_data:
+              name: NYC / EDC
+              parents: []
+            image_data:
+              fileName: nyc-mass-timber-lab-studio-nycedc.svg
+              hash: sBuxp84YI55JqJ1MwquzvatthlLXAzE+Hc5qrqd5bhU=
+            best_practice_data:
+              badge: false
+              percentage: null
   - category:
     name: Silicon
     subcategories:
