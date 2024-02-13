@@ -98,6 +98,12 @@ landscape:
         name: Carbon Sequestration/Direct Air Capture
         items:
           - item:
+            name: OpenDAC
+            logo: opendac.svg
+            homepage_url: https://open-dac.github.io/
+            organization:
+              name: ODAC23
+          - item:
             name: Carbon Engineering Ltd.
             logo: carbonengineering.svg
             crunchbase: https://www.crunchbase.com/organization/carbon-engineering
@@ -122,6 +128,11 @@ landscape:
       - subcategory:
         name: Electric Construction Equipment
         items:
+          - item:
+            name: Oshkosh Corp
+            logo: oshkosh.svg
+            homepage_url: https://www.oshkoshcorp.com
+            crunchbase: https://www.crunchbase.com/organization/oshkosh-corporation
           - item:
             name: Doosan
             logo: doosan.svg
@@ -152,6 +163,11 @@ landscape:
         name: Waste Recycling
         items:
           - item:
+            name: Wisetek
+            logo: wisetek.svg
+            crunchbase: https://www.crunchbase.com/organization/wisetek
+            homepage_url: https://www.wisetek.net
+          - item:
             name: ITRenew
             logo: itrenew.svg
             crunchbase: https://www.crunchbase.com/organization/itrenew
@@ -167,6 +183,21 @@ landscape:
         name: Green Concrete
         items:
           - item:
+            name: Solidia Technologies
+            logo: solidia.svg
+            crunchbase: https://www.crunchbase.com/organization/solidia-technologies
+            homepage_url: https://www.solidiatech.com
+          - item:
+            name: Ozinga
+            logo: ozinga.svg
+            crunchbase: https://www.crunchbase.com/organization/ozinga
+            homepage_url: https://www.ozinga.com
+          - item:
+            name: Prometheus Materials
+            logo: prometheus.svg
+            crunchbase: https://www.crunchbase.com/organization/prometheus-materials
+            homepage_url: https://www.prometheusmaterials.com
+          - item:
             name: Minus Materials
             logo: minusmaterials.svg
             crunchbase: https://www.crunchbase.com/organization/minus-materials
@@ -174,6 +205,11 @@ landscape:
       - subcategory:
         name: Wooden Structures
         items:
+          - item:
+            name: Softwood Lumber Board
+            logo: softwoord.svg
+            crunchbase: https://www.crunchbase.com/organization/softwood-lumber-board
+            homepage_url: https://www.softwoodlumberboard.org
           - item:
             name: NYC Mass Timber Lab/Studio (NYCEDC)
             logo: masstimber.svg

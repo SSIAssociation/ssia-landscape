@@ -1098,6 +1098,21 @@ landscape:
         name: Carbon Sequestration/Direct Air Capture
         items:
           - item:
+            name: OpenDAC
+            logo: opendac.svg
+            homepage_url: https://open-dac.github.io/
+            organization:
+              name: ODAC23
+            crunchbase_data:
+              name: ODAC23
+              parents: []
+            image_data:
+              fileName: open-dac.svg
+              hash: 2Gp0UCuCJKKMcOw4CeOVYoGsBDY81g3aCrOr2bqQWZo=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Carbon Engineering Ltd.
             logo: carbonengineering.svg
             crunchbase: https://www.crunchbase.com/organization/carbon-engineering
@@ -1223,6 +1238,63 @@ landscape:
         name: Electric Construction Equipment
         items:
           - item:
+            name: Oshkosh Corp
+            logo: oshkosh.svg
+            homepage_url: https://www.oshkoshcorp.com
+            crunchbase: https://www.crunchbase.com/organization/oshkosh-corporation
+            crunchbase_data:
+              name: Oshkosh
+              description: Oshkosh is a manufacturer and marketer of access equipment, specialty vehicles, and truck bodies.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.oshkoshcorp.com/
+              city: Oshkosh
+              region: Wisconsin
+              country: United States
+              twitter: https://twitter.com/oshkoshcorp
+              linkedin: https://www.linkedin.com/company/oshkosh-corporation
+              acquisitions:
+                - date: '1996-01-01'
+                  acquiree: Pierce Manufacturing
+                - date: '1998-02-28'
+                  acquiree: McNeilus
+                - date: '1999-11-03'
+                  acquiree: Kewaunee Fabrications
+                - date: '2004-07-09'
+                  acquiree: Jerr-Dan Corporation
+                - date: '2004-07-29'
+                  acquiree: BAI Companies
+                - date: '2004-10-22'
+                  acquiree: CON-E-CO
+                - date: '2005-03-10'
+                  acquiree: London Machinery
+                - date: '2006-07-31'
+                  acquiree: AK Specialty Vehicles
+                - date: '2006-08-01'
+                  acquiree: Iowa Mold Tooling
+                - date: '2006-10-17'
+                  acquiree: JLG Industries
+                - date: '2020-12-16'
+                  acquiree: Pratt & Miller Engineering
+                - date: '2022-06-13'
+                  acquiree: Maxi Metal
+              parents: []
+              ticker: OSK
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Automotive
+                - Industrial
+                - Manufacturing
+            yahoo_finance_data:
+              effective_ticker: OSK
+            image_data:
+              fileName: oshkosh-corp.svg
+              hash: 6sKj10l0mBaeCCu7oe6cknvWFRsSoIPUqPChc1GO+s4=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Doosan
             logo: doosan.svg
             crunchbase: https://www.crunchbase.com/organization/dominion-energy
@@ -1344,6 +1416,39 @@ landscape:
         name: Waste Recycling
         items:
           - item:
+            name: Wisetek
+            logo: wisetek.svg
+            crunchbase: https://www.crunchbase.com/organization/wisetek
+            homepage_url: https://www.wisetek.net
+            crunchbase_data:
+              name: WiseTek
+              description: WiseTek is a medical device company specialized in developing disposable visualization systems.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://www.ws-medical.com
+              city: Yinzhou
+              region: Zhejiang
+              country: China
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              funding: 437701
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Electronics
+                - Health Care
+                - Medical Device
+                - Video
+              kind: funding
+            image_data:
+              fileName: wisetek.svg
+              hash: 7n8WFHNs19ibKx+hpSX7GmnGdxl2XeqvwGAntoIgqdk=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: ITRenew
             logo: itrenew.svg
             crunchbase: https://www.crunchbase.com/organization/itrenew
@@ -1415,6 +1520,104 @@ landscape:
         name: Green Concrete
         items:
           - item:
+            name: Solidia Technologies
+            logo: solidia.svg
+            crunchbase: https://www.crunchbase.com/organization/solidia-technologies
+            homepage_url: https://www.solidiatech.com
+            crunchbase_data:
+              name: Solidia Technologies
+              description: "Solidia Technologies is a tech\_firm that makes it profitable to use CO₂ for manufacturing\_construction and industrial products."
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: http://www.solidiatech.com
+              city: Piscataway
+              region: New Jersey
+              country: United States
+              twitter: http://twitter.com/SolidiaCO2
+              linkedin: https://www.linkedin.com/company/2337390
+              acquisitions: []
+              parents: []
+              funding: 105000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Advanced Materials
+                - Carbon Capture
+                - CleanTech
+                - Industrial
+                - Manufacturing
+                - Product Research
+              kind: funding
+            image_data:
+              fileName: solidia-technologies.svg
+              hash: lIcXfJtkCk51zeWoQRKz9tE/BXT82/A/EMDDR1Fv7tA=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Ozinga
+            logo: ozinga.svg
+            crunchbase: https://www.crunchbase.com/organization/ozinga
+            homepage_url: https://www.ozinga.com
+            crunchbase_data:
+              name: Ozinga
+              description: Ozinga provides an assortment of ready mix, sustainable and specialty concrete products, as well as various concrete add-ons and supplies.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: https://www.ozinga.com/
+              city: Mokena
+              region: Illinois
+              country: United States
+              twitter: https://www.twitter.com/ozinga
+              linkedin: https://www.linkedin.com/company/ozinga
+              acquisitions:
+                - date: '2017-05-22'
+                  acquiree: Banaszak Concrete
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Logistics
+                - Real Estate
+            image_data:
+              fileName: ozinga.svg
+              hash: i4tl8H6ahdJCkicaF1GLrVXOprFt0FMW5lTGlTSlCTc=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Prometheus Materials
+            logo: prometheus.svg
+            crunchbase: https://www.crunchbase.com/organization/prometheus-materials
+            homepage_url: https://www.prometheusmaterials.com
+            crunchbase_data:
+              name: Prometheus Materials
+              description: Prometheus Materials develops bio-cement with zero carbon emissions to reduce the global CO2 emissions.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://www.prometheusmaterials.com
+              city: Boulder
+              region: Colorado
+              country: United States
+              twitter: https://twitter.com/LoseTheCarbon
+              linkedin: https://www.linkedin.com/company/prometheus-materials
+              acquisitions: []
+              parents: []
+              funding: 8000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Advanced Materials
+                - Green Building
+                - Sustainability
+              kind: funding
+            image_data:
+              fileName: prometheus-materials.svg
+              hash: fMRNd6p0iFczlN3rnkrJvU9viI8QeMGyGJdd98UbTjs=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Minus Materials
             logo: minusmaterials.svg
             crunchbase: https://www.crunchbase.com/organization/minus-materials
@@ -1450,6 +1653,36 @@ landscape:
       - subcategory:
         name: Wooden Structures
         items:
+          - item:
+            name: Softwood Lumber Board
+            logo: softwoord.svg
+            crunchbase: https://www.crunchbase.com/organization/softwood-lumber-board
+            homepage_url: https://www.softwoodlumberboard.org
+            crunchbase_data:
+              name: Softwood Lumber Board
+              description: Softwood Lumber Board is an industry funded initiative established to promote the benefits and uses of softwood lumber products.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://softwoodlumberboard.org/
+              city: West Linn
+              region: Oregon
+              country: United States
+              twitter: https://twitter.com/lumberboard
+              linkedin: https://www.linkedin.com/company/softwoodlumberboard/
+              acquisitions: []
+              parents: []
+              funding: 384000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Building Material
+              kind: funding
+            image_data:
+              fileName: softwood-lumber-board.svg
+              hash: PhrIYApw4o3a5w1uKodeFes7tNjyNHTDHlhPHqpWAMY=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: NYC Mass Timber Lab/Studio (NYCEDC)
             logo: masstimber.svg
