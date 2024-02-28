@@ -558,4 +558,22 @@ landscape:
     subcategories:
       - subcategory:
         name: Premier
-        items: []
+        items:
+          - item:
+            name: Cisco (member)
+            homepage_url: https://www.cisco.com/
+            logo: cisco.svg
+            crunchbase: https://www.crunchbase.com/organization/cisco
+          - item:
+            name: Equinix (member)
+            homepage_url: https://www.equinix.com/
+            logo: equinix.svg
+            crunchbase: https://www.crunchbase.com/organization/equinix
+      - subcategory:
+        name: General
+        items:
+          - item:
+            name: Cato Digital VPS (member)
+            logo: cato.svg
+            crunchbase: https://www.crunchbase.com/organization/cato-0b46
+            homepage_url: https://cato.digital/

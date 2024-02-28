@@ -52,6 +52,10 @@ membership:
     label: Premier Member
     funding: Premier
     is_large: true
+  General:
+    name: SSIA
+    label: General Member
+    funding: General
   linux_foundation:
     name: LF
     label: Project
@@ -155,6 +159,16 @@ big_picture:
         height: 150
         top: 770
         left: 420
+        color: rgb(103,66,18)
+        fit_width: true
+        is_large: true
+      - type: HorizontalCategory
+        category: SSIA Members
+        rows: 2
+        width: 400
+        height: 150
+        top: 970
+        left: 0
         color: rgb(103,66,18)
         fit_width: true
         is_large: true
