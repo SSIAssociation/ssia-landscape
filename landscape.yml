@@ -577,3 +577,44 @@ landscape:
             logo: cato.svg
             crunchbase: https://www.crunchbase.com/organization/cato-0b46
             homepage_url: https://cato.digital/
+          - item:
+            name: CoolIT (member)
+            logo: cool_it.svg
+            crunchbase: https://www.crunchbase.com/organization/coolit-systems
+            homepage_url: https://www.coolitsystems.com/
+          - item:
+            name: supermicro (member)
+            logo: supermicro.svg
+            crunchbase: https://www.crunchbase.com/organization/super-micro-computer
+            homepage_url: https://supermicro.com
+          - item:
+            name: Asus Cloud (member)
+            logo: asus_cloud.svg
+            crunchbase: https://www.crunchbase.com/organization/asus
+            homepage_url: https://www.asus.com/Cloud
+          - item:
+            name: ASRock Rack (member)
+            logo: asrock.svg
+            crunchbase: https://www.crunchbase.com/organization/asrock-rack
+            homepage_url: https://www.asrockrack.com/
+          - item:
+            name: Aivres (member)
+            logo: aivres.svg
+            organization:
+              name: Aivres
+            homepage_url: https://aivres.com/
+          - item:
+            name: Zutacore (member)
+            logo: zutacore.svg
+            crunchbase: https://www.crunchbase.com/organization/zutacore
+            homepage_url: https://zutacore.com/
+          - item:
+            name: VMWare (member)
+            logo: vmware.svg
+            homepage_url: https://vmware.com
+            crunchbase: https://www.crunchbase.com/organization/vmware
+          - item:
+            name: Staubli
+            logo: staubli.svg
+            homepage_url: https://www.staubli.com
+            crunchbase: https://www.crunchbase.com/organization/staubli

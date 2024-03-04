@@ -5730,4 +5730,361 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            name: CoolIT (member)
+            logo: cool_it.svg
+            crunchbase: https://www.crunchbase.com/organization/coolit-systems
+            homepage_url: https://www.coolitsystems.com/
+            crunchbase_data:
+              name: CoolIT Systems
+              description: CoolIT Systems is engaged in the design and manufacture of electronic cooling systems and system integration services.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: http://www.coolitsystems.com
+              city: Calgary
+              region: Alberta
+              country: Canada
+              twitter: http://twitter.com/coolitsystems
+              linkedin: https://www.linkedin.com/company/coolit-systems-inc.
+              acquisitions:
+                - date: '2009-04-27'
+                  acquiree: Delphi Thermal Liquid Cooling
+              parents: []
+              funding: 10000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Computer
+                - Data Center
+                - Hardware
+                - Manufacturing
+              kind: funding
+            image_data:
+              fileName: cool-it-member.svg
+              hash: bftyrUgrNwXHlwpkr355WVW72NWjHmWPl0/Hbz/8oAA=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: supermicro (member)
+            logo: supermicro.svg
+            crunchbase: https://www.crunchbase.com/organization/super-micro-computer
+            homepage_url: https://supermicro.com
+            crunchbase_data:
+              name: Supermicro
+              description: Supermicro is a global leader in high-performance, high-efficiency server technology and innovation.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://www.supermicro.com
+              city: San Jose
+              region: California
+              country: United States
+              twitter: http://twitter.com/Supermicro_SMCI
+              linkedin: https://www.linkedin.com/company/supermicro
+              acquisitions: []
+              parents: []
+              ticker: SMCI
+              funding: 1500000000
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Cloud Infrastructure
+                - Embedded Systems
+                - Manufacturing
+                - Software
+            yahoo_finance_data:
+              effective_ticker: SMCI
+            image_data:
+              fileName: supermicro-member.svg
+              hash: e2yUYezrc+4Ll+HDbdV1sPJtSthY6STkra4wGbGrGw4=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Asus Cloud (member)
+            logo: asus_cloud.svg
+            crunchbase: https://www.crunchbase.com/organization/asus
+            homepage_url: https://www.asus.com/Cloud
+            crunchbase_data:
+              name: ASUSTeK Computer
+              description: ASUSTeK Computer Inc., usually referred to as ASUS, is a Taiwanese multinational computer hardware and electronics manufacturer.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.asus.com
+              city: Taipei
+              region: T'ai-pei
+              country: Taiwan
+              twitter: http://twitter.com/ASUS
+              linkedin: https://www.linkedin.com/company/asus
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Hardware
+                - Manufacturing
+                - Mobile
+                - Software
+            image_data:
+              fileName: asus-cloud-member.svg
+              hash: 8JP/V3JPr0eRO9JgSx53hvI/JFY2mbZWNzDzSk61ups=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: ASRock Rack (member)
+            logo: asrock.svg
+            crunchbase: https://www.crunchbase.com/organization/asrock-rack
+            homepage_url: https://www.asrockrack.com/
+            crunchbase_data:
+              name: ASRock Rack
+              description: ASRock Rack specialized in the field of Cloud Computing server hardware.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: http://www.asrockrack.com
+              city: Nijmegen
+              region: Gelderland
+              country: The Netherlands
+              twitter: https://twitter.com/asrockrack
+              linkedin: https://www.linkedin.com/company/asrock-rack/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+            image_data:
+              fileName: as-rock-rack-member.svg
+              hash: d2SgIfEJC+uOma+kpxIIBGNwrynh3y91ca89i6FU7h8=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Aivres (member)
+            logo: aivres.svg
+            organization:
+              name: Aivres
+            homepage_url: https://aivres.com/
+            crunchbase_data:
+              name: Aivres
+              parents: []
+            image_data:
+              fileName: aivres-member.svg
+              hash: mWtNRFwc+u6tZ8nFQAdIvjpCishx7BNmjC8tvLmcfwQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Zutacore (member)
+            logo: zutacore.svg
+            crunchbase: https://www.crunchbase.com/organization/zutacore
+            homepage_url: https://zutacore.com/
+            crunchbase_data:
+              name: ZutaCore
+              description: The ZutaCore is waterless two-phase, liquid cooling (2PLC) based system.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.zutacore.com/
+              city: San Jose
+              region: California
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/zutacoreinc
+              acquisitions: []
+              parents: []
+              funding: 0
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Data Center
+                - Information Technology
+                - Machinery Manufacturing
+                - Mechanical Design
+            image_data:
+              fileName: zutacore-member.svg
+              hash: 5LGMw0+l4hne/9sqqCsBadvbRgoPk/9+u1NGpIpnicI=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: VMWare (member)
+            logo: vmware.svg
+            homepage_url: https://vmware.com
+            crunchbase: https://www.crunchbase.com/organization/vmware
+            crunchbase_data:
+              name: VMware
+              description: VMware is a cloud services company that provides cloud infrastructure, cloud management, security, and networking.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.vmware.com
+              city: Palo Alto
+              region: California
+              country: United States
+              twitter: http://twitter.com/VMware
+              linkedin: https://www.linkedin.com/company/vmware
+              acquisitions:
+                - date: '2003-12-16'
+                  acquiree: Emic Networks
+                - date: '2006-06-18'
+                  acquiree: Akimbi Systems
+                - date: '2007-08-06'
+                  acquiree: Determina
+                - date: '2007-09-11'
+                  acquiree: Dunes Technologies
+                - date: '2008-01-15'
+                  acquiree: Thinstall inc
+                - date: '2008-05-28'
+                  acquiree: B-hive Networks
+                - date: '2008-11-30'
+                  acquiree: Blue Lane Technologies
+                - date: '2009-08-10'
+                  acquiree: Spring
+                - date: '2010-08-31'
+                  acquiree: Integrien
+                - date: '2010-08-31'
+                  acquiree: TriCipher
+                - date: '2011-01-18'
+                  acquiree: NeoAccel
+                - date: '2011-03-08'
+                  acquiree: WaveMaker
+                - date: '2011-04-26'
+                  acquiree: SlideRocket
+                - date: '2011-05-16'
+                  acquiree: Shavlik Technologies
+                - date: '2011-05-31'
+                  acquiree: Socialcast
+                - date: '2011-06-13'
+                  acquiree: Digital Fuel
+                - date: '2011-08-01'
+                  acquiree: Packetmotion
+                - date: '2012-05-22'
+                  acquiree: Wanova
+                - date: '2012-07-02'
+                  acquiree: DynamicOps
+                - date: '2012-07-23'
+                  acquiree: Nicira Networks
+                - date: '2013-02-11'
+                  acquiree: Virsto Software
+                - date: '2013-10-15'
+                  acquiree: Desktone
+                - date: '2014-01-22'
+                  acquiree: AirWatch
+                - date: '2014-08-20'
+                  acquiree: CloudVolumes
+                - date: '2015-02-02'
+                  acquiree: MomentumSI
+                - date: '2015-02-03'
+                  acquiree: Immidio
+                - date: '2015-10-14'
+                  acquiree: Boxer
+                - date: '2016-06-13'
+                  acquiree: Arkin
+                - date: '2016-12-20'
+                  acquiree: PLUMgrid
+                - date: '2017-04-12'
+                  acquiree: Wavefront
+                - date: '2017-05-15'
+                  acquiree: Apteligent
+                - date: '2017-11-02'
+                  acquiree: VeloCloud
+                - date: '2018-02-14'
+                  acquiree: CloudCoreo
+                - date: '2018-02-22'
+                  acquiree: CloudVelox
+                - date: '2018-03-28'
+                  acquiree: E8 Security
+                - date: '2018-05-01'
+                  acquiree: Bracket Computing
+                - date: '2018-08-27'
+                  acquiree: CloudHealth Technologies
+                - date: '2018-11-06'
+                  acquiree: Heptio
+                - date: '2019-02-05'
+                  acquiree: AetherPal
+                - date: '2019-05-15'
+                  acquiree: VMware/ Bitnami
+                - date: '2019-06-14'
+                  acquiree: Avi Networks
+                - date: '2019-07-18'
+                  acquiree: Bitfusion.io
+                - date: '2019-07-25'
+                  acquiree: Uhana
+                - date: '2019-08-16'
+                  acquiree: Veriflow
+                - date: '2019-08-20'
+                  acquiree: Intrinsic
+                - date: '2019-08-22'
+                  acquiree: Pivotal
+                - date: '2019-10-08'
+                  acquiree: Carbon Black
+                - date: '2020-01-21'
+                  acquiree: Nyansa
+                - date: '2020-05-13'
+                  acquiree: Octarine
+                - date: '2020-06-04'
+                  acquiree: Lastline
+                - date: '2020-07-02'
+                  acquiree: Datrium
+                - date: '2020-09-29'
+                  acquiree: SaltStack
+                - date: '2021-03-18'
+                  acquiree: Mesh7
+                - date: '2022-11-08'
+                  acquiree: Ananda Networks
+              parents:
+                - https://www.crunchbase.com/organization/dell-technologies
+              ticker: VMW
+              funding: 393500000
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Cloud Infrastructure
+                - Cloud Management
+                - Enterprise Software
+                - Information Technology
+                - Private Cloud
+                - Virtualization
+            yahoo_finance_data:
+              effective_ticker: VMW
+            image_data:
+              fileName: vm-ware-member.svg
+              hash: JqVq7SzPJ3mypuVvJxR2dg+bkSbc/8FT5T2+hKz3Q9g=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Staubli
+            logo: staubli.svg
+            homepage_url: https://www.staubli.com
+            crunchbase: https://www.crunchbase.com/organization/staubli
+            crunchbase_data:
+              name: Staubli
+              description: Staubli is an mechatronics solutions provider for the textile, connectors and robotics.
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: http://www.staubli.com
+              city: Pfaffikon
+              region: Zurich
+              country: Switzerland
+              twitter: https://twitter.com/staubligroup
+              linkedin: https://www.linkedin.com/company/staubli
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Consumer Electronics
+                - Industrial
+                - Industrial Automation
+                - Information Technology
+                - Manufacturing
+                - Robotics
+                - Software
+            image_data:
+              fileName: staubli.svg
+              hash: 5zdFLa+N37udL9uM31GaCYi4m/Xtf5pKhMowAMYcNaA=
+            best_practice_data:
+              badge: false
+              percentage: null
 updated_at: 2024-02-13T14:54:15.580Z
