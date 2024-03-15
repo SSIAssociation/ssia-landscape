@@ -12,6 +12,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/dominion-energy
             extra:
               github_org: https://github.com/EkkoSense
+              example_property: test
           - item:
             name: Siemens
             homepage_url: https://www.siemens.com
