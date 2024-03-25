@@ -50,6 +50,7 @@ landscape:
         items:
           - item:
             name: Cisco
+            second_path: Data Transfer / Optics
             homepage_url: https://cisco.com/
             logo: cisco.svg
             crunchbase: https://www.crunchbase.com/organization/cisco
