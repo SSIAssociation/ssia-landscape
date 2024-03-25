@@ -49,6 +49,14 @@ landscape:
         name: Ethernet
         items:
           - item:
+            name: Cisco
+            second_path: Data Transfer / Optics
+            homepage_url: https://cisco.com/
+            logo: cisco.svg
+            crunchbase: https://www.crunchbase.com/organization/cisco
+            extra:
+              github.org: https://github.com/CiscoDevNet
+          - item:
             name: Arista
             homepage_url: https://www.arista.com
             logo: arista.svg
