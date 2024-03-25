@@ -52,7 +52,7 @@ landscape:
             name: Cisco
             homepage_url: https://cisco.com/
             logo: cisco.svg
-            crunchbase: https://crunchbase.com/organization/cisco
+            crunchbase: https://www.crunchbase.com/organization/cisco
             extra:
               github.org: https://github.com/CiscoDevNet
           - item:
