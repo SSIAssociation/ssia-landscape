@@ -626,3 +626,14 @@ landscape:
             logo: staubli.svg
             homepage_url: https://www.staubli.com
             crunchbase: https://www.crunchbase.com/organization/staubli
+  - category:
+    name: Power Generation
+    subcategories:
+      - subcategory:
+        name: Micro-Grids
+        items:
+          - item:
+            name: ABB
+            homepage_url: http://www.abb.com
+            logo: https://en.wikipedia.org/wiki/File:ABB_logo.svg
+            crunchbase: https://www.crunchbase.com/organization/abb
