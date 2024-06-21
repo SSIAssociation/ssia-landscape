@@ -637,3 +637,30 @@ landscape:
             homepage_url: http://www.abb.com
             logo: 768px-ABB_logo.svg
             crunchbase: https://www.crunchbase.com/organization/abb
+      - subcategory:
+        name: Biofules / Ammonia / Alternative Fuel Cells
+        items: []
+      - subcategory:
+        name: Fuel Cells
+        items: []
+      - subcategory:
+        name: Generator Noise Reduction
+        items: []
+      - subcategory:
+        name: Generators
+        items: []
+      - subcategory:
+        name: Turbines
+        items: []
+      - subcategory:
+        name: Next-Gen Generators
+        items: []
+      - subcategory:
+        name: Nuclear / Geothermal
+        items: []
+      - subcategory:
+        name: Solid State Transformers
+        items: []
+      - subcategory:
+        name: Voltage/Frequency Stabilization
+        items: []
