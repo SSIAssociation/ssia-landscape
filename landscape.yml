@@ -635,5 +635,5 @@ landscape:
           - item:
             name: ABB
             homepage_url: http://www.abb.com
-            logo: https://en.wikipedia.org/wiki/File:ABB_logo.svg
+            logo: 768px-ABB_logo.svg
             crunchbase: https://www.crunchbase.com/organization/abb
