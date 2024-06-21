@@ -648,7 +648,12 @@ landscape:
         items: []
       - subcategory:
         name: Generators
-        items: []
+        items:
+          - item:
+            name: Atlas Copco
+            homepage_url: http://www.atlascopcogroup.com
+            logo: Atlas-Copco-Logo.png
+            crunchbase: https://www.crunchbase.com/organization/atlas-copco
       - subcategory:
         name: Turbines
         items: []
