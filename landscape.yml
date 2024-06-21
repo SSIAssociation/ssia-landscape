@@ -642,7 +642,12 @@ landscape:
         items: []
       - subcategory:
         name: Fuel Cells
-        items: []
+        items:
+          - item:
+            name: Ballard Power Systems
+            homepage_url: http://www.ballard.com
+            logo: Ballard_Power_Systems_logo
+            crunchbase: https://www.crunchbase.com/organization/ballard-power-systems
       - subcategory:
         name: Generator Noise Reduction
         items: []
@@ -652,7 +657,7 @@ landscape:
           - item:
             name: Atlas Copco
             homepage_url: http://www.atlascopcogroup.com
-            logo: Atlas-Copco-Logo.png
+            logo: Atlas-Copco-Logo.svg
             crunchbase: https://www.crunchbase.com/organization/atlas-copco
       - subcategory:
         name: Turbines
