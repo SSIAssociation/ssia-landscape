@@ -762,7 +762,7 @@ landscape:
             logo: Amperesand_Logo_Wordmark_LightBackground(1)
             crunchbase: https://www.crunchbase.com/organization/amperesand
       - subcategory:
-        name: Voltage/Frequency Stabilization
+        name: Voltage / Frequency Stabilization
         items:
           - item:
             name: Legend Energy Advisors
