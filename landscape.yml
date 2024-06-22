@@ -693,7 +693,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/general-electric
       - subcategory:
         name: Turbines
-        items: []
+        items:
+          - item:
+            name: Kyoto Fusioneering
+            homepage_url: http://kyotofusioneering.com
+            logo: kyotofusionlogo
+            crunchbase: https://www.crunchbase.com/organization/kyoto-fusioneering
       - subcategory:
         name: Next-Gen Generators
         items: []
