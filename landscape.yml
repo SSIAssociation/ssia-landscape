@@ -642,6 +642,11 @@ landscape:
             homepage_url: http://www.eaton.com
             logo: Eaton_Corporation_Logo
             crunchbase: https://www.crunchbase.com/organization/eaton
+          - item:
+            name: Schneider Electric
+            homepage_url: http://www.se.com
+            logo: Schneider_Electric_2007
+            crunchbase: https://www.crunchbase.com/organization/schneider-electric
       - subcategory:
         name: Biofules / Ammonia / Alternative Fuel Cells
         items:
@@ -738,6 +743,16 @@ landscape:
             homepage_url: http://www.nuscalepower.com
             logo: nuscale-logo-sm
             crunchbase: https://www.crunchbase.com/organization/nuscale-power
+          - item:
+            name: Terrestrial Energy
+            homepage_url: http://www.terrestrialenergy.com
+            logo: idOSCSL-qi
+            crunchbase: https://www.crunchbase.com/organization/terrestrial-energy
+          - item:
+            name: Westinghouse
+            homepage_url: http://www.westinghousenuclear.com
+            logo: Westinghouse_logo_and_wordmark
+            crunchbase: https://www.crunchbase.com/organization/westinghouse-electric-company
       - subcategory:
         name: Solid State Transformers
         items: []
