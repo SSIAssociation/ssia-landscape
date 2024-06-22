@@ -648,7 +648,6 @@ landscape:
           - item:
             name: Green Plains
             homepage_url: http://gpreinc.com
-            repo_url: https://github.com/GreenPlains
             logo: greenplainsssialndscp
             crunchbase: https://www.crunchbase.com/organization/green-plains
       - subcategory:
@@ -693,7 +692,6 @@ landscape:
           - item:
             name: GE
             homepage_url: http://ge.com
-            repo_url: https://github.com/GeneralElectric
             logo: General_Electric_logo
             crunchbase: https://www.crunchbase.com/organization/general-electric
       - subcategory:
