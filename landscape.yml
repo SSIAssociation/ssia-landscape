@@ -637,6 +637,22 @@ landscape:
             homepage_url: http://www.abb.com
             logo: 768px-ABB_logo.svg
             crunchbase: https://www.crunchbase.com/organization/abb
+          - item:
+            name: Eaton
+            homepage_url: http://www.eaton.com
+            logo: Eaton_Corporation_Logo
+            crunchbase: https://www.crunchbase.com/organization/eaton/
+          - item:
+            name: Fervo
+            homepage_url: http://fervoenergy.com
+            logo: FervoSSIAlndscp
+            crunchbase: https://www.crunchbase.com/organization/fervo-energy
+          - item:
+            name: GE
+            homepage_url: http://ge.com
+            repo_url: https://github.com/GeneralElectric
+            logo: General_Electric_logo
+            crunchbase: https://www.crunchbase.com/organization/general-electric
       - subcategory:
         name: Biofules / Ammonia / Alternative Fuel Cells
         items: []
