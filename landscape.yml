@@ -668,6 +668,11 @@ landscape:
             homepage_url: http://www.bloomenergy.com
             logo: Bloom_Energy_logo
             crunchbase: https://www.crunchbase.com/organization/bloom-energy
+          - item:
+            name: Plug Power
+            homepage_url: http://www.plugpower.com
+            logo: Plug_Power_Logo
+            crunchbase: https://www.crunchbase.com/organization/plug-power
       - subcategory:
         name: Generator Noise Reduction
         items:
