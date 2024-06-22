@@ -677,6 +677,7 @@ landscape:
             name: Collins Aerospace
             homepage_url: http://www.collinsaerospace.com
             logo: Collins_Aerospace_Logo
+            crunchbase: https://www.crunchbase.com/organization/CollinsAerospace
       - subcategory:
         name: Turbines
         items: []
