@@ -755,7 +755,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/westinghouse-electric-company
       - subcategory:
         name: Solid State Transformers
-        items: []
+        items:
+          - item:
+            name: Amperesand
+            homepage_url: https://amperesand.io/
+            logo: Amperesand_Logo_Wordmark_LightBackground(1)
+            crunchbase: https://www.crunchbase.com/organization/amperesand
       - subcategory:
         name: Voltage/Frequency Stabilization
         items:
