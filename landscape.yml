@@ -672,6 +672,7 @@ landscape:
             name: Caterpillar
             homepage_url: http://www.cat.com
             logo: Caterpillar-shortened
+            crunchbase: https://www.crunchbase.com/organization/caterpillar-inc
           - item:
             name: Collins Aerospace
             homepage_url: http://www.collinsaerospace.com
