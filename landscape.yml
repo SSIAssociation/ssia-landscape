@@ -650,6 +650,11 @@ landscape:
             homepage_url: http://gpreinc.com
             logo: greenplains_logo
             crunchbase: https://www.crunchbase.com/organization/green-plains
+          - item:
+            name: Neste
+            homepage_url: http://www.neste.com
+            logo: Neste_logo
+            crunchbase: https://www.crunchbase.com/organization/neste
       - subcategory:
         name: Fuel Cells
         items:
@@ -702,6 +707,11 @@ landscape:
             homepage_url: http://kyotofusioneering.com
             logo: kyotofusionlogo
             crunchbase: https://www.crunchbase.com/organization/kyoto-fusioneering
+          - item:
+            name: Mistubishi
+            homepage_url: http://www.mitsubishielectric.com
+            logo: Mitsubishi_Electric_logo
+            crunchbase: https://www.crunchbase.com/organization/mitsubishi
       - subcategory:
         name: Next-Gen Generators
         items:
@@ -718,6 +728,11 @@ landscape:
             homepage_url: http://fervoenergy.com
             logo: fervoenergy_logo
             crunchbase: https://www.crunchbase.com/organization/fervo-energy
+          - item:
+            name: NuScale
+            homepage_url: http://www.nuscalepower.com
+            logo: nuscale-logo-sm
+            crunchbase: https://www.crunchbase.com/organization/nuscale-power
       - subcategory:
         name: Solid State Transformers
         items: []
