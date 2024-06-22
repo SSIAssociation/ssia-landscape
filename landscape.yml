@@ -648,7 +648,7 @@ landscape:
           - item:
             name: Green Plains
             homepage_url: http://gpreinc.com
-            logo: greenplainsssialndscp
+            logo: greenplainsssialndscp (1)
             crunchbase: https://www.crunchbase.com/organization/green-plains
       - subcategory:
         name: Fuel Cells
