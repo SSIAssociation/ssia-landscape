@@ -648,7 +648,7 @@ landscape:
           - item:
             name: Green Plains
             homepage_url: http://gpreinc.com
-            logo: greenplainsssialndscp (1)
+            logo: greenplains_logo
             crunchbase: https://www.crunchbase.com/organization/green-plains
       - subcategory:
         name: Fuel Cells
@@ -669,7 +669,7 @@ landscape:
           - item:
             name: MetaSeismic
             homepage_url: http://metaseismic.com
-            logo: MetaSeisSSIAlndscp
+            logo: metaseismic_logo
             crunchbase: https://www.crunchbase.com/organization/metaseismic
       - subcategory:
         name: Generators
@@ -716,7 +716,7 @@ landscape:
           - item:
             name: Fervo
             homepage_url: http://fervoenergy.com
-            logo: FervoSSIAlndscp
+            logo: fervoenergy_logo
             crunchbase: https://www.crunchbase.com/organization/fervo-energy
       - subcategory:
         name: Solid State Transformers
@@ -727,5 +727,5 @@ landscape:
           - item:
             name: Legend Energy Advisors
             homepage_url: http://legendenergyadvisors.com
-            logo: legendEnergySSIAlndscp
+            logo: legendenergy_logo
             crunchbase: https://www.crunchbase.com/organization/legend-energy-advisors
