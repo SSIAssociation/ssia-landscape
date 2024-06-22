@@ -648,7 +648,7 @@ landscape:
             logo: Schneider_Electric_2007
             crunchbase: https://www.crunchbase.com/organization/schneider-electric
       - subcategory:
-        name: Biofules / Ammonia / Alternative Fuel Cells
+        name: Alternative Fuel Cells
         items:
           - item:
             name: Green Plains
@@ -679,7 +679,7 @@ landscape:
             logo: Plug_Power_Logo
             crunchbase: https://www.crunchbase.com/organization/plug-power
       - subcategory:
-        name: Generator Noise Reduction
+        name: Generator Noise
         items:
           - item:
             name: MetaSeismic
@@ -762,7 +762,7 @@ landscape:
             logo: Amperesand_Logo_Wordmark_LightBackground(1)
             crunchbase: https://www.crunchbase.com/organization/amperesand
       - subcategory:
-        name: Voltage / Frequency Stabilization
+        name: Voltage Stabilization
         items:
           - item:
             name: Legend Energy Advisors
