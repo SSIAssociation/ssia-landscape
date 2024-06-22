@@ -639,7 +639,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/abb
       - subcategory:
         name: Biofules / Ammonia / Alternative Fuel Cells
-        items: []
+        items:
+          - item:
+            name: Crown Oil
+            homepage_url: http://www.crownoil.co.uk
+            logo: CrownOil_logo2021.png
+            crunchbase: https://www.crunchbase.com/organization/crown-oil
       - subcategory:
         name: Fuel Cells
         items:
@@ -648,6 +653,11 @@ landscape:
             homepage_url: http://www.ballard.com
             logo: Ballard_Power_Systems_logo
             crunchbase: https://www.crunchbase.com/organization/ballard-power-systems
+          - item:
+            name: Bloom Energy
+            homepage_url: http://www.bloomenergy.com
+            logo: Bloom_Energy_logo
+            crunchbase: https://www.crunchbase.com/organization/bloom-energy
       - subcategory:
         name: Generator Noise Reduction
         items: []
@@ -659,6 +669,17 @@ landscape:
             homepage_url: http://www.atlascopcogroup.com
             logo: Atlas-Copco-Logo.svg
             crunchbase: https://www.crunchbase.com/organization/atlas-copco
+          - item:
+            name: Caterpillar
+            homepage_url: http://www.cat.com
+            repo_url: https://github.com/Caterpillar
+            logo: Caterpillar-shortened
+            crunchbase: https://www.crunchbase.com/organization/caterpillar
+          - item:
+            name: Collins Aerospace
+            homepage_url: http://www.collinsaerospace.com
+            logo: Collins_Aerospace_Logo
+            crunchbase: https://www.crunchbase.com/organization/collins-aerospace
       - subcategory:
         name: Turbines
         items: []
