@@ -639,11 +639,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/abb
       - subcategory:
         name: Biofules / Ammonia / Alternative Fuel Cells
-        items:
-          - item:
-            name: Crown Oil
-            homepage_url: http://www.crownoil.co.uk
-            crunchbase: https://www.crunchbase.com/organization/crown-oil
+        items: []
       - subcategory:
         name: Fuel Cells
         items:
