@@ -641,7 +641,7 @@ landscape:
             name: Eaton
             homepage_url: http://www.eaton.com
             logo: Eaton_Corporation_Logo
-            crunchbase: https://www.crunchbase.com/organization/eaton/
+            crunchbase: https://www.crunchbase.com/organization/eaton
       - subcategory:
         name: Biofules / Ammonia / Alternative Fuel Cells
         items:
