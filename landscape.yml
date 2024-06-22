@@ -666,7 +666,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/bloom-energy
       - subcategory:
         name: Generator Noise Reduction
-        items: []
+        items:
+          - item:
+            name: MetaSeismic
+            homepage_url: http://metaseismic.com
+            logo: MetaSeisSSIAlndscp
+            crunchbase: https://www.crunchbase.com/organization/metaseismic
       - subcategory:
         name: Generators
         items:
@@ -701,7 +706,13 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/kyoto-fusioneering
       - subcategory:
         name: Next-Gen Generators
-        items: []
+        items:
+          - item:
+            name: Mainspring Energy
+            homepage_url: https://www.mainspringenergy.com/
+            logo: Mainspring_Energy_Logo.svg
+            crunchbase: https://www.crunchbase.com/organization/etagen
+          - item:
       - subcategory:
         name: Nuclear / Geothermal
         items:
@@ -715,4 +726,9 @@ landscape:
         items: []
       - subcategory:
         name: Voltage/Frequency Stabilization
-        items: []
+        items:
+          - item:
+            name: Legend Energy Advisors
+            homepage_url: http://legendenergyadvisors.com
+            logo: legendEnergySSIAlndscp
+            crunchbase: https://www.crunchbase.com/organization/legend-energy-advisors
