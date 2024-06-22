@@ -643,7 +643,6 @@ landscape:
           - item:
             name: Crown Oil
             homepage_url: http://www.crownoil.co.uk
-            logo: CrownOil_logo2021.png
             crunchbase: https://www.crunchbase.com/organization/crown-oil
       - subcategory:
         name: Fuel Cells
@@ -672,14 +671,11 @@ landscape:
           - item:
             name: Caterpillar
             homepage_url: http://www.cat.com
-            repo_url: https://github.com/Caterpillar
             logo: Caterpillar-shortened
-            crunchbase: https://www.crunchbase.com/organization/caterpillar
           - item:
             name: Collins Aerospace
             homepage_url: http://www.collinsaerospace.com
             logo: Collins_Aerospace_Logo
-            crunchbase: https://www.crunchbase.com/organization/collins-aerospace
       - subcategory:
         name: Turbines
         items: []
