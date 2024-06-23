@@ -774,7 +774,17 @@ landscape:
     subcategories:
       - subcategory:
         name: BESS
-        items: []
+        items:
+          - item:
+            name: Saft
+            homepage_url: http://www.saftbatteries.com
+            logo: Logo_Saft
+            crunchbase: https://www.crunchbase.com/organization/saft
+          - item:
+            name: Tesla Energy
+            homepage_url: http://www.tesla.com
+            logo: Tesla_Energy_Operations,_Inc._-_Logo
+            crunchbase: https://www.crunchbase.com/organization/tesla-motors
       - subcategory:
         name: Fuel Cells
         items:
@@ -838,6 +848,11 @@ landscape:
             homepage_url: http://www.primuspower.com
             logo: PrimusPower
             crunchbase: https://www.crunchbase.com/organization/primus-power
+          - item:
+            name: Sila Nanotechnologies
+            homepage_url: http://www.silanano.com
+            logo: sila-nanotechnologies-inc-logo-vector
+            crunchbase: https://www.crunchbase.com/organization/sila-nanotechnologies
       - subcategory:
         name: Power Distribution
         items:
