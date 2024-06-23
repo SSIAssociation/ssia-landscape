@@ -786,6 +786,11 @@ landscape:
             homepage_url: http://www.ambri.com
             logo: Ambri_logo
             crunchbase: https://www.crunchbase.com/organization/ambri
+          - item:
+            name: CMBlu
+            homepage_url: http://www.cmblu.com
+            logo: cmblu_logo
+            crunchbase: https://www.crunchbase.com/organization/cmblu-energy
       - subcategory:
         name: Micro-Grids
         items: []
@@ -808,7 +813,17 @@ landscape:
           - item:
       - subcategory:
         name: Sodium Batteries
-        items: []
+        items:
+          - item:
+            name: CATL
+            homepage_url: http://www.catlbattery.com
+            logo: catl_logo
+            crunchbase: https://www.crunchbase.com/organization/catl
       - subcategory:
         name: Storage
-        items: []
+        items:
+          - item:
+            name: Energy Vault
+            homepage_url: http://www.energyvault.com
+            logo: energy_vault_logo 1
+            crunchbase: https://www.crunchbase.com/organization/energy-vault-sa
