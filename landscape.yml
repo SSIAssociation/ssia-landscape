@@ -785,6 +785,11 @@ landscape:
             homepage_url: http://www.tesla.com
             logo: Tesla_Energy_Operations,_Inc._-_Logo
             crunchbase: https://www.crunchbase.com/organization/tesla-motors
+          - item:
+            name: Vertiv
+            homepage_url: http://www.vertiv.com
+            logo: Vertiv_logo
+            crunchbase: https://www.crunchbase.com/organization/vertiv
       - subcategory:
         name: Fuel Cells
         items:
@@ -853,10 +858,20 @@ landscape:
             homepage_url: http://www.silanano.com
             logo: sila-nanotechnologies-inc-logo-vector
             crunchbase: https://www.crunchbase.com/organization/sila-nanotechnologies
+          - item:
+            name: ZincFive
+            homepage_url: http://www.zincfive.com
+            logo: logo_dark-1
+            crunchbase: https://www.crunchbase.com/organization/zincfive
       - subcategory:
         name: Power Distribution
         items:
           - item:
+          - item:
+            name: OmniOn Power
+            homepage_url: https://omnionpower.com/
+            logo: OP_color
+            crunchbase: https://www.crunchbase.com/organization/abb-power/
       - subcategory:
         name: Sodium Batteries
         items:
