@@ -807,6 +807,11 @@ landscape:
             homepage_url: http://www.anordmardix.com
             logo: Anord-Mardix-Flex-Logo
             crunchbase: https://www.crunchbase.com/organization/anord-mardix
+          - item:
+            name: Enevate
+            homepage_url: http://www.enevate.com
+            logo: enevate_corporation_logo
+            crunchbase: https://www.crunchbase.com/organization/enevate
       - subcategory:
         name: Power Distribution
         items:
@@ -819,6 +824,11 @@ landscape:
             homepage_url: http://www.catlbattery.com
             logo: catl_logo
             crunchbase: https://www.crunchbase.com/organization/catl
+          - item:
+            name: Faradion
+            homepage_url: http://faradion.co.uk
+            logo: faradion_logo
+            crunchbase: https://www.crunchbase.com/organization/faradion
       - subcategory:
         name: Storage
         items:
