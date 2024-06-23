@@ -797,9 +797,24 @@ landscape:
             homepage_url: http://www.cmblu.com
             logo: cmblu_logo
             crunchbase: https://www.crunchbase.com/organization/cmblu-energy
+          - item:
+            name: NGK Insulators
+            homepage_url: http://www.ngk-insulators.com
+            logo: Ngk_logo
+            crunchbase: https://www.crunchbase.com/organization/ngk-insulators
+          - item:
+            name: Natron Energy
+            homepage_url: https://natron.energy/
+            logo: Natron
+            crunchbase: https://www.crunchbase.com/organization/alveo-energy
       - subcategory:
         name: Micro-Grids
-        items: []
+        items:
+          - item:
+            name: OneD Battery Sciences
+            homepage_url: http://onedbattery.com
+            logo: OneD_Battery_Sciences_Logo
+            crunchbase: https://www.crunchbase.com/organization/oned-battery-sciences
       - subcategory:
         name: Nickel-Zinc Batteries
         items:
@@ -818,6 +833,11 @@ landscape:
             homepage_url: http://www.enevate.com
             logo: enevate_corporation_logo
             crunchbase: https://www.crunchbase.com/organization/enevate
+          - item:
+            name: Primus Power
+            homepage_url: http://www.primuspower.com
+            logo: PrimusPower
+            crunchbase: https://www.crunchbase.com/organization/primus-power
       - subcategory:
         name: Power Distribution
         items:
