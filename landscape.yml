@@ -777,7 +777,13 @@ landscape:
         items: []
       - subcategory:
         name: Fuel Cells
-        items: []
+        items:
+          - item:
+            name: FuelCell Energy
+            homepage_url: https://www.fuelcellenergy.com/
+            repo_url: https://github.com/FuelCell-Energy
+            logo: fuelcellenergy-primary-logo-full-color-rgb
+            crunchbase: https://www.crunchbase.com/organization/fuelcell-energy-inc
       - subcategory:
         name: Liquid Metal
         items:
@@ -837,3 +843,11 @@ landscape:
             homepage_url: http://www.energyvault.com
             logo: energy_vault_logo 1
             crunchbase: https://www.crunchbase.com/organization/energy-vault-sa
+      - subcategory:
+        name: Silicon Batteries
+        items:
+          - item:
+            name: Group14
+            homepage_url: https://www.group14.technology/
+            repo_url: https://github.com/group14
+            crunchbase: https://www.crunchbase.com/organization/ghafari
