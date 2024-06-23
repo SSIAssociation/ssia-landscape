@@ -902,3 +902,27 @@ landscape:
             repo_url: https://github.com/group14
             logo: Group14_logo
             crunchbase: https://www.crunchbase.com/organization/ghafari
+  - category:
+    name: OEMs & ODMs
+    subcategories:
+      - subcategory:
+        name: Archives
+        items: []
+      - subcategory:
+        name: Chiplets
+        items: []
+      - subcategory:
+        name: Data Management
+        items: []
+      - subcategory:
+        name: Distributed Compute
+        items: []
+      - subcategory:
+        name: Distributed Disaggregated Chassis
+        items: []
+      - subcategory:
+        name: Energy Management
+        items: []
+      - subcategory:
+        name: Flash / SSDs
+        items: []
