@@ -804,7 +804,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/anord-mardix
       - subcategory:
         name: Power Distribution
-        items: []
+        items:
+          - item:
       - subcategory:
         name: Sodium Batteries
         items: []
