@@ -769,3 +769,30 @@ landscape:
             homepage_url: http://legendenergyadvisors.com
             logo: legendenergy_logo
             crunchbase: https://www.crunchbase.com/organization/legend-energy-advisors
+  - category:
+    name: Energy Storage
+    subcategories:
+      - subcategory:
+        name: BESS
+        items: []
+      - subcategory:
+        name: Fuel Cells
+        items: []
+      - subcategory:
+        name: Liquid Metal
+        items: []
+      - subcategory:
+        name: Micro-Grids
+        items: []
+      - subcategory:
+        name: Nickel-Zinc Batteries
+        items: []
+      - subcategory:
+        name: Power Distribution
+        items: []
+      - subcategory:
+        name: Sodium Batteries
+        items: []
+      - subcategory:
+        name: Storage
+        items: []
