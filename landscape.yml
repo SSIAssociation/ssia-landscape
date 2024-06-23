@@ -780,13 +780,28 @@ landscape:
         items: []
       - subcategory:
         name: Liquid Metal
-        items: []
+        items:
+          - item:
+            name: Ambri
+            homepage_url: http://www.ambri.com
+            logo: Ambri_logo
+            crunchbase: https://www.crunchbase.com/organization/ambri
       - subcategory:
         name: Micro-Grids
         items: []
       - subcategory:
         name: Nickel-Zinc Batteries
-        items: []
+        items:
+          - item:
+            name: Amprius
+            homepage_url: http://www.amprius.com
+            logo: amprius-logo
+            crunchbase: https://www.crunchbase.com/organization/amprius
+          - item:
+            name: Anord Mardix
+            homepage_url: http://www.anordmardix.com
+            logo: Anord-Mardix-Flex-Logo
+            crunchbase: https://www.crunchbase.com/organization/anord-mardix
       - subcategory:
         name: Power Distribution
         items: []
