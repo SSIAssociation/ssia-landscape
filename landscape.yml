@@ -796,9 +796,10 @@ landscape:
           - item:
             name: FuelCell Energy
             homepage_url: https://www.fuelcellenergy.com/
-            repo_url: https://github.com/FuelCell-Energy
             logo: fuelcellenergy-primary-logo-full-color-rgb
             crunchbase: https://www.crunchbase.com/organization/fuelcell-energy-inc
+            extra:
+              github_org: https://github.com/FuelCell-Energy
       - subcategory:
         name: Liquid Metal
         items:
@@ -898,9 +899,10 @@ landscape:
           - item:
             name: Group14
             homepage_url: https://www.group14.technology/
-            repo_url: https://github.com/group14
             logo: Group14_logo
             crunchbase: https://www.crunchbase.com/organization/ghafari
+            extra:
+              github_org: https://github.com/group14
   - category:
     name: OEMs & ODMs
     subcategories:
