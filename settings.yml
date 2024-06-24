@@ -12,8 +12,6 @@ global:
     fb_admin: alex.contini.94
     description: Filter and sort by GitHub stars, funding, commits, contributors, hq location, and tweets
     twitter: '@PROJECTTWITTER'
-    google_site_verification: null
-    ms_validate: null
   membership: SSIA Members
   flags:
     gray_large_items: true
@@ -70,7 +68,7 @@ home:
     on the same open source code.
   footer: |
     Crunchbase data is used under license from Crunchbase to CNCF.
-ads: null
+ads: []
 presets:
   - url: /format=card-mode&grouping=no&license=open-source&sort=first-commit
     label: Open source cards by age
@@ -172,10 +170,19 @@ big_picture:
         color: rgb(103,66,18)
         fit_width: true
         is_large: true
-
+      - type: HorizontalCategory
+        is_large: true
+        category: Energy Storage
+        rows: 6
+        width: 1200
+        height: 170
+        top: 1150
+        left: 0
+        color: rgb(103,66,18)
 test:
   header: SSI Alliance Interactive Landscape
   section: Non-SSIA Member Products/Projects
   logo: intel.svg
 prerender:
   members: /card-mode?category=open-mainframe-project-member-company&grouping=category&embed=yes&style=borderless
+export: {}

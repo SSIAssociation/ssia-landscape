@@ -626,3 +626,304 @@ landscape:
             logo: staubli.svg
             homepage_url: https://www.staubli.com
             crunchbase: https://www.crunchbase.com/organization/staubli
+  - category:
+    name: Power Generation
+    subcategories:
+      - subcategory:
+        name: Micro-Grids
+        items:
+          - item:
+            name: ABB
+            homepage_url: http://www.abb.com
+            logo: 768px-ABB_logo.svg
+            crunchbase: https://www.crunchbase.com/organization/abb
+          - item:
+            name: Eaton
+            homepage_url: http://www.eaton.com
+            logo: Eaton_Corporation_Logo
+            crunchbase: https://www.crunchbase.com/organization/eaton
+          - item:
+            name: Schneider Electric
+            homepage_url: http://www.se.com
+            logo: Schneider_Electric_2007
+            crunchbase: https://www.crunchbase.com/organization/schneider-electric
+      - subcategory:
+        name: Alternative Fuel Cells
+        items:
+          - item:
+            name: Green Plains
+            homepage_url: http://gpreinc.com
+            logo: greenplains_logo
+            crunchbase: https://www.crunchbase.com/organization/green-plains
+          - item:
+            name: Neste
+            homepage_url: http://www.neste.com
+            logo: Neste_logo
+            crunchbase: https://www.crunchbase.com/organization/neste
+      - subcategory:
+        name: Fuel Cells
+        items:
+          - item:
+            name: Ballard Power Systems
+            homepage_url: http://www.ballard.com
+            logo: Ballard_Power_Systems_logo
+            crunchbase: https://www.crunchbase.com/organization/ballard-power-systems
+          - item:
+            name: Bloom Energy
+            homepage_url: http://www.bloomenergy.com
+            logo: Bloom_Energy_logo
+            crunchbase: https://www.crunchbase.com/organization/bloom-energy
+          - item:
+            name: Plug Power
+            homepage_url: http://www.plugpower.com
+            logo: Plug_Power_Logo
+            crunchbase: https://www.crunchbase.com/organization/plug-power
+      - subcategory:
+        name: Generator Noise
+        items:
+          - item:
+            name: MetaSeismic
+            homepage_url: http://metaseismic.com
+            logo: metaseismic_logo
+            crunchbase: https://www.crunchbase.com/organization/metaseismic
+      - subcategory:
+        name: Generators
+        items:
+          - item:
+            name: Atlas Copco
+            homepage_url: http://www.atlascopcogroup.com
+            logo: Atlas-Copco-Logo.svg
+            crunchbase: https://www.crunchbase.com/organization/atlas-copco
+          - item:
+            name: Caterpillar
+            homepage_url: http://www.cat.com
+            logo: Caterpillar-shortened
+            crunchbase: https://www.crunchbase.com/organization/caterpillar-inc
+          - item:
+            name: Collins Aerospace
+            homepage_url: http://www.collinsaerospace.com
+            logo: Collins_Aerospace_Logo
+            crunchbase: https://www.crunchbase.com/organization/CollinsAerospace
+          - item:
+            name: GE
+            homepage_url: http://ge.com
+            logo: General_Electric_logo
+            crunchbase: https://www.crunchbase.com/organization/general-electric
+      - subcategory:
+        name: Turbines
+        items:
+          - item:
+            name: Kyoto Fusioneering
+            homepage_url: http://kyotofusioneering.com
+            logo: kyotofusionlogo
+            crunchbase: https://www.crunchbase.com/organization/kyoto-fusioneering
+          - item:
+            name: Mistubishi
+            homepage_url: http://www.mitsubishielectric.com
+            logo: Mitsubishi_Electric_logo
+            crunchbase: https://www.crunchbase.com/organization/mitsubishi
+      - subcategory:
+        name: Next-Gen Generators
+        items:
+          - item:
+            name: Mainspring Energy
+            homepage_url: https://www.mainspringenergy.com/
+            logo: Mainspring_Energy_Logo.svg
+            crunchbase: https://www.crunchbase.com/organization/etagen
+      - subcategory:
+        name: Nuclear / Geothermal
+        items:
+          - item:
+            name: Fervo
+            homepage_url: http://fervoenergy.com
+            logo: fervoenergy_logo
+            crunchbase: https://www.crunchbase.com/organization/fervo-energy
+          - item:
+            name: NuScale
+            homepage_url: http://www.nuscalepower.com
+            logo: nuscale-logo-sm
+            crunchbase: https://www.crunchbase.com/organization/nuscale-power
+          - item:
+            name: Terrestrial Energy
+            homepage_url: http://www.terrestrialenergy.com
+            logo: terrestrialenergy_logo
+            crunchbase: https://www.crunchbase.com/organization/terrestrial-energy
+          - item:
+            name: Westinghouse
+            homepage_url: http://www.westinghousenuclear.com
+            logo: Westinghouse_logo_and_wordmark
+            crunchbase: https://www.crunchbase.com/organization/westinghouse-electric-company
+      - subcategory:
+        name: Solid State Transformers
+        items:
+          - item:
+            name: Amperesand
+            homepage_url: https://amperesand.io/
+            logo: Amperesand_Logo_Wordmark_LightBackground(1)
+            crunchbase: https://www.crunchbase.com/organization/amperesand
+      - subcategory:
+        name: Voltage Stabilization
+        items:
+          - item:
+            name: Legend Energy Advisors
+            homepage_url: http://legendenergyadvisors.com
+            logo: legendenergy_logo
+            crunchbase: https://www.crunchbase.com/organization/legend-energy-advisors
+  - category:
+    name: Energy Storage
+    subcategories:
+      - subcategory:
+        name: BESS
+        items:
+          - item:
+            name: Saft
+            homepage_url: http://www.saftbatteries.com
+            logo: Logo_Saft
+            crunchbase: https://www.crunchbase.com/organization/saft
+          - item:
+            name: Tesla Energy
+            homepage_url: http://www.tesla.com
+            logo: Tesla_Energy_Operations,_Inc._-_Logo
+            crunchbase: https://www.crunchbase.com/organization/tesla-motors
+          - item:
+            name: Vertiv
+            homepage_url: http://www.vertiv.com
+            logo: Vertiv_logo
+            crunchbase: https://www.crunchbase.com/organization/vertiv
+      - subcategory:
+        name: Fuel Cells
+        items:
+          - item:
+            name: FuelCell Energy
+            homepage_url: https://www.fuelcellenergy.com/
+            logo: fuelcellenergy-primary-logo-full-color-rgb
+            crunchbase: https://www.crunchbase.com/organization/fuelcell-energy-inc
+            extra:
+              github_org: https://github.com/FuelCell-Energy
+      - subcategory:
+        name: Liquid Metal
+        items:
+          - item:
+            name: Ambri
+            homepage_url: http://www.ambri.com
+            logo: Ambri_logo
+            crunchbase: https://www.crunchbase.com/organization/ambri
+          - item:
+            name: CMBlu
+            homepage_url: http://www.cmblu.com
+            logo: cmblu_logo
+            crunchbase: https://www.crunchbase.com/organization/cmblu-energy-ag
+          - item:
+            name: NGK Insulators
+            homepage_url: http://www.ngk-insulators.com
+            logo: Ngk_logo
+            crunchbase: https://www.crunchbase.com/organization/ngk-insulators
+          - item:
+            name: Natron Energy
+            homepage_url: https://natron.energy/
+            logo: Natron
+            crunchbase: https://www.crunchbase.com/organization/alveo-energy
+      - subcategory:
+        name: Micro-Grids
+        items:
+          - item:
+            name: OneD Battery Sciences
+            homepage_url: http://onedbattery.com
+            logo: OneD_Battery_Sciences_Logo
+            crunchbase: https://www.crunchbase.com/organization/oned-battery-sciences
+      - subcategory:
+        name: Nickel-Zinc Batteries
+        items:
+          - item:
+            name: Amprius
+            homepage_url: http://www.amprius.com
+            logo: amprius-logo
+            crunchbase: https://www.crunchbase.com/organization/amprius
+          - item:
+            name: Anord Mardix
+            homepage_url: http://www.anordmardix.com
+            logo: Anord-Mardix-Flex-Logo
+            crunchbase: https://www.crunchbase.com/organization/anord-mardix
+          - item:
+            name: Enevate
+            homepage_url: http://www.enevate.com
+            logo: enevate_corporation_logo
+            crunchbase: https://www.crunchbase.com/organization/enevate
+          - item:
+            name: Primus Power
+            homepage_url: http://www.primuspower.com
+            logo: PrimusPower
+            crunchbase: https://www.crunchbase.com/organization/primus-power
+          - item:
+            name: Sila Nanotechnologies
+            homepage_url: http://www.silanano.com
+            logo: sila-nanotechnologies-inc-logo-vector
+            crunchbase: https://www.crunchbase.com/organization/sila-nanotechnologies
+          - item:
+            name: ZincFive
+            homepage_url: http://www.zincfive.com
+            logo: logo_dark-1
+            crunchbase: https://www.crunchbase.com/organization/zincfive
+      - subcategory:
+        name: Power Distribution
+        items:
+          - item:
+            name: OmniOn Power
+            homepage_url: https://omnionpower.com/
+            logo: OP_color
+            crunchbase: https://www.crunchbase.com/organization/abb-power
+      - subcategory:
+        name: Sodium Batteries
+        items:
+          - item:
+            name: CATL
+            homepage_url: http://www.catlbattery.com
+            logo: catl_logo
+            crunchbase: https://www.crunchbase.com/organization/contemporary-amperex-technology
+          - item:
+            name: Faradion
+            homepage_url: http://faradion.co.uk
+            logo: faradion_logo
+            crunchbase: https://www.crunchbase.com/organization/faradion
+      - subcategory:
+        name: Storage
+        items:
+          - item:
+            name: Energy Vault
+            homepage_url: http://www.energyvault.com
+            logo: energy_vault_logo 1
+            crunchbase: https://www.crunchbase.com/organization/energy-vault-sa
+      - subcategory:
+        name: Silicon Batteries
+        items:
+          - item:
+            name: Group14
+            homepage_url: https://www.group14.technology/
+            logo: Group14_logo
+            crunchbase: https://www.crunchbase.com/organization/ghafari
+            extra:
+              github_org: https://github.com/group14
+  - category:
+    name: OEMs & ODMs
+    subcategories:
+      - subcategory:
+        name: Archives
+        items: []
+      - subcategory:
+        name: Chiplets
+        items: []
+      - subcategory:
+        name: Data Management
+        items: []
+      - subcategory:
+        name: Distributed Compute
+        items: []
+      - subcategory:
+        name: Distributed Disaggregated Chassis
+        items: []
+      - subcategory:
+        name: Energy Management
+        items: []
+      - subcategory:
+        name: Flash / SSDs
+        items: []
