@@ -174,9 +174,9 @@ big_picture:
         is_large: true
         category: Energy Storage
         rows: 2
-        width: 400
+        width: 780
         height: 150
-        top: 1200
+        top: 1150
         left: 0
         color: rgb(103,66,18)
 test:
