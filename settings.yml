@@ -174,7 +174,7 @@ big_picture:
         is_large: true
         category: Energy Storage
         rows: 2
-        width: 780
+        width: 1200
         height: 150
         top: 1150
         left: 0
