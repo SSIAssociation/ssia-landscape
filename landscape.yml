@@ -867,7 +867,6 @@ landscape:
         name: Power Distribution
         items:
           - item:
-          - item:
             name: OmniOn Power
             homepage_url: https://omnionpower.com/
             logo: OP_color
