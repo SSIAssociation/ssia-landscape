@@ -173,9 +173,9 @@ big_picture:
       - type: HorizontalCategory
         is_large: true
         category: Energy Storage
-        rows: 2
+        rows: 6
         width: 1200
-        height: 150
+        height: 170
         top: 1150
         left: 0
         color: rgb(103,66,18)
