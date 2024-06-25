@@ -911,16 +911,73 @@ landscape:
         items: []
       - subcategory:
         name: Chiplets
-        items: []
+        items:
+          - item:
+            name: AMD
+            homepage_url: http://www.amd.com
+            project: null
+            repo_url: https://github.com/AMD
+            logo: AMD_Logo
+            crunchbase: https://www.crunchbase.com/organization/amd
+          - item:
+            name: Ampere
+            homepage_url: http://amperecomputing.com
+            repo_url: https://github.com/AmpereComputing
+            logo: ampere_computing_logo
+            crunchbase: https://www.crunchbase.com/organization/ampere-computing
       - subcategory:
         name: Data Management
-        items: []
+        items:
+          - item:
+            name: Arcitecta
+            homepage_url: http://www.arcitecta.com
+            logo: arcitecta-logo-255x200
+            crunchbase: https://www.crunchbase.com/organization/arcitecta
+          - item:
+            name: Cisco
+            homepage_url: http://www.cisco.com
+            repo_url: https://github.com/CiscoDevNet
+            logo: Cisco_logo_blue_2016
+            crunchbase: https://www.crunchbase.com/organization/cisco
+          - item:
+            name: Green Software Foundation
+            homepage_url: greensoftware.foundation
+            logo: GSF_logo_Logo
+            crunchbase: https://www.crunchbase.com/organization/ghafari
       - subcategory:
         name: Distributed Compute
-        items: []
+        items:
+          - item:
+            name: Cato
+            homepage_url: http://www.catonetworks.com
+            logo: cato-networks-logo-vector
+            crunchbase: https://www.crunchbase.com/organization/cato-networks
+          - item:
+            name: Databricks
+            homepage_url: http://databricks.com
+            repo_url: https://github.com/databricks
+            logo: databricks_logo_543
+            crunchbase: https://www.crunchbase.com/organization/databricks
+          - item:
+            name: Koyeb
+            homepage_url: http://koyeb.com
+            repo_url: https://github.com/koyeb
+            logo: koyeb_8179_logo_1646391597_vovez
+            crunchbase: https://www.crunchbase.com/organization/koyeb
       - subcategory:
         name: Distributed Disaggregated Chassis
-        items: []
+        items:
+          - item:
+            name: Credo
+            homepage_url: http://www.credosemi.com
+            logo: logo_credo
+            crunchbase: https://www.crunchbase.com/organization/credo-semiconductor
+          - item:
+            name: DriveNets
+            homepage_url: http://drivenets.com
+            repo_url: https://github.com/drivenets
+            logo: drivenets_logo
+            crunchbase: https://www.crunchbase.com/organization/dominion-energy
       - subcategory:
         name: Energy Management
         items: []
