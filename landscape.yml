@@ -925,6 +925,18 @@ landscape:
             repo_url: https://github.com/AmpereComputing
             logo: ampere_computing_logo
             crunchbase: https://www.crunchbase.com/organization/ampere-computing
+          - item:
+            name: Marvell
+            homepage_url: http://marvell.com
+            repo_url: https://github.com/MarvellEmbeddedProcessors
+            logo: marvell-logo
+            crunchbase: https://www.crunchbase.com/organization/marvell-semiconductor
+          - item:
+            name: Micron
+            homepage_url: http://micron.com
+            repo_url: https://github.com/micron
+            logo: micron-logo
+            crunchbase: https://www.crunchbase.com/organization/micron-technology
       - subcategory:
         name: Data Management
         items:
@@ -944,6 +956,17 @@ landscape:
             homepage_url: greensoftware.foundation
             logo: GSF_logo_Logo
             crunchbase: https://www.crunchbase.com/organization/ghafari
+          - item:
+            name: Open Data Institute
+            homepage_url: http://theodi.org
+            logo: ODI_wordmark_2013
+            crunchbase: https://www.crunchbase.com/organization/open-data-institute
+          - item:
+            name: Turso
+            homepage_url: http://www.turso.com
+            repo_url: https://github.com/tursodatabase
+            logo: turso-logo
+            crunchbase: https://www.crunchbase.com/organization/turso
       - subcategory:
         name: Distributed Compute
         items:
@@ -978,9 +1001,41 @@ landscape:
             repo_url: https://github.com/drivenets
             logo: drivenets_logo
             crunchbase: https://www.crunchbase.com/organization/dominion-energy
+          - item:
+            name: UfiSpace
+            homepage_url: http://www.ufispace.com
+            logo: Ufispace-logo
+            crunchbase: https://www.crunchbase.com/organization/ufispace
+          - item:
+            name: Weka
+            homepage_url: http://www.weka.io
+            logo: Weka-logo
+            crunchbase: https://www.crunchbase.com/organization/weka-io
       - subcategory:
         name: Energy Management
-        items: []
+        items:
+          - item:
+            name: RISC-V
+            homepage_url: http://www.risc-v.org/
+            repo_url: https://github.com/riscv
+            logo: RISC-V-logo
+            crunchbase: https://www.crunchbase.com/organization/risc-v
       - subcategory:
         name: Flash / SSDs
-        items: []
+        items:
+          - item:
+            name: NimbusData
+            homepage_url: http://www.nimbusdata.com
+            logo: nimbus-data-logo
+            crunchbase: https://www.crunchbase.com/organization/nimbus-data
+          - item:
+            name: Pure Storage
+            homepage_url: http://www.purestorage.com
+            repo_url: https://github.com/purestorage
+            logo: Pure-storage-vector-logo
+            crunchbase: https://www.crunchbase.com/organization/pure-storage
+          - item:
+            name: VAST Data
+            homepage_url: http://www.vastdata.com
+            logo: VAST-logo
+            crunchbase: https://www.crunchbase.com/organization/vast-data
