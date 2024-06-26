@@ -941,11 +941,6 @@ landscape:
             logo: arcitecta-logo-255x200
             crunchbase: https://www.crunchbase.com/organization/arcitecta
           - item:
-            name: Cisco
-            homepage_url: http://www.cisco.com
-            logo: Cisco_logo_blue_2016
-            crunchbase: https://www.crunchbase.com/organization/cisco
-          - item:
             name: Green Software Foundation
             homepage_url: greensoftware.foundation
             logo: GSF_logo_Logo
