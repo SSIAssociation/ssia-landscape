@@ -942,7 +942,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/arcitecta
           - item:
             name: Green Software Foundation
-            homepage_url: greensoftware.foundation
+            homepage_url: https://greensoftware.foundation/
             logo: GSF_logo_Logo
             crunchbase: https://www.crunchbase.com/organization/ghafari
           - item:
