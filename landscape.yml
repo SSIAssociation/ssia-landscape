@@ -990,7 +990,6 @@ landscape:
           - item:
             name: DriveNets
             homepage_url: http://drivenets.com
-            repo_url: https://github.com/drivenets
             logo: drivenets_logo
             crunchbase: https://www.crunchbase.com/organization/dominion-energy
           - item:
@@ -1009,7 +1008,6 @@ landscape:
           - item:
             name: RISC-V
             homepage_url: http://www.risc-v.org/
-            repo_url: https://github.com/riscv
             logo: RISC-V-logo
             crunchbase: https://www.crunchbase.com/organization/risc-v
       - subcategory:
@@ -1023,7 +1021,6 @@ landscape:
           - item:
             name: Pure Storage
             homepage_url: http://www.purestorage.com
-            repo_url: https://github.com/purestorage
             logo: Pure-storage-vector-logo
             crunchbase: https://www.crunchbase.com/organization/pure-storage
           - item:
