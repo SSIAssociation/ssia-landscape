@@ -1114,3 +1114,25 @@ landscape:
             homepage_url: http://liquidstack.com
             logo: liquid-stack-logo
             crunchbase: https://www.crunchbase.com/organization/liquidstack
+  - category:
+    name: Utilities
+    subcategories:
+      - subcategory:
+        name: Non-Profit
+        items: []
+      - subcategory:
+        name: Transmission
+        items:
+          - item:
+            name: Dominion Energy
+            homepage_url: http://www.dominionenergy.com
+            logo: Dominion_Energy_logo
+            crunchbase: https://www.crunchbase.com/organization/dominion-energy
+      - subcategory:
+        name: Renewable Power
+        items:
+          - item:
+            name: CenterPoint Energy
+            homepage_url: http://www.centerpointenergy.com
+            logo: CenterPoint_Energy_logo
+            crunchbase: https://www.crunchbase.com/organization/centerpoint-energy
