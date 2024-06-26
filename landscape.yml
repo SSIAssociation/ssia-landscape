@@ -1041,8 +1041,8 @@ landscape:
           - item:
             name: Motivair
             homepage_url: http://www.motivaircorp.com
-            logo: MotivairLogo
             crunchbase: https://www.crunchbase.com/organization/motivair
+            logo: motivair-logo
           - item:
             name: Rittal
             homepage_url: http://www.rittal.com
