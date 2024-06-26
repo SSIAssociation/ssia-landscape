@@ -1192,3 +1192,47 @@ landscape:
             homepage_url: http://www.woodplc.com
             logo: John_Wood_Group_logo
             crunchbase: https://www.crunchbase.com/organization/wood
+  - category:
+    name: Standards Bodies & Regulatory
+    subcategories:
+      - subcategory:
+        name: Government
+        items:
+          - item:
+            name: DARPA
+            homepage_url: https://www.darpa.mil
+            logo: DARPA_Logo
+            crunchbase: https://www.crunchbase.com/organization/darpa
+      - subcategory:
+        name: Industry Standards
+        items:
+          - item:
+            name: ASHRAE
+            homepage_url: http://www.ashrae.org
+            logo: ASHRAE_Logo
+            crunchbase: https://www.crunchbase.com/organization/ashrae
+          - item:
+            name: Uptime Institute
+            homepage_url: http://uptimeinstitute.com
+            logo: UptimeInsLogo
+            crunchbase: https://www.crunchbase.com/organization/the-uptime-institute
+          - item:
+            name: iMasons
+            homepage_url: https://climateaccord.org/
+            logo: imasonslogo
+            crunchbase: https://www.crunchbase.com/organization/infrastructure-masons
+          - item:
+            name: Open Compute Project
+            homepage_url: https://www.opencompute.org/
+            repo_url: https://github.com/opencomputeproject
+            logo: ocplogo
+            crunchbase: https://www.crunchbase.com/organization/open-compute-project-foundation
+      - subcategory:
+        name: Research
+        items:
+          - item:
+            name: NREL
+            homepage_url: http://www.nrel.gov
+            repo_url: https://github.com/NREL
+            logo: NREL logo
+            crunchbase: https://www.crunchbase.com/organization/national-renewable-energy-laboratory
