@@ -954,7 +954,7 @@ landscape:
             name: Turso
             homepage_url: http://www.turso.com
             logo: turso-logo
-            crunchbase: https://www.crunchbase.com/organization/turso
+            crunchbase: https://www.crunchbase.com/organization/chiselstrike
       - subcategory:
         name: Distributed Compute
         items:
@@ -1032,12 +1032,12 @@ landscape:
             name: Boyd
             homepage_url: http://www.boydcorp.com
             logo: Boyd_Corporation_logo
-            crunchbase: https://www.crunchbase.com/organization/boyd
+            crunchbase: https://www.crunchbase.com/organization/boyd-corp
           - item:
             name: Danfoss
             homepage_url: http://www.danfoss.com
             logo: Danfoss-Logo
-            crunchbase: https://www.crunchbase.com/organization/danfoss
+            crunchbase: https://www.crunchbase.com/organization/danfoss-e276
           - item:
             name: Motivair
             homepage_url: http://www.motivaircorp.com
@@ -1107,7 +1107,7 @@ landscape:
             name: The Green Grid
             homepage_url: http://www.thegreengrid.org
             logo: TGG_Color1024_1
-            crunchbase: https://www.crunchbase.com/organization/the-green-grid
+            crunchbase: https://www.crunchbase.com/organization/green-grid
       - subcategory:
         name: Transmission
         items:
@@ -1191,7 +1191,7 @@ landscape:
             name: ASHRAE
             homepage_url: http://www.ashrae.org
             logo: ASHRAE_Logo
-            crunchbase: https://www.crunchbase.com/organization/ashrae
+            crunchbase: https://www.crunchbase.com/organization/ashrae-2
           - item:
             name: Uptime Institute
             homepage_url: http://uptimeinstitute.com
