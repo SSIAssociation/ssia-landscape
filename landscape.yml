@@ -1039,3 +1039,78 @@ landscape:
             homepage_url: http://www.vastdata.com
             logo: VAST-logo
             crunchbase: https://www.crunchbase.com/organization/vast-data
+  - category:
+    name: Server & Rack Cooling
+    subcategories:
+      - subcategory:
+        name: Door Heat Exchanger
+        items:
+          - item:
+            name: Boyd
+            homepage_url: http://www.boydcorp.com
+            logo: Boyd_Corporation_logo
+            crunchbase: https://www.crunchbase.com/organization/boyd
+          - item:
+            name: Danfoss
+            homepage_url: http://www.danfoss.com
+            logo: Danfoss-Logo
+            crunchbase: https://www.crunchbase.com/organization/danfoss
+          - item:
+            name: Motivair
+            homepage_url: http://www.motivaircorp.com
+            logo: MotivairLogo
+            crunchbase: https://www.crunchbase.com/organization/motivair
+          - item:
+            name: Rittal
+            homepage_url: http://www.rittal.com
+            logo: Rittal-Logo_2010
+            crunchbase: https://www.crunchbase.com/organization/rittal
+      - subcategory:
+        name: Cold Plate
+        items:
+          - item:
+            name: Chilldyne
+            homepage_url: http://www.chilldyne.com
+            logo: chilldyne-inc
+            crunchbase: https://www.crunchbase.com/organization/chilldyne
+          - item:
+            name: CoolIT
+            homepage_url: http://www.coolitsystems.com
+            logo: coolIT_logo_pic
+            crunchbase: https://www.crunchbase.com/organization/coolit-systems
+          - item:
+            name: Zutacore
+            homepage_url: http://www.zutacore.com
+            logo: Zutacore Logo White Update
+            crunchbase: https://www.crunchbase.com/organization/zutacore
+      - subcategory:
+        name: Immersion
+        items:
+          - item:
+            name: DCX
+            homepage_url: http://www.dcx.co.uk
+            logo: DCXlogo
+            crunchbase: https://www.crunchbase.com/organization/dcx
+          - item:
+            name: Green Revolution Cooling
+            homepage_url: http://grcooling.com
+            logo: GRClogo
+            crunchbase: https://www.crunchbase.com/organization/green-revolution-cooling
+          - item:
+            name: Iceotope
+            homepage_url: https://www.iceotope.com/
+            logo: iceotopelogo
+            crunchbase: https://www.crunchbase.com/organization/iceotope
+          - item:
+            name: Submer
+            homepage_url: http://www.submer.com
+            logo: SubmerLogo
+            crunchbase: https://www.crunchbase.com/organization/submer
+      - subcategory:
+        name: Edge
+        items:
+          - item:
+            name: LiquidStack
+            homepage_url: http://liquidstack.com
+            logo: liquid-stack-logo
+            crunchbase: https://www.crunchbase.com/organization/liquidstack
