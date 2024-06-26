@@ -1156,3 +1156,39 @@ landscape:
             homepage_url: http://www.pge.com
             logo: Pacific_Gas_and_Electric_Company_(logo)
             crunchbase: https://www.crunchbase.com/organization/pacific-gas-and-electric-company
+  - category:
+    name: Engineering & Consulting Firms
+    subcategories:
+      - subcategory:
+        name: Data Centers
+        items:
+          - item:
+            name: AECOM
+            homepage_url: http://aecom.com
+            repo_url: https://github.com/AECOM
+            logo: AECOM_logo
+            crunchbase: https://www.crunchbase.com/organization/aecom
+          - item:
+            name: Burns & McDonnell
+            homepage_url: http://www.burnsmcd.com
+            logo: burns-and-mcdonnell-logo-vector
+            crunchbase: https://www.crunchbase.com/organization/burns-mcdonnell
+      - subcategory:
+        name: Semiconductor Fabs
+        items:
+          - item:
+            name: Exyte
+            homepage_url: https://exyte.com/
+            repo_url: https://github.com/exyte
+            logo: Exyte_RGB
+            crunchbase: https://www.crunchbase.com/organization/exyte
+          - item:
+            name: Ghafari Associates
+            homepage_url: http://ghafari.com
+            logo: GhafariLogo
+            crunchbase: https://www.crunchbase.com/organization/ghafari-associates
+          - item:
+            name: Wood Plc
+            homepage_url: http://www.woodplc.com
+            logo: John_Wood_Group_logo
+            crunchbase: https://www.crunchbase.com/organization/wood
