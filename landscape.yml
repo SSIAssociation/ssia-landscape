@@ -916,25 +916,21 @@ landscape:
             name: AMD
             homepage_url: http://www.amd.com
             project: null
-            repo_url: https://github.com/AMD
             logo: AMD_Logo
             crunchbase: https://www.crunchbase.com/organization/amd
           - item:
             name: Ampere
             homepage_url: http://amperecomputing.com
-            repo_url: https://github.com/AmpereComputing
             logo: ampere_computing_logo
             crunchbase: https://www.crunchbase.com/organization/ampere-computing
           - item:
             name: Marvell
             homepage_url: http://marvell.com
-            repo_url: https://github.com/MarvellEmbeddedProcessors
             logo: marvell-logo
             crunchbase: https://www.crunchbase.com/organization/marvell-semiconductor
           - item:
             name: Micron
             homepage_url: http://micron.com
-            repo_url: https://github.com/micron
             logo: micron-logo
             crunchbase: https://www.crunchbase.com/organization/micron-technology
       - subcategory:
