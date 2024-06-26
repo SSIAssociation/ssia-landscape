@@ -1236,3 +1236,19 @@ landscape:
             repo_url: https://github.com/NREL
             logo: NREL logo
             crunchbase: https://www.crunchbase.com/organization/national-renewable-energy-laboratory
+  - category:
+    name: Measurement, Observability and Asset Management
+    subcategories:
+      - subcategory:
+        name: Analog Sensors
+        items:
+          - item:
+            name: Argodesign
+            homepage_url: http://argodesign.com
+            logo: argodesign_logo
+            crunchbase: https://www.crunchbase.com/organization/argodesign
+          - item:
+            name: Aspinity
+            homepage_url: http://aspinity.com
+            logo: Aspinity_high_res_gray_logo
+            crunchbase: https://www.crunchbase.com/organization/aspinity
