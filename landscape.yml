@@ -1154,7 +1154,6 @@ landscape:
           - item:
             name: AECOM
             homepage_url: http://aecom.com
-            repo_url: https://github.com/AECOM
             logo: AECOM_logo
             crunchbase: https://www.crunchbase.com/organization/aecom
           - item:
@@ -1168,7 +1167,6 @@ landscape:
           - item:
             name: Exyte
             homepage_url: https://exyte.com/
-            repo_url: https://github.com/exyte
             logo: Exyte_RGB
             crunchbase: https://www.crunchbase.com/organization/exyte
           - item:
@@ -1213,7 +1211,6 @@ landscape:
           - item:
             name: Open Compute Project
             homepage_url: https://www.opencompute.org/
-            repo_url: https://github.com/opencomputeproject
             logo: ocplogo
             crunchbase: https://www.crunchbase.com/organization/open-compute-project-foundation
       - subcategory:
@@ -1222,7 +1219,6 @@ landscape:
           - item:
             name: NREL
             homepage_url: http://www.nrel.gov
-            repo_url: https://github.com/NREL
             logo: NREL logo
             crunchbase: https://www.crunchbase.com/organization/national-renewable-energy-laboratory
   - category:
