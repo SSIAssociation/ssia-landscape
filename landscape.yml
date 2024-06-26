@@ -1119,7 +1119,12 @@ landscape:
     subcategories:
       - subcategory:
         name: Non-Profit
-        items: []
+        items:
+          - item:
+            name: The Green Grid
+            homepage_url: http://www.thegreengrid.org
+            logo: TGG_Color1024_1
+            crunchbase: https://www.crunchbase.com/organization/the-green-grid
       - subcategory:
         name: Transmission
         items:
@@ -1128,6 +1133,16 @@ landscape:
             homepage_url: http://www.dominionenergy.com
             logo: Dominion_Energy_logo
             crunchbase: https://www.crunchbase.com/organization/dominion-energy
+          - item:
+            name: NextEra
+            homepage_url: http://www.nexteraenergy.com
+            logo: NextEra_Energy_logo_(1)
+            crunchbase: https://www.crunchbase.com/organization/nextera-enterprises-inc
+          - item:
+            name: Transource
+            homepage_url: http://www.transource.com
+            logo: transourcelogo
+            crunchbase: https://www.crunchbase.com/organization/transource
       - subcategory:
         name: Renewable Power
         items:
@@ -1136,3 +1151,8 @@ landscape:
             homepage_url: http://www.centerpointenergy.com
             logo: CenterPoint_Energy_logo
             crunchbase: https://www.crunchbase.com/organization/centerpoint-energy
+          - item:
+            name: PG&E
+            homepage_url: http://www.pge.com
+            logo: Pacific_Gas_and_Electric_Company_(logo)
+            crunchbase: https://www.crunchbase.com/organization/pacific-gas-and-electric-company
