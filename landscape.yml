@@ -944,7 +944,6 @@ landscape:
           - item:
             name: Cisco
             homepage_url: http://www.cisco.com
-            repo_url: https://github.com/CiscoDevNet
             logo: Cisco_logo_blue_2016
             crunchbase: https://www.crunchbase.com/organization/cisco
           - item:
@@ -960,7 +959,6 @@ landscape:
           - item:
             name: Turso
             homepage_url: http://www.turso.com
-            repo_url: https://github.com/tursodatabase
             logo: turso-logo
             crunchbase: https://www.crunchbase.com/organization/turso
       - subcategory:
@@ -974,13 +972,11 @@ landscape:
           - item:
             name: Databricks
             homepage_url: http://databricks.com
-            repo_url: https://github.com/databricks
             logo: databricks_logo_543
             crunchbase: https://www.crunchbase.com/organization/databricks
           - item:
             name: Koyeb
             homepage_url: http://koyeb.com
-            repo_url: https://github.com/koyeb
             logo: koyeb_8179_logo_1646391597_vovez
             crunchbase: https://www.crunchbase.com/organization/koyeb
       - subcategory:
