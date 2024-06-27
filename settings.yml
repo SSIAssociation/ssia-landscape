@@ -197,6 +197,15 @@ big_picture:
         top: 1550
         left: 0
         color: rgb(103,66,18)
+      - type: HorizontalCategory
+        is_large: true
+        category: Server & Rack Cooling
+        rows: 6
+        width: 800
+        height: 170
+        top: 1750
+        left: 0
+        color: rgb(103,66,18)
 test:
   header: SSI Alliance Interactive Landscape
   section: Non-SSIA Member Products/Projects
