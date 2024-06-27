@@ -1098,7 +1098,7 @@ landscape:
             logo: liquid-stack-logo
             crunchbase: https://www.crunchbase.com/organization/liquidstack
   - category:
-    name: Utilities
+    name: Utilities & Grids
     subcategories:
       - subcategory:
         name: Non-Profit
@@ -1174,7 +1174,7 @@ landscape:
             logo: John_Wood_Group_logo
             crunchbase: https://www.crunchbase.com/organization/wood
   - category:
-    name: Standards Bodies & Regulatory
+    name: Standards Bodies & Regulators
     subcategories:
       - subcategory:
         name: Government
