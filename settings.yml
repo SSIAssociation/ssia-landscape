@@ -235,7 +235,7 @@ big_picture:
         color: rgb(103,66,18)
       - type: HorizontalCategory
         is_large: true
-        category: Measurement & Observability
+        category: Measurement, Observability and Asset Management
         rows: 6
         width: 400
         height: 170
