@@ -210,7 +210,7 @@ big_picture:
         is_large: true
         category: Utilities & Grids
         rows: 6
-        width: 800
+        width: 400
         height: 170
         top: 1950
         left: 0
@@ -219,7 +219,7 @@ big_picture:
         is_large: true
         category: Engineering & Consulting Firms
         rows: 6
-        width: 800
+        width: 400
         height: 170
         top: 2150
         left: 0
@@ -231,6 +231,15 @@ big_picture:
         width: 400
         height: 170
         top: 2350
+        left: 0
+        color: rgb(103,66,18)
+      - type: HorizontalCategory
+        is_large: true
+        category: Measurement & Observability
+        rows: 6
+        width: 400
+        height: 170
+        top: 2550
         left: 0
         color: rgb(103,66,18)
 test:
