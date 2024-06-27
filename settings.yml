@@ -188,6 +188,15 @@ big_picture:
         top: 1350
         left: 0
         color: rgb(103,66,18)
+      - type: HorizontalCategory
+        is_large: true
+        category: OEMs & ODMs
+        rows: 6
+        width: 1200
+        height: 170
+        top: 1550
+        left: 0
+        color: rgb(103,66,18)
 test:
   header: SSI Alliance Interactive Landscape
   section: Non-SSIA Member Products/Projects
