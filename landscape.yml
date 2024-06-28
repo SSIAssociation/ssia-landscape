@@ -49,14 +49,6 @@ landscape:
         name: Ethernet
         items:
           - item:
-            name: Cisco
-            second_path: Data Transfer / Optics
-            homepage_url: https://cisco.com/
-            logo: cisco.svg
-            crunchbase: https://www.crunchbase.com/organization/cisco
-            extra:
-              github.org: https://github.com/CiscoDevNet
-          - item:
             name: Arista
             homepage_url: https://www.arista.com
             logo: arista.svg
@@ -73,6 +65,13 @@ landscape:
       - subcategory:
         name: Optics
         items:
+          - item:
+            name: Cisco
+            homepage_url: https://cisco.com/
+            logo: cisco.svg
+            crunchbase: https://www.crunchbase.com/organization/cisco
+            extra:
+              github.org: https://github.com/CiscoDevNet
           - item:
             name: Broadcom
             second_path: Data Transfer / Ethernet
@@ -911,19 +910,324 @@ landscape:
         items: []
       - subcategory:
         name: Chiplets
-        items: []
+        items:
+          - item:
+            name: AMD
+            homepage_url: http://www.amd.com
+            project: null
+            logo: AMD_Logo
+            crunchbase: https://www.crunchbase.com/organization/amd
+          - item:
+            name: Ampere
+            homepage_url: http://amperecomputing.com
+            logo: ampere_computing_logo
+            crunchbase: https://www.crunchbase.com/organization/ampere-computing
+          - item:
+            name: Marvell
+            homepage_url: http://marvell.com
+            logo: marvell-logo
+            crunchbase: https://www.crunchbase.com/organization/marvell-semiconductor
+          - item:
+            name: Micron
+            homepage_url: http://micron.com
+            logo: micron-logo
+            crunchbase: https://www.crunchbase.com/organization/micron-technology
       - subcategory:
         name: Data Management
-        items: []
+        items:
+          - item:
+            name: Arcitecta
+            homepage_url: http://www.arcitecta.com
+            logo: arcitecta-logo-255x200
+            crunchbase: https://www.crunchbase.com/organization/arcitecta
+          - item:
+            name: Green Software Foundation
+            homepage_url: https://greensoftware.foundation/
+            logo: GSF_logo_Logo
+            crunchbase: https://www.crunchbase.com/organization/ghafari
+          - item:
+            name: Open Data Institute
+            homepage_url: http://theodi.org
+            logo: ODI_wordmark_2013
+            crunchbase: https://www.crunchbase.com/organization/open-data-institute
+          - item:
+            name: Turso
+            homepage_url: http://www.turso.com
+            logo: turso-logo
+            crunchbase: https://www.crunchbase.com/organization/chiselstrike
       - subcategory:
         name: Distributed Compute
-        items: []
+        items:
+          - item:
+            name: Cato
+            homepage_url: http://www.catonetworks.com
+            logo: cato-networks-logo-vector
+            crunchbase: https://www.crunchbase.com/organization/cato-networks
+          - item:
+            name: Databricks
+            homepage_url: http://databricks.com
+            logo: databricks_logo_543
+            crunchbase: https://www.crunchbase.com/organization/databricks
+          - item:
+            name: Koyeb
+            homepage_url: http://koyeb.com
+            logo: koyeb_8179_logo_1646391597_vovez
+            crunchbase: https://www.crunchbase.com/organization/koyeb
       - subcategory:
         name: Distributed Disaggregated Chassis
-        items: []
+        items:
+          - item:
+            name: Credo
+            homepage_url: http://www.credosemi.com
+            logo: logo_credo
+            crunchbase: https://www.crunchbase.com/organization/credo-semiconductor
+          - item:
+            name: DriveNets
+            homepage_url: http://drivenets.com
+            logo: drivenets_logo
+            crunchbase: https://www.crunchbase.com/organization/dominion-energy
+          - item:
+            name: UfiSpace
+            homepage_url: http://www.ufispace.com
+            logo: Ufispace-logo
+            crunchbase: https://www.crunchbase.com/organization/ufispace
+          - item:
+            name: Weka
+            homepage_url: http://www.weka.io
+            logo: Weka-logo
+            crunchbase: https://www.crunchbase.com/organization/weka-io
       - subcategory:
         name: Energy Management
-        items: []
+        items:
+          - item:
+            name: RISC-V
+            homepage_url: http://www.risc-v.org/
+            logo: RISC-V-logo
+            crunchbase: https://www.crunchbase.com/organization/risc-v
       - subcategory:
         name: Flash / SSDs
-        items: []
+        items:
+          - item:
+            name: NimbusData
+            homepage_url: http://www.nimbusdata.com
+            logo: nimbus-data-logo
+            crunchbase: https://www.crunchbase.com/organization/nimbus-data
+          - item:
+            name: Pure Storage
+            homepage_url: http://www.purestorage.com
+            logo: Pure-storage-vector-logo
+            crunchbase: https://www.crunchbase.com/organization/pure-storage
+          - item:
+            name: VAST Data
+            homepage_url: http://www.vastdata.com
+            logo: VAST-logo
+            crunchbase: https://www.crunchbase.com/organization/vast-data
+  - category:
+    name: Server & Rack Cooling
+    subcategories:
+      - subcategory:
+        name: Door Heat Exchanger
+        items:
+          - item:
+            name: Boyd
+            homepage_url: http://www.boydcorp.com
+            logo: Boyd_Corporation_logo
+            crunchbase: https://www.crunchbase.com/organization/boyd-corp
+          - item:
+            name: Danfoss
+            homepage_url: http://www.danfoss.com
+            logo: Danfoss-Logo
+            crunchbase: https://www.crunchbase.com/organization/danfoss-e276
+          - item:
+            name: Motivair
+            homepage_url: http://www.motivaircorp.com
+            crunchbase: https://www.crunchbase.com/organization/motivair
+            logo: motivair-logo
+          - item:
+            name: Rittal
+            homepage_url: http://www.rittal.com
+            logo: Rittal-Logo_2010
+            crunchbase: https://www.crunchbase.com/organization/rittal
+      - subcategory:
+        name: Cold Plate
+        items:
+          - item:
+            name: Chilldyne
+            homepage_url: http://www.chilldyne.com
+            logo: chilldyne-inc
+            crunchbase: https://www.crunchbase.com/organization/chilldyne
+          - item:
+            name: CoolIT
+            homepage_url: http://www.coolitsystems.com
+            logo: coolIT_logo_pic
+            crunchbase: https://www.crunchbase.com/organization/coolit-systems
+          - item:
+            name: Zutacore
+            homepage_url: http://www.zutacore.com
+            logo: Zutacore Logo White Update
+            crunchbase: https://www.crunchbase.com/organization/zutacore
+      - subcategory:
+        name: Immersion
+        items:
+          - item:
+            name: DCX
+            homepage_url: http://www.dcx.co.uk
+            logo: DCXlogo
+            crunchbase: https://www.crunchbase.com/organization/dcx
+          - item:
+            name: Green Revolution Cooling
+            homepage_url: http://grcooling.com
+            logo: GRClogo
+            crunchbase: https://www.crunchbase.com/organization/green-revolution-cooling
+          - item:
+            name: Iceotope
+            homepage_url: https://www.iceotope.com/
+            logo: iceotopelogo
+            crunchbase: https://www.crunchbase.com/organization/iceotope
+          - item:
+            name: Submer
+            homepage_url: http://www.submer.com
+            logo: SubmerLogo
+            crunchbase: https://www.crunchbase.com/organization/submer
+      - subcategory:
+        name: Edge
+        items:
+          - item:
+            name: LiquidStack
+            homepage_url: http://liquidstack.com
+            logo: liquid-stack-logo
+            crunchbase: https://www.crunchbase.com/organization/liquidstack
+  - category:
+    name: Utilities & Grids
+    subcategories:
+      - subcategory:
+        name: Non-Profit
+        items:
+          - item:
+            name: The Green Grid
+            homepage_url: http://www.thegreengrid.org
+            logo: TGG_Color1024_1
+            crunchbase: https://www.crunchbase.com/organization/green-grid
+      - subcategory:
+        name: Transmission
+        items:
+          - item:
+            name: Dominion Energy
+            homepage_url: http://www.dominionenergy.com
+            logo: Dominion_Energy_logo
+            crunchbase: https://www.crunchbase.com/organization/dominion-energy
+          - item:
+            name: NextEra
+            homepage_url: http://www.nexteraenergy.com
+            logo: NextEra_Energy_logo_(1)
+            crunchbase: https://www.crunchbase.com/organization/nextera-enterprises-inc
+          - item:
+            name: Transource
+            homepage_url: http://www.transource.com
+            logo: transourcelogo
+            crunchbase: https://www.crunchbase.com/organization/transource
+      - subcategory:
+        name: Renewable Power
+        items:
+          - item:
+            name: CenterPoint Energy
+            homepage_url: http://www.centerpointenergy.com
+            logo: CenterPoint_Energy_logo
+            crunchbase: https://www.crunchbase.com/organization/centerpoint-energy
+          - item:
+            name: PG&E
+            homepage_url: http://www.pge.com
+            logo: Pacific_Gas_and_Electric_Company_(logo)
+            crunchbase: https://www.crunchbase.com/organization/pacific-gas-and-electric-company
+  - category:
+    name: Engineering & Consulting Firms
+    subcategories:
+      - subcategory:
+        name: Data Centers
+        items:
+          - item:
+            name: AECOM
+            homepage_url: http://aecom.com
+            logo: AECOM_logo
+            crunchbase: https://www.crunchbase.com/organization/aecom
+          - item:
+            name: Burns & McDonnell
+            homepage_url: http://www.burnsmcd.com
+            logo: burns-and-mcdonnell-logo-vector
+            crunchbase: https://www.crunchbase.com/organization/burns-mcdonnell
+      - subcategory:
+        name: Semiconductor Fabs
+        items:
+          - item:
+            name: Exyte
+            homepage_url: https://exyte.com/
+            logo: Exyte_RGB
+            crunchbase: https://www.crunchbase.com/organization/exyte
+          - item:
+            name: Ghafari Associates
+            homepage_url: http://ghafari.com
+            logo: GhafariLogo
+            crunchbase: https://www.crunchbase.com/organization/ghafari-associates
+          - item:
+            name: Wood Plc
+            homepage_url: http://www.woodplc.com
+            logo: John_Wood_Group_logo
+            crunchbase: https://www.crunchbase.com/organization/wood
+  - category:
+    name: Standards Bodies & Regulators
+    subcategories:
+      - subcategory:
+        name: Government
+        items:
+          - item:
+            name: DARPA
+            homepage_url: https://www.darpa.mil
+            logo: DARPA_Logo
+            crunchbase: https://www.crunchbase.com/organization/darpa
+      - subcategory:
+        name: Industry Standards
+        items:
+          - item:
+            name: ASHRAE
+            homepage_url: http://www.ashrae.org
+            logo: ASHRAE_Logo
+            crunchbase: https://www.crunchbase.com/organization/ashrae-2
+          - item:
+            name: Uptime Institute
+            homepage_url: http://uptimeinstitute.com
+            logo: UptimeInsLogo
+            crunchbase: https://www.crunchbase.com/organization/the-uptime-institute
+          - item:
+            name: iMasons
+            homepage_url: https://climateaccord.org/
+            logo: imasonslogo
+            crunchbase: https://www.crunchbase.com/organization/infrastructure-masons
+          - item:
+            name: Open Compute Project
+            homepage_url: https://www.opencompute.org/
+            logo: ocplogo
+            crunchbase: https://www.crunchbase.com/organization/open-compute-project-foundation
+      - subcategory:
+        name: Research
+        items:
+          - item:
+            name: NREL
+            homepage_url: http://www.nrel.gov
+            logo: NREL logo
+            crunchbase: https://www.crunchbase.com/organization/national-renewable-energy-laboratory
+  - category:
+    name: Measurement, Observability and Asset Management
+    subcategories:
+      - subcategory:
+        name: Analog Sensors
+        items:
+          - item:
+            name: Argodesign
+            homepage_url: http://argodesign.com
+            logo: argodesign_logo
+            crunchbase: https://www.crunchbase.com/organization/argodesign
+          - item:
+            name: Aspinity
+            homepage_url: http://aspinity.com
+            logo: Aspinity_high_res_gray_logo
+            crunchbase: https://www.crunchbase.com/organization/aspinity
