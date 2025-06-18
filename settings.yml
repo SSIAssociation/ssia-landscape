@@ -1,7 +1,7 @@
 global:
   name: SSI Alliance Interactive Landscape
   short_name: SSI-Alliance
-  repo: SSIAssociation/landscape-template
+  repo: SSIAssociation/ssia-landscape
   website: https://landscape.ssia.org
   short_domain: l.landscape.ssia.org
   company_url: https://www.ssia.org
